@@ -1,5 +1,4 @@
-WORDPRESS BOOTSTRAP
-===================
+WORDPRESS Surfrider Ericeira ===================
 
 Twitter's bootstrap (http://twitter.github.com/bootstrap) in Wordpress theme form. Using Eddie Machado's Bones for a starting point (https://github.com/eddiemachado/bones). 
 
