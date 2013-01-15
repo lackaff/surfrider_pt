@@ -1,13 +1,18 @@
 Surfrider Ericeira Wordpress Theme
 ==================================
 
+Instructions
+------------
+
+Copy all files to the themes/surfrider directory, then use the Wordpress admin panel to create pages named as follows.
+
 Static Pages
 ------------
 
 The following pages must be created in Wordpress for the site to function correctly:
 
-Front page
-About
+*Front page
+*About
 
 Credits
 -------
