@@ -178,12 +178,48 @@ Template Name: About
 		</div>
 			<div id="collapseTwo" class="accordion-body collapse">
 				<div class="accordion-inner">
-					<ul>
-						<li>Richard O'Sullivan</li>
-						<li>other person</li>
-						<li>another person</li>
-					</ul>
-				
+					<div id="content" class="clearfix row-fluid">
+			
+				<div id="main" class="span12 clearfix" role="main">
+
+					<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+					
+					<article id="post-<?php the_ID(); ?>" <?php post_class('clearfix'); ?> role="article">
+						
+					
+						<section class="post_content">
+							<?php the_content(); ?>
+					
+						</section> <!-- end article section -->
+						
+						
+					
+					</article> <!-- end article -->
+					
+					
+					
+					<?php endwhile; ?>	
+					
+					<?php else : ?>
+					
+					<article id="post-not-found">
+					    <header>
+					    	<h1><?php _e("Not Found", "bonestheme"); ?></h1>
+					    </header>
+					    <section class="post_content">
+					    	<p><?php _e("Sorry, but the requested resource was not found on this site.", "bonestheme"); ?></p>
+					    </section>
+					    <footer>
+					    </footer>
+					</article>
+					
+					<?php endif; ?>
+			
+				</div> <!-- end #main -->
+    
+				<?php //get_sidebar(); // sidebar 1 ?>
+    
+			</div> <!-- end #content -->
 				</div>
 			</div>
 		</div>
@@ -294,7 +330,9 @@ Our Staff
 </div>
 <div id="collapseTwo5" class="accordion-body collapse">
 <div class="accordion-inner">
+  
    <img src="<?php echo get_template_directory_uri(); ?>/img/corecircle.png" class="span2">
+   <h2>Core Members</h2>
 						<div class="row">	
 					<img src="<?php echo get_template_directory_uri(); ?>/img/richard.png" id="corepic">
 					<span id="membername">Richard O'Sullivan - Responsible</span>
@@ -346,14 +384,50 @@ Our Staff
 	
 						</ul>
 						</div>
+ <h2> Representatives</h2>
+ <p>organized by beach</p>
+		<div id="content" class="clearfix row-fluid">
+			
+				<div id="main" class="span12 clearfix" role="main">
 
-		
-
-					<ul>
-						<li>Richard O'Sullivan</li>
-						<li>other person</li>
-						<li>another person</li>
-					</ul>
+					<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+					
+					<article id="post-<?php the_ID(); ?>" <?php post_class('clearfix'); ?> role="article">
+						
+					
+						<section class="post_content">
+							<?php the_content(); ?>
+					
+						</section> <!-- end article section -->
+						
+						
+					
+					</article> <!-- end article -->
+					
+					
+					
+					<?php endwhile; ?>	
+					
+					<?php else : ?>
+					
+					<article id="post-not-found">
+					    <header>
+					    	<h1><?php _e("Not Found", "bonestheme"); ?></h1>
+					    </header>
+					    <section class="post_content">
+					    	<p><?php _e("Sorry, but the requested resource was not found on this site.", "bonestheme"); ?></p>
+					    </section>
+					    <footer>
+					    </footer>
+					</article>
+					
+					<?php endif; ?>
+			
+				</div> <!-- end #main -->
+    
+				<?php //get_sidebar(); // sidebar 1 ?>
+    
+			</div> <!-- end #content -->
 				 </div>
 </div>
 </div>

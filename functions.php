@@ -374,15 +374,14 @@ function add_class_attachment_link($html){
 }
 add_filter('wp_get_attachment_link','add_class_attachment_link',10,1);
 
-// Add lead class to first paragraph
+// Add lead class to first paragraph - modified for surfrider to remove lead class from the first paragraph 
 function first_paragraph($content){
     global $post;
 
     // if we're on the homepage, don't add the lead class to the first paragraph of text
-    if( is_page_template( 'page-homepage.php' ) )
+   
         return $content;
-    else
-        return preg_replace('/<p([^>]+)?>/', '<p$1 class="lead">', $content, 1);
+    
 }
 add_filter('the_content', 'first_paragraph');
 
@@ -487,7 +486,7 @@ function theme_js(){
 
   wp_register_script('bootstrap', get_template_directory_uri().'/library/js/bootstrap.min.js');
   // wp_register_script('bootstrap-button', get_template_directory_uri().'/library/js/bootstrap-button.js');
-  // wp_register_script('bootstrap-carousel', get_template_directory_uri().'/library/js/bootstrap-carousel.js');
+  wp_register_script('bootstrap-carousel', get_template_directory_uri().'/library/js/bootstrap-carousel.js');
   // wp_register_script('bootstrap-collapse', get_template_directory_uri().'/library/js/bootstrap-collapse.js');
   // wp_register_script('bootstrap-dropdown', get_template_directory_uri().'/library/js/bootstrap-dropdown.js');
   // wp_register_script('bootstrap-modal', get_template_directory_uri().'/library/js/bootstrap-modal.js');
@@ -505,7 +504,7 @@ function theme_js(){
   wp_enqueue_script('jquery');
   wp_enqueue_script('bootstrap', array('jQuery'), '1.1', true);
   // wp_enqueue_script('bootstrap-button', array('jQuery'), '1.1', true);
-  // wp_enqueue_script('bootstrap-carousel', array('jQuery'), '1.1', true);
+  wp_enqueue_script('bootstrap-carousel', array('jQuery'), '1.1', true);
   // wp_enqueue_script('bootstrap-collapse', array('jQuery'), '1.1', true);
   // wp_enqueue_script('bootstrap-dropdown', array('jQuery'), '1.1', true);
   // wp_enqueue_script('bootstrap-modal', array('jQuery'), '1.1', true);

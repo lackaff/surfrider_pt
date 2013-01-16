@@ -65,14 +65,12 @@ leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo
           <p><a class="btn" href="carousel.html#">View details »</a></p>
         </div><!-- /.span4 -->
         
-        <div class="span4">
+        <div class="span4" id="blogindex">
           <img class="img-circle" data-src="holder.js/140x140">
           <h2>Blog</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor 
-ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus 
-sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor 
-mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn" href="carousel.html#">View details »</a></p>
+           <?php $args = array( 'numberposts' => 6, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date"); $postslist = get_posts( $args ); foreach ($postslist as $post) : setup_postdata($post); ?> <div class="events">  <p><a id="blogindex" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></p> </div><?php endforeach; ?> 
+           
+            
         </div><!-- /.span4 -->
         
         <div class="span4">
@@ -122,7 +120,7 @@ mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
           <p><a class="btn" href="file:///Users/madelinechapin/Desktop/carousel.html#">View details »</a></p>
         </div><!-- /.span4 -->
       </div><!-- end of row -->
-      <div class="row"
+      <div class="row">
         <div class="span3">
           <img class="img-circle" data-src="holder.js/140x140">
           <h2>Take Action</h2>
@@ -153,4 +151,7 @@ in, egestas eget quam.</p>
         })
       }(window.jQuery)
 </script>
+
+
+
 <?php get_footer(); ?>

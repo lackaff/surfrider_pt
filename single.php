@@ -1,5 +1,17 @@
 <?php get_header(); ?>
-			
+<?php get_template_part( 'navbar'); ?> 
+<!-- Carousel
+    ================================================== -->
+    <div class="headerpics">
+        <div class="fullpic">
+	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/slide-01.jpg" alt="">
+	    </div>
+	    
+    </div><!-- /.head pic -->
+
+<div class="container">
+	<div class="row">
+		  <div class="span10 offset1">			
 			<div id="content" class="clearfix row-fluid">
 			
 				<div id="main" class="span8 clearfix" role="main">
@@ -64,5 +76,7 @@
 				<?php get_sidebar(); // sidebar 1 ?>
     
 			</div> <!-- end #content -->
-
+</div>
+</div>
+</div>
 <?php get_footer(); ?>
