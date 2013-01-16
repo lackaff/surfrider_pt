@@ -15,8 +15,8 @@ Template Name: home
         <div class="item">
           <img src="<?php echo get_template_directory_uri(); ?>/img/slide2test.JPG" alt="">
           <div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
+            <div class="carousel-caption" id="headline1">
+              <h1 >Example headline.</h1>
               <p class="lead hidden-phone">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
               <a class="btn btn-large btn-primary hidden-phone" href="#">Slide 1</a>
             </div>
@@ -113,11 +113,7 @@ leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo
         <div class="span6">
           <img class="img-circle" data-src="holder.js/140x140">
           <h2>Blog</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor 
-ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus 
-sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor 
-mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn" href="file:///Users/madelinechapin/Desktop/carousel.html#">View details »</a></p>
+           <?php $args = array( 'numberposts' => 6, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date"); $postslist = get_posts( $args ); foreach ($postslist as $post) : setup_postdata($post); ?> <div class="events">  <p><a id="blogindex" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></p> </div><?php endforeach; ?> 
         </div><!-- /.span4 -->
       </div><!-- end of row -->
       <div class="row">

@@ -19,10 +19,11 @@ Template Name: navbar
 	            <img src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt"surfrider foundation Europe logo" id="logoimg"/>
 	            
             </a>
+            <a href="http://madelinechapin.com/portugaltest/"><h1>Ericeira</h1></a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
            
            
-           <a href="http://madelinechapin.com/portugaltest/"><h1>Ericeira</h1></a>
+           
             <div class="nav-collapse collapse"> 
               <ul class="nav pull-right">
               
@@ -34,8 +35,8 @@ Template Name: navbar
 		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Learn<span class="caret"></span></a>
 			<ul class="dropdown-menu">
 				<li><a href="http://madelinechapin.com/portugaltest/problem/">The Problem</a></li>
-				<li><a href="#">Resources</a></li>
-				<li><a href="#">PSA's</a></li>
+				<li><a href="http://madelinechapin.com/portugaltest/resources/">Resources</a></li>
+				<li><a href="http://madelinechapin.com/portugaltest/psa/">PSA's</a></li>
 			</ul>
 		</li>
 		
@@ -46,7 +47,7 @@ Template Name: navbar
 				<li><a href="http://madelinechapin.com/portugaltest/volunteer/">Volunteer</a></li>
 				<li><a href="#">Donate</a></li>
 				<li><a href="http://madelinechapin.com/portugaltest/membership/">Become a Member</a></li>
-				<li><a href="#">Events Calendar</a> </li>
+				<li><a href="http://madelinechapin.com/portugaltest/calendar/">Events Calendar</a> </li>
 			</ul>
 		</li>	
 		

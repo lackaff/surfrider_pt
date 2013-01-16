@@ -31,15 +31,16 @@ Template Name: Kid-Zone
         
         <div class="itempic">
         	<a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutThree">
-	        	<img   src="<?php echo get_template_directory_uri(); ?>/img/KZmember.png" alt="">
-	        	<h4 class="labels">Become A Member</h4>
+	        	<img   src="<?php echo get_template_directory_uri(); ?>/img/KZsurf.png" alt="">
+          		<h4 class="labels">Surfing</h4>
 	        </a>
         </div>
         
         <div class="itempic">
           <a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutFour">
-          	<img   src="<?php echo get_template_directory_uri(); ?>/img/KZsurf.png" alt="">
-          	<h4 class="labels">Surfing</h4>
+          	
+            	<img   src="<?php echo get_template_directory_uri(); ?>/img/KZmember.png" alt="">
+	        	<h4 class="labels">Become A Member</h4>
           </a>
         </div>
         
@@ -96,21 +97,6 @@ Template Name: Kid-Zone
 			<div class="accordion-group">
 				<div id="aboutThree" class="accordion-body collapse">
 					<div class="accordion-inner">
-						<h2>Become a Protector of the Coast</h2>
-						<p>If you are under 16 you can become a protector of the coast for 15€ a year. </p>
-
-<p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
-<ul><li>Bronze (15€) - T-shirt, 10% off Surfrider affiliated stores</li>
-<li>Silver (25€) - T-shirt, 20% off Surfrider affiliated stores and restaurants, PSFF free one-day pass</li>
-<li>Gold (50€) - T-shirt, 20% off Surfrider affiliated stores and restaurants, hoodie, 20% off a surf lesson with a Surfrider partner. PSFF free one-day pass</li></ul>
-
-					</div>
-				</div>
-			</div>
-			
-			<div class="accordion-group">
-				<div id="aboutFour" class="accordion-body collapse">
-					<div class="accordion-inner">
 						<h2>Sustainable Surfing</h2>
 						<p>Though the action of riding a wave is environmentally friendly, there are ways the lifestyle and industry associated with it can be improved to have less negative impact on the environment. Here are some of Surfrider’s quick tips to surfing sustainably. </p>
 
@@ -122,6 +108,36 @@ Template Name: Kid-Zone
 							<li>Seek out more ways to create less waste on your own. Be as wary of the impact you have on the environment as you can. </li>
 						</ul>
 						<p>By following these tips, you can help make sure the waters you choose to surf in are clean and healthy for you, your friends and the rest of the surfing community. </p>
+
+					</div>
+				</div>
+			</div>
+			
+			<div class="accordion-group">
+				<div id="aboutFour" class="accordion-body collapse">
+					<div class="accordion-inner">
+                    
+                    <h2>Become a Protector of the Coast</h2>
+						<p>If you are under 16 you can become a protector of the coast for 15€ a year. </p>
+    <p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
+
+<table class="table span7">
+<tr>
+    <td><img src="<?php echo get_template_directory_uri(); ?>/img/bronze.png" /></td>
+    <td><strong>Bronze (15€)</strong><ul><li>T-shirt</li><li>10% off Surfrider affiliated stores</li></ul></td>
+</tr>
+<tr>
+    <td><img src="<?php echo get_template_directory_uri(); ?>/img/silver.png" /></td>
+    <td><strong>Silver (25€)</strong><ul><li>T-shirt</li><li>20% off Surfrider affiliated stores and restaurants</li><li>PSFF free one-day pass</li></ul></td>
+</tr>
+<tr>
+    <td><img src="<?php echo get_template_directory_uri(); ?>/img/gold.png" /></td>
+    <td><strong>Gold (50€)</strong>
+    	<ul><li>T-shirt</li><li>Hoodie</li><li>20% off Surfrider affiliated stores and restaurants</li><li>20% off a surf lesson with a Surfrider partner</li><li>PSFF free one-day pass</li></ul></td>
+</tr>
+</table> 
+
+						
 					</div>
 				</div>
 			</div>

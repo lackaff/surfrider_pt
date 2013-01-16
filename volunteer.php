@@ -14,7 +14,7 @@ Template Name: Volunteer
     ================================================== -->
     <div class="headerpics">
         <div class="fullpic">
-	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/slide-01.jpg" alt="">
+	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/volunteer.jpg" alt="">
 	    </div>
 	    
     </div><!-- /.head pic -->

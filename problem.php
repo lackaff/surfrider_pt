@@ -15,7 +15,7 @@ Template Name: Problem
     ================================================== -->
     <div class="headerpics">
         <div class="fullpic">
-	          	<img src="<?php echo get_template_directory_uri(); ?>/img/slide1atest.jpg" alt="">
+	          	<img src="<?php echo get_template_directory_uri(); ?>/img/problem.jpg" alt="">
 	    </div>
     </div><!-- /.head pic -->
 

@@ -60,24 +60,44 @@ Template Name: About
 					<div class="accordion-inner">
 					
 						<h2>About Us</h2>
-						<p>Surfrider Foundation Ericeira is a voluntary chapter of Surfrider Europe. </p>
-
+						
+                        
+<div class="row">
+<div class="span5">
+<p>Surfrider Foundation Ericeira is a voluntary chapter of Surfrider Europe. </p>
 <p>We are an associated collective that shares the same goals of protecting and providing sustainable growth through education and positive activity in our local environment. Surfing is our passion. We want to protect our coastline’s beautiful resources that we so often take for granted. </p>
 
 <p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through conservation, activism, research and education. It is a voluntary chapter of Surfrider Foundation Europe. </p>
 
-<ul><li>C – Conservation through efforts like sand bagging, dune protection and water monitoring.</li>
-
-<li>A – Activism through lobbying, letters to the community, and peaceful protests. </li>
-
-<li>R – Research of new products as alternatives to pollutants, water testing results and effects on how construction on coastlines affects local ecosystems and foodchains.</li>
-
-<li>E – Education through school programs, promotional materials and new market products. </li>
-</ul>
-<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike.</p>
-
-						<h2> Our Mission</h2>
+<h2> Our Mission</h2>
 						<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike. </p>
+</div>
+<div class="span4">
+
+
+
+<table class="table">
+<tr>
+    <td><h1>C</h1></td>
+    <td>Conservation through efforts like sand bagging, dune protection and water monitoring.</td>
+</tr>
+<tr>
+    <td><h1>A</h1></td>
+    <td>Activism through lobbying, letters to the community, and peaceful protests.</td>
+</tr>
+<tr>
+    <td><h1 id="h1r">R</h1></td>
+    <td>Research of new products as alternatives to pollutants, water testing results and effects on how construction on coastlines affects local ecosystems and foodchains.</td>
+</tr>
+<tr>
+    <td><h1>E</h1></td>
+    <td>Education through school programs, promotional materials and new market products.</td>
+</tr>
+</table> 
+
+
+</div>
+</div>
 					</div>
 				</div>
 	      </div>	
