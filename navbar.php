@@ -3,7 +3,7 @@
 Template Name: navbar
 */
 ?>
-
+ 
 <!-- NAVBAR
     ================================================== -->
     <div class="navbar-wrapper">
