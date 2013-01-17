@@ -74,7 +74,7 @@ Template Name: Kid-Zone
 		<li>We help clean beaches so families and surfers can enjoy the coast in a safe, healthy way for everyone involved</li>
 	</ul>
 						</div><!-- end of span 6-->
-						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" id="kzabout"/>
+						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" />
 						</div> <!-- end of row -->
 					</div>
 				</div>
@@ -83,12 +83,16 @@ Template Name: Kid-Zone
 			<div class="accordion-group">
 				<div id="aboutTwo" class="accordion-body collapse">
 					<div class="accordion-inner">
+                    <div class="row">
+						<div class="span6">
 						<h2>What can you do?</h2>
 						<ul>
 						<li>Become a protector of the coast! You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</li>
 						<li>Talk to your teachers! Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</li> 							<li>Tell your friends! If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </li>
 						</ul>
-		
+		</div><!-- end of span 6-->
+						<img src="<?php echo get_template_directory_uri(); ?>/img/fist.png" class="span3" />
+						</div> <!-- end of row -->
 	
   					</div>
 				</div>
@@ -97,6 +101,8 @@ Template Name: Kid-Zone
 			<div class="accordion-group">
 				<div id="aboutThree" class="accordion-body collapse">
 					<div class="accordion-inner">
+                    <div class="row">
+						<div class="span6">
 						<h2>Sustainable Surfing</h2>
 						<p>Though the action of riding a wave is environmentally friendly, there are ways the lifestyle and industry associated with it can be improved to have less negative impact on the environment. Here are some of Surfrider’s quick tips to surfing sustainably. </p>
 
@@ -108,7 +114,9 @@ Template Name: Kid-Zone
 							<li>Seek out more ways to create less waste on your own. Be as wary of the impact you have on the environment as you can. </li>
 						</ul>
 						<p>By following these tips, you can help make sure the waters you choose to surf in are clean and healthy for you, your friends and the rest of the surfing community. </p>
-
+						</div><!-- end of span 6-->
+							<img src="<?php echo get_template_directory_uri(); ?>/img/wave.png" class="span3" />
+						</div> <!-- end of row -->
 					</div>
 				</div>
 			</div>
@@ -116,7 +124,10 @@ Template Name: Kid-Zone
 			<div class="accordion-group">
 				<div id="aboutFour" class="accordion-body collapse">
 					<div class="accordion-inner">
-                    
+                    <div class="row">
+					 <img src="<?php echo get_template_directory_uri(); ?>/img/superhero.png" class="span3" />
+                     	<div class="span6">
+                   
                     <h2>Become a Protector of the Coast</h2>
 						<p>If you are under 16 you can become a protector of the coast for 15€ a year. </p>
     <p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
@@ -137,6 +148,9 @@ Template Name: Kid-Zone
 </tr>
 </table> 
 
+						</div><!-- end of span 6-->
+							
+						</div> <!-- end of row -->
 						
 					</div>
 				</div>
