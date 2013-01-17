@@ -475,7 +475,7 @@ function theme_styles()
     wp_enqueue_style( 'wp-bootstrap');
 }
 add_action('wp_enqueue_scripts', 'theme_styles');
-
+ 
 // enqueue javascript
 
 function theme_js(){
