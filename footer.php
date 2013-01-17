@@ -5,23 +5,15 @@
 	      <div class="span3">
 		      
 		     <ul>
-			<li>About Us</li>
-				<ul>
-					<li>Who Are We</li>
-					<li>Our Mission</li>
-					<li>Our Partners</li>
-					<li>Our Staff</li>
-					<li>Surf Related</li>
-					<li>FAQ's</li>
-				</ul>
+			<li><a href="http://madelinechapin.com/portugaltest/about/">About Us</a></li>
+			
 			<li>Learn</li>
 				<ul>
-					<li>The Problem</li>
-					<li>Resources</li>
-					<li>PSA's</li>
-					<li>Games</li>
+					<li><a href="http://madelinechapin.com/portugaltest/problem/">The Problem</a></li>
+					<li><a href="http://madelinechapin.com/portugaltest/resources/">Resources</a></li>
+					<li><a href="http://madelinechapin.com/portugaltest/psa/">PSAs</a></li>
 				</ul>
-									</ul>
+		</ul>
 	
 		      
 	      </div> <!-- end span 3 -->
@@ -31,20 +23,19 @@
 					<ul>	
 							<li>Take Action</li>
 				<ul>
-					<li>Why Give?</li>
-					<li>Volunteer</li>
-					<li>Ways To Volunteer</li>
-					<li>Donate</li>
-					<li>Ways to Donate</li>
-					<li>Become a Member</li>
-					<li>Events Calendar</li> 
+					<li><a href="http://madelinechapin.com/portugaltest/why-give/">Why Give?</a></li>
+					<li><a href="http://madelinechapin.com/portugaltest/volunteer/">Volunteer</a></li>
+					<li><a href="#">Donate</a></li>
+					<li><a href="http://madelinechapin.com/portugaltest/membership/">Become a Member</a></li>
+					<li><a href="http://madelinechapin.com/portugaltest/calendar/">Events Calendar</a> </li>
 				</ul>
 
 							<li>Blog</li>
-							<ul><li>Photo's</li><li>Video</li></ul>
+							<ul><li>Photo's</li>
+                            <li>Video</li></ul>
 				
-						<li>Contact</li>
-						<li id="kidszone">Kids' Zone</li>
+						<li> <a href="http://madelinechapin.com/portugaltest/contact/">Contact Us</a></li>
+						<li> <a href="http://madelinechapin.com/portugaltest/kid-zone/" >Kids' Zone</a></li>
 					</ul>
 
 	      </div> <!-- end span 3 -->
