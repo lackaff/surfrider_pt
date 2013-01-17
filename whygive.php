@@ -4,7 +4,7 @@
 Template Name: WhyGive
 */
 ?>
-
+ 
 
 <?php get_header(); ?>
 
