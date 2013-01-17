@@ -88,10 +88,10 @@
 					<h4 class="span6">Surfrider Foundation Europe</h4>
 				</div>
 				<div class="row">
-					<a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="img/facebook.png" class="socialthumb" ></a>
-					<a href="https://twitter.com/surfridericeira" target="_blank"><img src="img/twitter.png" class="socialthumb"></a>
-					<a href="#" target="_blank"><img src="img/instagram.png" class="socialthumb"></a>
-					<a href="#" target="_blank"><img src="img/youtube.png" class="socialthumb"></a>
+					<a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
+					<a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
+					<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
+					<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
 				</div>
 				<div class="row">
 					<h3 class="span6">Contact Information</h3>
