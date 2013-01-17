@@ -4,7 +4,7 @@
 Template Name: Membership
 */
 ?>
-
+ 
 
 <?php get_header(); ?>
 
