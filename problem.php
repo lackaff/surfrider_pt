@@ -52,7 +52,7 @@ Template Name: Problem
 </p>					
 				</div>
 				</div>
-		</div>
+		</div> 
 		<!-- end of accordian group --> 
 		
   <!-- begining of accordian group --> 		
