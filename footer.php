@@ -26,8 +26,9 @@
                         <li>Blog</li>
                         <ul>
                         	<li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
-							<li>Photo's</li>
-							<li>Video</li></ul>
+							<li><a href="<?php bloginfo('url'); ?>/photos/">Photos</a></li>
+							<li><a href="<?php bloginfo('url'); ?>/video/">Videos</a></li>
+                        </ul>
                        
 					</ul>
 					
