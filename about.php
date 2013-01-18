@@ -18,28 +18,28 @@ Template Name: About
     <div class="headerpics">
         <div class="itempic">
 	         <a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutOne">
-	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/about1.jpg" alt="">
+	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/aboutus.jpg" alt="">
 	          	<h4 class="labels"> About Us</h4>
 		     </a>        
 	    </div>
 	    
         <div class="itempic">
 	        <a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutTwo">
-	          <img   src="<?php echo get_template_directory_uri(); ?>/img/about4.jpg" alt="">
+	          <img   src="<?php echo get_template_directory_uri(); ?>/img/ourstaff.jpg" alt="">
 	          <h4 class="labels">Our Staff</h4>
 	        </a>
         </div>
         
         <div class="itempic">
         	<a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutThree">
-	        	<img   src="<?php echo get_template_directory_uri(); ?>/img/about3.jpg" alt="">
+	        	<img   src="<?php echo get_template_directory_uri(); ?>/img/ourpartners.jpg" alt="">
 	        	<h4 class="labels">Our Partners</h4>
 	        </a>
         </div>
         
         <div class="itempic">
           <a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutFour">
-          	<img   src="<?php echo get_template_directory_uri(); ?>/img/about4.jpg" alt="">
+          	<img   src="<?php echo get_template_directory_uri(); ?>/img/surfrelated.jpg" alt="">
           	<h4 class="labels">Surfing</h4>
           </a>
         </div>
