@@ -45,7 +45,6 @@ Template Name: navbar
 			<ul class="dropdown-menu">
 				<li><a href="<?php bloginfo('url'); ?>/why-give/">Why Give?</a></li>
 				<li><a href="<?php bloginfo('url'); ?>/volunteer/">Volunteer</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/donate/">">Donate</a></li>
 				<li><a href="<?php bloginfo('url'); ?>/membership/">Become a Member</a></li>
 				<li><a href="<?php bloginfo('url'); ?>/calendar/">Events Calendar</a> </li>
 			</ul>
