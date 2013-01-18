@@ -247,6 +247,7 @@ text-decoration:underline;
 
 .socialthumb{
 	max-width:70px;
+	
 	}
 
 
@@ -271,7 +272,7 @@ text-decoration:underline;
 footer{
 	background-color:#CCCCCC;
 	padding-top:3em;
-	padding-bottom:3em;
+	padding-bottom:2em;
 	margin-bottom:0em;
 
 }
@@ -309,20 +310,27 @@ footer ul ul li{
 footer h1{
 	font-family: 'GreatLakesNFRegular';
 	font-weight:100;
-	font-size:50px;
+	font-size:70px;
 	color:#00487E;
+	padding-top:0px;
+	margin-top:15px;
+	text-align:right;
 
 	}
 
 footer h4{
-	font-family: 'GreatLakesNFRegular';
-	font-weight:100;
+	font-family: 'helvetica', sans-serif;
+	font-weight:900;
 	font-size:20px;
-	color:#00487E;
+	color:#0088CC;
+	text-align:right;
+	text-decoration:none;
 	}
 
 
+footer p{text-align:right;}
 
+.fb-like{display:inline;float:right;}
 
 /****FAQ drop down****/
 
@@ -370,9 +378,9 @@ footer h4{
 .labels{
 	margin-top:-30px;
 	text-align:center;
-	font-family: 'megalopolis_extraregular';
+	font-family: 'helvetica', sans-serif;
 	color:#FFFFFF;
-	font-weight:100;
+	font-weight:900;
 	font-size:2em;
 text-decoration:none;
 
