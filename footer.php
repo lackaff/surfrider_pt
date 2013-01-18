@@ -1,5 +1,15 @@
 	<footer class="foot">
-		<div class="container visible-desktop">
+		
+        <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=165296193553844";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+        
+        <div class="container visible-desktop">
 			<div class="row">
 				
 				<div class="span3">
@@ -54,6 +64,11 @@
 							<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
 							<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
 						</div>
+                        
+                        <div class="row">
+							<div class="fb-like" data-href="http://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" data-send="true" data-width="400" data-show-faces="true" data-font="arial"></div>
+						</div>
+                        
 						<div class="row">
 							<h3 class="span4">Contact Information</h3>
 						</div>
