@@ -23,6 +23,8 @@
 							<li><a href="<?php bloginfo('url'); ?>/resources/">Resources</a></li>
 							<li><a href="<?php bloginfo('url'); ?>/psa/">PSAs</a></li>
 						</ul>
+                        <li> <a href="<?php bloginfo('url'); ?>/contact/">Contact Us</a></li>
+							<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a></li>
 					</ul>
 					
 					
@@ -44,8 +46,7 @@
 						<ul><li>Photo's</li>
 							<li>Video</li></ul>
 							
-							<li> <a href="<?php bloginfo('url'); ?>/contact/">Contact Us</a></li>
-							<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a></li>
+						
 						</ul>
 
 					</div> <!-- end span 3 -->
@@ -71,9 +72,6 @@
                         
 						<div class="row">
 							<h3 class="span4">Contact Information</h3>
-						</div>
-						<div class="row">
-							<h3 class="span4">Sponsors</h3>
 						</div>
 
 						
@@ -102,9 +100,7 @@
 					<div class="row">
 						<h3 class="span6">Contact Information</h3>
 					</div>
-					<div class="row">
-						<h3 class="span6">Sponsors</h3>
-					</div>
+	
 
 					
 				</div><!-- end span 6 -->
