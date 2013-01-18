@@ -683,8 +683,9 @@ padding:5px 20px;
 
 
 #kidzonepic{
-    margin-bottom: -60px;
-      margin-top: -55px;
+    margin-bottom: -70px;
+      margin-top: -65px;
+	  max-width:125px;margin-left:-15px;
 }
 
 footer a{color:#00487E; text-decoration:none;}
