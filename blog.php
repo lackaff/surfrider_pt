@@ -8,25 +8,63 @@ Template Name: Blog
 
 <?php get_template_part( 'navbar'); ?>
 
+
+<!-- Carousel
+    ================================================== -->
+    <div class="headerpics">
+        <div class="fullpic">
+	          	<img src="<?php echo get_template_directory_uri(); ?>/img/problem.jpg" alt="">
+	    </div>
+    </div><!-- /.head pic -->
+
+
+	
+	  <div class="container">
+	  <div class="row">
+		  <div class="span10 offset1">
+
+  
+  
+  
+  
 <div id="container">
 	<div id="content" role="main">
 
-		<?php the_post(); ?>
-		<h1 class="entry-title"><?php the_title(); ?></h1>
-		
-		<?php get_search_form(); ?>
-		
-		<h2>Archives by Month:</h2>
-		<ul>
-			<?php wp_get_archives('type=monthly'); ?>
-		</ul>
-		
-		<h2>Archives by Subject:</h2>
-		<ul>
-			 <?php wp_list_categories(); ?>
-		</ul>
+
+<h2>Surfrider Ericeira Blog</h2>
+
+
+<?php $postslist = get_posts('&numberposts=10&order=DESC&orderby=post_date');
+foreach ($postslist as $post) :
+setup_postdata($post); ?>
+<div class="post_item row span10">
+
+    <div class="posthumbnail span2">
+            <?php 
+            if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
+              the_post_thumbnail();
+            } else { ?>
+	<img src="<?php bloginfo('template_directory'); ?>/img/logo.jpg" alt="<?php the_title(); ?>" />	<?php }
+            ?>
+    </div>
+<h3 class="span7"><a href="<?php the_permalink() ?>" rel="bookmark"><?php the_title(); ?></a></h3>
+<span class='side_date span7'><?php the_time('F j, Y'); ?></span>
+<div class="span7"><?php the_excerpt(); ?></div>
+
+</div>
+<?php endforeach; ?>
+
+
 
 	</div><!-- #content -->
 </div><!-- #container -->
+
+
+  </div><!-- /.span10 offset1 -->
+  </div><!-- /.row -->
+  </div> <!-- /.container -->
+
+
+
 
 <?php get_footer(); ?>

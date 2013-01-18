@@ -218,7 +218,6 @@ h2{
 	}
 
 h3{
-	text-align: center;
 	border-bottom:1px solid black;
 	}
 
@@ -696,3 +695,6 @@ footer a{color:#00487E; text-decoration:none;}
 #companyName{
 	display:inline;}
 
+#blogheading h2{
+	font-family:'helvetica', 'sans-serif';
+	color:#00487E;}
