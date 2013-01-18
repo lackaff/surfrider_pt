@@ -53,6 +53,7 @@ Template Name: navbar
 		
 		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog<span class="caret"></span></a>
 			<ul class="dropdown-menu">
+            	<li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
 				<li><a href="#">Photos</a></li>
 				<li><a href="#">Videos</a></li>
 			</ul>
