@@ -220,6 +220,11 @@ h2{
 h3{
 	border-bottom:1px solid black;
 	font-size:35px;
+	color:#00487E;
+	}
+h3 a{
+
+	color:#00487E;
 	}
 
 h4{
@@ -700,4 +705,4 @@ footer a{color:#00487E; text-decoration:none;}
 	font-family:'helvetica', 'sans-serif';
 	color:#00487E;}
 	
-	.side_date{font-weight:900;}
+	.side_date{font-weight:900; color:#0088CC;}
