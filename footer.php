@@ -23,8 +23,12 @@
 							<li><a href="<?php bloginfo('url'); ?>/resources/">Resources</a></li>
 							<li><a href="<?php bloginfo('url'); ?>/psa/">PSAs</a></li>
 						</ul>
-                        <li> <a href="<?php bloginfo('url'); ?>/contact/">Contact Us</a></li>
-							<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a></li>
+                        <li>Blog</li>
+                        <ul>
+                        	<li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
+							<li>Photo's</li>
+							<li>Video</li></ul>
+                       
 					</ul>
 					
 					
@@ -42,9 +46,8 @@
 							<li><a href="<?php bloginfo('url'); ?>/calendar/">Events Calendar</a> </li>
 						</ul>
 
-						<li>Blog</li>
-						<ul><li>Photo's</li>
-							<li>Video</li></ul>
+						<li> <a href="<?php bloginfo('url'); ?>/contact/">Contact Us</a></li>
+							<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a></li>
 							
 						
 						</ul>
