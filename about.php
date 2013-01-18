@@ -146,7 +146,7 @@ Template Name: About
 
 
 						<div class="row">	
-					<img src="<?php echo get_template_directory_uri(); ?>/img/placeholder.jpg" class="span2" id="corepic">
+					<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="span2" id="corepic">
 						<ul class="span4">
 							<li id="membername">Bruno Andrade </li>
 							<li id="membertitle">Treasurer</li>
@@ -167,7 +167,7 @@ Template Name: About
 						
 						
 						<div class="row">	
-					<img src="<?php echo get_template_directory_uri(); ?>/img/placeholder.jpg" class="span2" id="corepic">
+					<img src="<?php echo get_template_directory_uri(); ?>/img/brunolisboa.jpg" class="span2" id="corepic">
 						<ul class="span4">
 							<li id="membername">Bruno Lisboa</li>
 							<li id="membertitle">Volunteer Services Head </li>
@@ -369,7 +369,7 @@ Our Staff
 
 
 						<div class="row">	
-					<img src="<?php echo get_template_directory_uri(); ?>/img/placeholder.jpg" class="span1" id="corepic">
+					<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="span1" id="corepic">
 						<ul class="span4">
 						<span id="membername">Bruno Andrade - Treasurer</span>
 						
@@ -387,7 +387,7 @@ Our Staff
 						
 						
 						<div class="row">	
-					<img src="<?php echo get_template_directory_uri(); ?>/img/placeholder.jpg" class="span2" id="corepic">
+					<img src="<?php echo get_template_directory_uri(); ?>/img/brunolisboa.jpg" class="span2" id="corepic">
 						<ul class="span4">
 							<span id="membername">Bruno Lisboa - Volunteer Services Head</span>
 
