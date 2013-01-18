@@ -21,26 +21,57 @@ Template Name: WhyGive
 	    
     </div><!-- /.head pic -->
 
-
-	
-	  <div class="container">
-	  <div class="row">
+<div class="container">
+	<div class="row">
 		  <div class="span10 offset1">
-<h2>Why Give</h2>
-<p>Whether someone has lived in Ericeira for decades or are just visiting it for the first time, they have probably noticed just how wonderful the country’s lands and waters really are. The Portuguese economy thrives on tourism from local and international visitors alike, so keeping the country and its waters clean is an absolute necessity to show off just how amazing Portugal really is.</p>
+          
+          <div id="content" class="clearfix row-fluid">
+			
+				<div id="main" class="span12 clearfix" role="main">
 
-<p>But for those who live in the area, a clean environment does more than just boost a fantastic tourism industry. It helps protect the resources we rely on to survive and enjoy our lives. Plastic use has exploded in recent years, and now exists in some percentage in almost all food caught and consumed locally. </p>
-
-<p>Local fisherman, who make their livelihood from the waters of Ericeira, unintentionally hurt their industry’s future by choosing to use plastics and other materials to haul in their catch. </p>
-
-<p>Locals and tourists alike often leave their trash out in plain sight after enjoying the community’s local beaches. </p>
-<p>
-Even surfers, who arguably love and enjoy the waters and beaches of Ericerira as much as any on group of people, unintentionally introduce petroleum into the ecosystem with their wetsuits and boards.</p>
-
-<p>By choosing to donate your time or money to Surfrider, you create awareness about our cause and help maintain Ericeira as one of the last paradises on earth. We love the ocean and we want to protect it.
-</p>
-		  </div></div></div>
-
+					<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+					
+					<article id="post-<?php the_ID(); ?>" <?php post_class('clearfix'); ?> role="article">
+						
+					
+						<section class="post_content">
+							<?php the_content(); ?>
+					
+						</section> <!-- end article section -->
+						
+						
+					
+					</article> <!-- end article -->
+					
+					
+					
+					<?php endwhile; ?>	
+					
+					<?php else : ?>
+					
+					<article id="post-not-found">
+					    <header>
+					    	<h1><?php _e("Not Found", "bonestheme"); ?></h1>
+					    </header>
+					    <section class="post_content">
+					    	<p><?php _e("Sorry, but the requested resource was not found on this site.", "bonestheme"); ?></p>
+					    </section>
+					    <footer>
+					    </footer>
+					</article>
+					
+					<?php endif; ?>
+			
+				</div> <!-- end #main -->
+    
+				<?php //get_sidebar(); // sidebar 1 ?>
+    
+			</div> <!-- end #content -->
+                        
+                        
+		</div> <!-- end of span 10 offset 1 -->
+	</div> <!-- end of row -->
+</div> <!-- end of container -->
 
 
 
