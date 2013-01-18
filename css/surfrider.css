@@ -219,6 +219,7 @@ h2{
 
 h3{
 	border-bottom:1px solid black;
+	font-size:35px;
 	}
 
 h4{
@@ -698,3 +699,5 @@ footer a{color:#00487E; text-decoration:none;}
 #blogheading h2{
 	font-family:'helvetica', 'sans-serif';
 	color:#00487E;}
+	
+	.side_date{font-weight:900;}
