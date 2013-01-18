@@ -13,7 +13,7 @@ Template Name: Blog
     ================================================== -->
     <div class="headerpics">
         <div class="fullpic">
-	          	<img src="<?php echo get_template_directory_uri(); ?>/img/problem.jpg" alt="">
+	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/blog.jpg" alt="">
 	    </div>
     </div><!-- /.head pic -->
 

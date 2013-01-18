@@ -13,8 +13,7 @@ Template Name: Video
     ================================================== -->
     <div class="headerpics">
         <div class="fullpic">
-	          	<img src="<?php echo get_template_directory_uri(); ?>/img/problem.jpg" alt="">
-	    </div>
+<img   src="<?php echo get_template_directory_uri(); ?>/img/blog.jpg" alt="">	    </div>
     </div><!-- /.head pic -->
 
 
