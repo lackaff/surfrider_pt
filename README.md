@@ -7,10 +7,10 @@ Setup Instructions
 1. Install and Configure Wordpress
 ----------------------------------
 
-#  Install Wordpress, enable [multisite feature](https://codex.wordpress.org/Create_A_Network).
-#  Create two blogs, one for each language.
-#  Install surfrider-en and surfrider-pt themes.
-#  Activate appropriate theme for each blog.
+1.  Install Wordpress, enable [multisite feature](https://codex.wordpress.org/Create_A_Network).
+2. Create two blogs, one for each language.
+3.  Install surfrider-en and surfrider-pt themes.
+4.  Activate appropriate theme for each blog.
 
 2. Install Plugins
 ------------------
