@@ -61,7 +61,7 @@ Template Name: navbar
 
 		<li> <a href="<?php bloginfo('url'); ?>/contact/">Contact Us</a></li>	
 
-		<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" ><img src="<?php echo get_template_directory_uri(); ?>/img/kidzone.png" class="visible-desktop" id="kidzone"><span class="hidden-desktop" id="kidzonemobile">Kid Zone </span></a></li>	
+		<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" ><img src="<?php echo get_template_directory_uri(); ?>/img/kidzone.png" class="visible-desktop" id="kidzonepic"><span class="hidden-desktop" id="kidzonemobile">Kid Zone </span></a></li>	
               </ul>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->
