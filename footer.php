@@ -1,6 +1,6 @@
 	<footer class="foot">
 		
-        <div id="fb-root"></div>
+<div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -60,22 +60,29 @@
 							<h1 class="span4">Ericeira</h1>
 						</div>
 						<div class="row">
-							<h4 class="span4">Surfrider Foundation Europe</h4>
+							<h4 class="span4">Surfrider Foundation EUROPE</h4>
 						</div>
+                        <div class="row">
+							<p class="span4">Contact Information</p>
+                        </div>
+                         <div class="row">
+                        <div class="span4">
+							<div class="fb-like" data-href="http://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?ref=ts&amp;fref=ts" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
+						</div>
+                        </div>
 						<div class="row">
+                        <div class="span4 pull-right">
 							<a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
 							<a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
 							<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
 							<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
+                            <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
 						</div>
+                        </div>
                         
-                        <div class="row">
-							<div class="fb-like" data-href="http://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" data-send="true" data-width="400" data-show-faces="true" data-font="arial"></div>
-						</div>
+                       
                         
-						<div class="row">
-							<h3 class="span4">Contact Information</h3>
-						</div>
+						
 
 						
 					</div><!-- end span 4 -->
@@ -89,20 +96,30 @@
 
 				<div class="span6 offset3 pull-center">
 					<div class="row">
-						<h1 class="span6">Ericeira</h1>
-					</div>
-					<div class="row">
-						<h4 class="span6">Surfrider Foundation Europe</h4>
-					</div>
-					<div class="row">
-						<a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
-						<a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
-						<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
-						<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
-					</div>
-					<div class="row">
-						<h3 class="span6">Contact Information</h3>
-					</div>
+							<h1 class="span4">Ericeira</h1>
+						</div>
+						<div class="row">
+							<h4 class="span4">Surfrider Foundation Europe</h4>
+						</div>
+                         <div class="row">
+                        <div class="span4">
+							<div class="fb-like" data-href="http://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?ref=ts&amp;fref=ts" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
+						</div>
+                        </div>
+						<div class="row">
+                        <div class="span4">
+							<a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
+							<a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
+							<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
+							<a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
+                            <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
+						</div>
+                        </div>
+                       
+                        
+						<div class="row">
+							<p class="span4">Contact Information</p>
+                        </div>
 	
 
 					
