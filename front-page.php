@@ -85,7 +85,7 @@ Template Name: home
           <h2 class="fpcenter">Take Action</h2>
           <div class="row">
  <img class="span2" src="<?php echo get_template_directory_uri(); ?>/img/ta1.jpg" />
-          <p class="span2">Surfrider supports the ocean, the waves, and the people who enjoy it. <a href="<?php bloginfo('url'); ?>/membership/">Sign up to become a member!</a></p>
+          <p class="span2">Surfrider supports the ocean, the waves, and the people who enjoy it.</p> <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-success span1">Sign Up!</a>
           </div>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
