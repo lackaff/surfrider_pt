@@ -430,17 +430,17 @@ padding-bottom:10px;
 
 
 #menubtn{
-	margin-top:10px;
+	margin-top:20px;
 	background-color:#00487E;
 	background-image: none;
-	}
+}
 
 
 
     
 #kidzonemobile{
 	    color:#298441;
-	    	      font-family: 'megalopolis_extraregular';
+	    font-family: 'megalopolis_extraregular';
     }
 
 
@@ -489,10 +489,10 @@ padding-bottom:10px;
 
 
 
-    /* RESPONSIVE CSS
-    -------------------------------------------------- */
+/* RESPONSIVE CSS
+-------------------------------------------------- */
 
-    @media (max-width: 979px) {
+@media (max-width: 979px) {
 
       .container.navbar-wrapper {
         margin-bottom: 0;
@@ -631,9 +631,6 @@ padding-bottom:10px;
 		font-size:.5em;
 	}
 
-	#menubtn{
-		margin-top:10px;  
-	  }	
 
 
 
@@ -690,11 +687,7 @@ padding-bottom:10px;
 		font-size:.5em;
 	}
 
-	#menubtn{
-		margin-top:10px;  
-	  }	  
-
-    }
+}
     
 .single-title{
 color:#00487E;
