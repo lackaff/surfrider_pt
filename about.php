@@ -59,7 +59,7 @@ Template Name: About
 				<div id="aboutOne" class="accordion-body collapse in">
 					<div class="accordion-inner">
 					
-						<h2>About Us</h2>
+						<h3>About Us</h3>
 						
                         
 <div class="row">
@@ -69,7 +69,7 @@ Template Name: About
 
 <p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through conservation, activism, research and education. It is a voluntary chapter of Surfrider Foundation Europe. </p>
 
-<h2> Our Mission</h2>
+<h3> Our Mission</h3>
 						<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike. </p>
 </div>
 <div class="span4">
@@ -105,7 +105,7 @@ Template Name: About
 			<div class="accordion-group">
 				<div id="aboutTwo" class="accordion-body collapse">
 					<div class="accordion-inner">
-						<h2> Our Staff</h2>
+				<h3> Our Staff</h3>
 						
 						
 		 <div class="container">
@@ -245,6 +245,19 @@ Template Name: About
 		</div>
 
   <!-- end of accordian group --> 
+<!-- begining of accordian group --> 		
+		<div class="accordion-group">
+		<div class="accordion-heading">
+		<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">Volunteers</a>
+		</div>
+			<div id="collapseThree" class="accordion-body collapse">
+				<div class="accordion-inner">
+				<p> Volunteer's are an important part of Surfrider. If you would like to join you can get more information on our Become a Member page!</p>
+			<a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/membership/">Become A Member</a>
+
+				</div>
+			</div>
+		</div>
 
   			</div><!-- end of accordian --> 
   		</div><!-- /.span10 offset1 -->
@@ -259,7 +272,7 @@ Template Name: About
 			<div class="accordion-group">
 				<div id="aboutThree" class="accordion-body collapse">
 					<div class="accordion-inner">
-						<h2> Our Partners</h2>
+					<h3> Our Partners</h3>
 						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle. </p>
 
 <p>Ericeira City Hall grants Surfrider Ericerira the permission we need to be active in the community. It also aids in funding and collects taxes.
@@ -273,7 +286,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 			<div class="accordion-group">
 				<div id="aboutFour" class="accordion-body collapse">
 					<div class="accordion-inner">
-						<h2>Sustainable Surfing</h2>
+						<h3>Sustainable Surfing</h3>
 						<p>Though the action of riding a wave is environmentally friendly, there are ways the lifestyle and industry associated with it can be improved to have less negative impact on the environment. Here are some of Surfrider’s quick tips to surfing sustainably. </p>
 
 						<ul>
