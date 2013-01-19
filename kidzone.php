@@ -40,7 +40,7 @@ Template Name: Kid-Zone
           <a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutFour">
           	
             	<img   src="<?php echo get_template_directory_uri(); ?>/img/KZmember.png" alt="">
-	        	<h4 class="labels">Become A Member</h4>
+	        	<h4 class="labels">Join Surfrider</h4>
           </a>
         </div>
         
