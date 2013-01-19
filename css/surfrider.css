@@ -765,3 +765,5 @@ padding:5px 20px;
 #fp h2{text-align:center;
 	font-family: 'hand_of_seanregular';
 	color:#00487E;font-weight:100;}
+	
+.accordion-toggle{font-weight:600;font-size:18px;}
