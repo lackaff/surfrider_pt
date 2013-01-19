@@ -253,7 +253,7 @@ Template Name: About
 			<div id="collapseThree" class="accordion-body collapse">
 				<div class="accordion-inner">
 				<p> Volunteer's are an important part of Surfrider. If you would like to join you can get more information on our Become a Member page!</p>
-			<a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/membership/">Become A Member</a>
+			<a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/membership/">Volunteer</a>
 
 				</div>
 			</div>
