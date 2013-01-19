@@ -61,7 +61,7 @@ Template Name: home
 
      <!-- Wrap the rest of the page in another container to center all the content. -->
 
-    <div class="container visible-desktop">
+    <div class="container visible-desktop" id="fp">
       <!-- Three columns of text below the carousel -->
       <div class="row">
       
