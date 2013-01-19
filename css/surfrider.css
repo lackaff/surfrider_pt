@@ -704,7 +704,11 @@ font-family:helvetica;
 
 
 #blogindex {
-color:#000000;
+	color:#0088CC;
+}
+
+#blogindex:hover{
+	color:#00487E;
 }
 
 
