@@ -292,9 +292,10 @@ footer ul{
 }
 
 footer ul li{
-	
-	font-family: 'GreatLakesNFRegular';
-	font-size:18px;
+	font-family: 'helvetica', sans-serif;
+	font-weight:900;
+	font-size:20px;
+	text-decoration:none;
 	color:#999999;
 	margin-bottom:0px;
 	}
