@@ -67,7 +67,7 @@ Template Name: home
       
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>Calendar</h2>
+          <h2>Upcoming Events</h2>
 				<?php echo do_shortcode('[events_list limit="5"]#_EVENTLINK - #_EVENTDATES<br /><br />[/events_list]'); ?>
 
         </div><!-- /.span4 -->
@@ -103,14 +103,14 @@ Template Name: home
       
         <div class="span6">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2 class="fpcenter">Calendar</h2>
+          <h2 class="fpcenter">Upcoming Events</h2>
          		<?php echo do_shortcode('[events_list limit="5"]#_EVENTLINK - #_EVENTDATES<br /><br />[/events_list]'); ?>
         </div><!-- /.span4 -->
         
         <div class="span6">
           <img class="img-circle" data-src="holder.js/140x140">
           <h2>Blog</h2>
-           <?php $args = array( 'numberposts' => 6, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date"); $postslist = get_posts( $args ); foreach ($postslist as $post) : setup_postdata($post); ?> <div class="events">  <p><a id="blogindex" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></p> </div><?php endforeach; ?> 
+           <?php $args = array( 'numberposts' => 6, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date"); $postslist = get_posts( $args ); foreach ($postslist as $post) : setup_postdata($post); ?> <div class="events"><p><?php the_title(); ?><a id="blogindex" href="<?php the_permalink(); ?>" title="<?php the_title();  ?>"> Read More</a></p> </div><?php endforeach; ?>
         </div><!-- /.span4 -->
       </div><!-- end of row -->
       <div class="row">
