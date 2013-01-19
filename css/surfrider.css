@@ -558,7 +558,6 @@ text-decoration:none;
     .labels{
 	      margin-top:-30px;
 	      text-align:center;
-	      font-family: 'megalopolis_extraregular';
 	      color:#FFFFFF;
 	      font-weight:100;
 	      font-size:1.1em;
@@ -729,5 +728,6 @@ padding:5px 20px;
 	
 	.side_date{font-weight:900; color:#0088CC;}
 	
-	.lead{
-	color:#0088CC;}
+
+
+#fp h2{text-align:center;}
