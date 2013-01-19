@@ -313,8 +313,7 @@ footer ul ul li{
 
 
 #footerlogo{max-width:90px; display:inline;margin-top:-50px;}
-#socialdiv{width:370px; display:inline;float:right;}
-
+#socialdiv{width:295px; display:inline;float:right;}
 .majornav{display:inline;float:left;}
 
 
@@ -349,6 +348,8 @@ footer a{color:#999999; text-decoration:none;}
 footer p{text-align:right;color:#999999;}
 
 .fb-like{display:inline;float:right;}
+
+
 
 /****FAQ drop down****/
 
