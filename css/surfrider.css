@@ -204,9 +204,9 @@ h1{
 
 h2{
 	border-bottom:3px solid #003366;
-	font-family: 'hand_of_seanregular';
+	font-family: 'Helvetica', sans-serif;
 	color:#00487E;
-	font-weight:100;
+	font-weight:900;
 
 	}
 
@@ -404,13 +404,14 @@ footer p{text-align:right;color:#999999;}
 }
 
 .labels{
-	margin-top:-30px;
+	margin-top:-40px;
 	text-align:center;
 	font-family: 'hand_of_seanregular';
 	color:#FFFFFF;
 	font-weight:100;
 	font-size:2em;
 text-decoration:none;
+padding-bottom:10px;
 
 }
 
@@ -522,6 +523,17 @@ text-decoration:none;
         margin: 0 auto 20px;
       }
 
+.labels{
+	margin-top:-30px;
+	text-align:center;
+	font-family: 'hand_of_seanregular';
+	color:#FFFFFF;
+	font-weight:100;
+	font-size:1.5em;
+text-decoration:none;
+padding-bottom:10px;
+
+}
       
     }
 
@@ -746,4 +758,6 @@ padding:5px 20px;
 	
 
 
-#fp h2{text-align:center;}
+#fp h2{text-align:center;
+	font-family: 'hand_of_seanregular';
+	color:#00487E;font-weight:100;}
