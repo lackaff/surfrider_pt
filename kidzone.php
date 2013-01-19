@@ -102,7 +102,7 @@ Template Name: Kid-Zone
 				<div id="aboutThree" class="accordion-body collapse">
 					<div class="accordion-inner">
                     <div class="row">
-						<div class="span6">
+						<div class="span">
 						<h2>Sustainable Surfing</h2>
 						<p>Though the action of riding a wave is environmentally friendly, there are ways the lifestyle and industry associated with it can be improved to have less negative impact on the environment. Here are some of Surfrider’s quick tips to surfing sustainably. </p>
 
@@ -115,7 +115,6 @@ Template Name: Kid-Zone
 						</ul>
 						<p>By following these tips, you can help make sure the waters you choose to surf in are clean and healthy for you, your friends and the rest of the surfing community. </p>
 						</div><!-- end of span 6-->
-							<img src="<?php echo get_template_directory_uri(); ?>/img/wave.png" class="span3" />
 						</div> <!-- end of row -->
 					</div>
 				</div>
