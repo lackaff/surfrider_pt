@@ -224,6 +224,14 @@ h3{
 	font-size:35px;
 	color:#00487E;
 	}
+	
+.post_item h3{
+	border-bottom:1px solid black;
+	font-size:25px;
+	color:#00487E;
+	}
+	
+	
 h3 a{
 
 	color:#00487E;
