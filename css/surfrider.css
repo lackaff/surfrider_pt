@@ -271,7 +271,7 @@ text-decoration:underline;
 
 footer{
 	background-color:#CCCCCC;
-	padding-top:3em;
+	padding-top:5em;
 	padding-bottom:2em;
 	margin-bottom:0em;
 
@@ -288,33 +288,46 @@ footer .container{
 
 footer ul{
 	list-style-type: none;
+	
+	
 }
 
 footer ul li{
-	text-decoration: underline;
-	font-family: 'megalopolis_extraregular';
-	color:#00487E;
-}
+	
+	font-family: 'GreatLakesNFRegular';
+	font-size:18px;
+	color:#999999;
+	margin-bottom:0px;
+	}
 
-footer ul ul{
-	list-style-type: circle;
 
-}
 
 footer ul ul li{
 	text-decoration: none;
 		font-family: 'Galdeano', sans-serif;
-		color:#00487E;
+		color:#999999;
+		font-size:14px;
+		margin-top:0px;
+		margin-bottom:0px;
+	
+		
 }
+
+
+#footerlogo{max-width:90px; display:inline;margin-top:-50px;}
+#socialdiv{width:370px; display:inline;float:right;}
+
+.majornav{display:inline;float:left;}
+
 
 footer h1{
 	font-family: 'GreatLakesNFRegular';
 	font-weight:100;
-	font-size:70px;
-	color:#00487E;
-	padding-top:0px;
-	margin-top:15px;
-	text-align:right;
+	font-size:65px;
+	color:#999999;
+	padding-top:10px;
+	margin-top:30px;
+	display:inline;
 
 	}
 
@@ -323,10 +336,9 @@ footer h4{
 	font-weight:900;
 	font-size:20px;
 	color:#0088CC;
-	text-align:right;
 	text-decoration:none;
 	}
-
+footer a{color:#999999; text-decoration:none;}
 
 footer p{text-align:right;}
 
@@ -378,9 +390,9 @@ footer p{text-align:right;}
 .labels{
 	margin-top:-30px;
 	text-align:center;
-	font-family: 'helvetica', sans-serif;
+	font-family: 'hand_of_seanregular';
 	color:#FFFFFF;
-	font-weight:900;
+	font-weight:100;
 	font-size:2em;
 text-decoration:none;
 
@@ -703,7 +715,7 @@ padding:5px 20px;
 	  max-width:125px;margin-left:-15px;
 }
 
-footer a{color:#00487E; text-decoration:none;}
+
 
 .resourceimg{
 	display:inline;}
