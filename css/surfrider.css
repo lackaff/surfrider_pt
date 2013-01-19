@@ -619,7 +619,7 @@ padding-bottom:10px;
 		font-size:30px;
 		padding-top:8px;
 		color:#00487E;
-	}
+	} 
 
 	#logoimg{
 		max-width:60px;
@@ -637,7 +637,8 @@ padding-bottom:10px;
 } 
 
 @media (max-width: 480px) {
-
+	
+	
 	    .labels{
 	      margin-top:-30px;
 	      text-align:center;
@@ -686,7 +687,40 @@ padding-bottom:10px;
 	h6{
 		font-size:.5em;
 	}
+	
+	
+	footer{width:100%;margin:0px;padding:0px;}
+	footer h1{
+	font-family: 'GreatLakesNFRegular';
+	font-weight:100;
+	font-size:35px;
+	color:#999999;
+	padding-top:10px;
+	margin-top:30px;
+	display:inline; 
+	}
 
+footer h4{
+	font-family: 'helvetica', sans-serif;
+	font-weight:900;
+	font-size:45px;
+	color:#0088CC;
+	text-decoration:none;
+	}
+footer h5{
+	font-family: 'helvetica', sans-serif;
+	font-weight:900;
+	font-size:20px;
+	color:#999999;
+		text-decoration:none;
+	text-align:right;
+	}
+	.socialthumb{
+	max-width:45px;
+	
+	}
+
+	
 }
     
 .single-title{

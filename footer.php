@@ -98,7 +98,7 @@
 			
 			
 			
-			<div class="container visible-tablet" id="mobilefoot">
+			<div class="container visible-tablet" id="tabletfoot">
 
 				
 				<div class="row">
@@ -125,10 +125,41 @@
                          					
 					
 				</div><!-- end span 6 -->
-
+ 
 			</div><!-- /.container -->
 			
 			
+			
+			<div class="container visible-phone" id="mobilefoot">
+
+				
+				<div class="row">
+            
+                <div class="span4">
+               			 <img src="<?php echo get_template_directory_uri(); ?>/img/footerlogo.png" id="footerlogo">
+                   		 <h1>Ericeira</h1>
+                 </div>
+                 
+                 <div id="socialdiv">
+                                <a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
+                                <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
+                                <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
+                                <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
+
+                </div>
+            </div>
+	<div class="span5 pull-right">
+                        <div class="row">
+							<h5>Contact Surfrider </h5>
+							<p>emailaddress@gmail.com - 88888888</p>
+							
+                        </div>
+                         					
+					
+				</div><!-- end span 6 -->
+
+			</div><!-- /.container -->
+
 			
 			
 			
