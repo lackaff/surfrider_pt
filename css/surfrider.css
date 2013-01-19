@@ -260,7 +260,6 @@ text-decoration:underline;
 
 .nav ul li{
 	font-family: 'Galdeano', sans-serif;
-
 }
 
 #logoimg{
@@ -310,7 +309,6 @@ footer ul ul li{
 		margin-top:0px;
 		margin-bottom:0px;
 	
-		
 }
 
 
@@ -327,8 +325,7 @@ footer h1{
 	color:#999999;
 	padding-top:10px;
 	margin-top:30px;
-	display:inline;
-
+	display:inline; 
 	}
 
 footer h4{
@@ -338,9 +335,18 @@ footer h4{
 	color:#0088CC;
 	text-decoration:none;
 	}
+footer h5{
+	font-family: 'helvetica', sans-serif;
+	font-weight:900;
+	font-size:20px;
+	color:#999999;
+		text-decoration:none;
+	text-align:right;
+	}
+	
 footer a{color:#999999; text-decoration:none;}
 
-footer p{text-align:right;}
+footer p{text-align:right;color:#999999;}
 
 .fb-like{display:inline;float:right;}
 
