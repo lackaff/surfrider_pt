@@ -13,7 +13,7 @@
         <div >
 			<div class="row">
             
-                <div class="span4">
+                <div class="span5">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/footerlogo.png" id="footerlogo">
                     <h1>Ericeira</h1>
                  </div>
@@ -30,12 +30,12 @@
             
                         <div>
                             <ul class="majornav">
-                                <li class="majornav"><a href="<?php bloginfo('url'); ?>/about/">About Us</a>
+                                <li class="majornav">About Us
                                     <ul>
-                                        <li>About Us</li>
-                                        <li>Our Staff</li>
-                                        <li>Our Partners</li>
-                                        <li> Sustainable surfing</li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">About Us</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Our Staff</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Our Partners</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Sustainable Surfing</a></li>
                                     </ul>
                                 </li>
                                 <li class="majornav">Learn
@@ -60,12 +60,12 @@
                                         <li><a href="<?php bloginfo('url'); ?>/calendar/">Events Calendar</a> </li>
                                     </ul>
                                 </li>
-                                <li class="majornav"> <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a>
+                                <li class="majornav">Kids' Zone
                                     <ul>
-                                        <li>About Us</li>
-                                        <li>Take Action</li>
-                                        <li>Suring</li>
-                                        <li>Become a Member</li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >About Us</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Take Action</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Surfing</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Become a Member</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -76,7 +76,9 @@
 
 				<div class="span3 pull-right">
                         <div class="row">
-							<p>Contact Information</p>
+							<h5>Contact Surfrider </h5>
+							<p>emailaddress@gmail.com</p>
+							<p>88888888</p>
                         </div>
                          <div class="row">
                             <div class="span3">
