@@ -332,24 +332,43 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 
 				<div id="collapseOne5" class="accordion-body collapse">
 					<div class="accordion-inner">
+
+<div class="span5">
 <p>Surfrider Foundation Ericeira is a voluntary chapter of Surfrider Europe. </p>
+<p>It is an associated collective of passionate surfers that shares the same goals of protecting and providing sustainable growth through education and positive activity in the local environment. The organization seeks to protect the Ericeira coastline’s beautiful resources that are so often taken for granted. </p>
+<p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through CARE (conservation, activism, research and education). 
+</p>
 
-<p>We are an associated collective that shares the same goals of protecting and providing sustainable growth through education and positive activity in our local environment. Surfing is our passion. We want to protect our coastline’s beautiful resources that we so often take for granted. </p>
 
-<p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through conservation, activism, research and education. It is a voluntary chapter of Surfrider Foundation Europe. </p>
 
-<ul><li>C – Conservation through efforts like sand bagging, dune protection and water monitoring.</li>
 
-<li>A – Activism through lobbying, letters to the community, and peaceful protests. </li>
+<table class="table">
+<tr>
+    <td><h1>C</h1></td>
+    <td>Conservation through efforts like sand bagging, dune protection and water monitoring.</td>
+</tr>
+<tr>
+    <td><h1>A</h1></td>
+    <td>Activism through lobbying, letters to the community, and peaceful protests.</td>
+</tr>
+<tr>
+    <td><h1 id="h1r">R</h1></td>
+    <td>Research of new products as alternatives to pollutants, water testing results and effects on how construction on coastlines affects local ecosystems and foodchains.</td>
+</tr>
+<tr>
+    <td><h1>E</h1></td>
+    <td>Education through school programs, promotional materials and new market products.</td>
+</tr>
+</table> 
 
-<li>R – Research of new products as alternatives to pollutants, water testing results and effects on how construction on coastlines affects local ecosystems and foodchains.</li>
 
-<li>E – Education through school programs, promotional materials and new market products. </li>
-</ul>
-<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike.</p>
 
-						<h2> Our Mission</h2>
-						<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike. </p>		
+
+<h3> Our Mission</h3>
+						<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike. </p>
+</div>
+
+
 				</div>
 				</div>
 		</div>
@@ -419,7 +438,6 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 						</ul>
 						</div>
  <h2> Representatives</h2>
- <p>organized by beach</p>
 		<div id="content" class="clearfix row">
 			
 				<div id="main" class="span12 clearfix" role="main">
