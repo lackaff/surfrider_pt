@@ -363,7 +363,6 @@ footer p{text-align:right;color:#999999;}
 .headerpic{
 	width:100%;
 
-
 }
 
 .itempic{
@@ -528,7 +527,7 @@ padding:5px 20px;
 
 
 @media (max-width: 767px) {
-
+		
       .navbar-inner {
         margin: -20px;
       }
@@ -625,6 +624,8 @@ padding:5px 20px;
 } 
 
 @media (max-width: 480px) {
+	body{padding:0px;margin:0px;width:100%;}
+	.row{padding-left:20px;padding-right:20px;}
 	#accordion5{margin-top:10px;margin-left:-20px;}
 	.container {width:100%; padding-bottom:0em;}
 	.accordion-heading .accordion-toggle{padding:0px 0px;}
@@ -652,7 +653,7 @@ padding:5px 20px;
 		  margin-bottom: 0px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
 	
 		 }
-
+.navbar-inner{padding-right:0px; margin:0px;margin-bottom:-20px;margin-left:-20px; margin-top:-20px;}
      
 		.carousel-caption {margin-top:130px; margin-left:-40px;}
 		
@@ -675,12 +676,12 @@ padding:5px 20px;
 			max-width:50px;
 			margin-top:0px;
 			padding-top:0px;
-			margin-left:-20px;	}
+				}
 
 	h6{font-size:.5em;}
 	
 	
-	footer{width:100%;margin-left:-20px;padding-left:5px;padding-right:35px;}
+	footer{width:100%;margin-left:-20px;padding-left:5px;padding-right:15px;}
 	 footer .container {padding-bottom:30px;}
 	footer h1{
 		font-family: 'GreatLakesNFRegular';
@@ -689,7 +690,7 @@ padding:5px 20px;
 		color:#999999;
 		padding-top:10px;
 		margin-top:30px;
-		margin-left:93px;
+		margin-left: 115px;
 		display:inline; 
 		}
 
@@ -711,9 +712,9 @@ padding:5px 20px;
 		}
 	footer p{text-align:center;}
 	.socialthumb{max-width:45px;}
-	#socialdiv{width:243px;}
+	#socialdiv{width:243px;margin-left: 60px;float:left;}
 	#footerlogo{margin-left:115px;}
-	#menubtn{margin-top:10px;}
+	#menubtn{margin-top:10px; margin-right:10px;}
 }
   
   
