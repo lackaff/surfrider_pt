@@ -326,6 +326,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 		  <div class="accordion-heading">
 			  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseOne5">
 				  	<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileAbout.gif" alt="">
+				  	<h4 class="labels"> About Us</h4>
 			</a>
 			</div>
 
@@ -359,7 +360,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseTwo5">
 <img   src="<?php echo get_template_directory_uri(); ?>/img/mobileStaff.gif" alt="">
-</a>
+<h4 class="labels">Our Staff</h4></a>
 </div>
 <div id="collapseTwo5" class="accordion-body collapse">
 <div class="accordion-inner">
@@ -474,6 +475,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseThree5">
 <img   src="<?php echo get_template_directory_uri(); ?>/img/mobilePartners.gif" alt="">
+<h4 class="labels">Our Partners</h4>
 </a>
 </div>
 <div id="collapseThree5" class="accordion-body collapse">
@@ -497,6 +499,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseFour5">
 <img   src="<?php echo get_template_directory_uri(); ?>/img/mobileSurf.gif" alt=""></a>
+<h4 class="labels">Sustainable Surfing</h4>
 </div>
 <div id="collapseFour5" class="accordion-body collapse">
 <div class="accordion-inner">

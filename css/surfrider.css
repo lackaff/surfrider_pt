@@ -625,18 +625,21 @@ padding:5px 20px;
 } 
 
 @media (max-width: 480px) {
-	#accordion5{margin-top:10px;}
+	#accordion5{margin-top:10px;margin-left:-20px;}
 	.container {width:100%; padding-bottom:0em;}
 	.accordion-heading .accordion-toggle{padding:0px 0px;}
 	.labels{
-	      margin-top:-30px;
-	      text-align:center;
-	      font-family: 'megalopolis_extraregular';
-	      color:#FFFFFF;
-	      font-weight:100;
-	      font-size:1.5em;
- 
-	  }
+		margin-top:-25px;
+		margin-bottom:5px;
+		text-align:left;
+		font-family: 'hand_of_seanregular';
+		color:#FFFFFF;
+		font-weight:100;
+		font-size:18px;
+		text-decoration:none;
+		padding-bottom:0px;
+
+}
 
       .navbar-wrapper {
 		  position: relative;
