@@ -655,29 +655,29 @@ padding:5px 20px;
 		.carousel-caption .lead{font-family: 'Helvetica', sans-serif;}
 		 .carousel-caption {width: 80%;}
 
- .featurette-image {
-      margin-top: 0px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
-		}
+ 		.featurette-image {
+     		 margin-top: 0px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
+			}
     
-    .navbar h1{
-		font-family: 'GreatLakesNFRegular';
-		font-weight:100;
-		font-size:30px;
-		padding-top:0px;
-		color:#00487E;
-	}
+   	 .navbar h1{
+			font-family: 'GreatLakesNFRegular';
+			font-weight:100;
+			font-size:30px;
+			padding-top:0px;
+			color:#00487E;
+		}
 
-	#logoimg{
-		max-width:50px;
-		margin-top:0px;
-		padding-top:0px;
-		margin-left:-20px;	}
+		#logoimg{
+			max-width:50px;
+			margin-top:0px;
+			padding-top:0px;
+			margin-left:-20px;	}
 
 	h6{font-size:.5em;}
 	
 	
 	footer{width:100%;margin-left:-20px;padding-left:5px;padding-right:35px;}
-	
+	 footer .container {padding-bottom:30px;}
 	footer h1{
 		font-family: 'GreatLakesNFRegular';
 		font-weight:100;

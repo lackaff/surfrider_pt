@@ -148,13 +148,7 @@
                                 <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
 
                 </div>
-           
-            	<div class="row">
-					<h5>Contact Surfrider </h5>
-					<p>emailaddress@gmail.com</p>
-					<p>88888888</p>
-							
-                 </div>
+          
                          					
 					
 			
