@@ -360,36 +360,6 @@ footer p{text-align:right;color:#999999;}
 
 
 
-/****FAQ drop down****/
-
-		#example1,
-		 {
-			float: left;
-
-		}
-		.expand_all,
-		.collapse_all {
-			cursor: pointer;
-
-		}
-
-		.example_menu {
-			list-style: none;
-
-			vertical-align: top;
-		}
-		.example_menu ul {
-			display: none;
-			list-style: none;
-
-		}
-
-
-
-
-
-
-
 .headerpic{
 	width:100%;
 
