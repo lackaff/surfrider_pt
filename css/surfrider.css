@@ -487,6 +487,24 @@ padding-bottom:10px;
 
 
 
+.nav {padding-top:35px; }
+
+
+.navbar-inner h1{
+display:inline;
+float:left;
+font-weight:100;
+font-size:55px;
+padding-top:8px;
+
+}
+
+.navbar .brand{
+padding:5px 20px;
+
+}
+
+
 
 
 /* RESPONSIVE CSS
@@ -523,19 +541,19 @@ padding-bottom:10px;
         margin: 0 auto 20px;
       }
 
-.labels{
-	margin-top:-30px;
-	text-align:center;
-	font-family: 'hand_of_seanregular';
-	color:#FFFFFF;
-	font-weight:100;
-	font-size:1.5em;
-text-decoration:none;
-padding-bottom:10px;
-
-}
+		.labels{
+			margin-top:-30px;
+			text-align:center;
+			font-family: 'hand_of_seanregular';
+			color:#FFFFFF;
+			font-weight:100;
+			font-size:1.5em;
+			text-decoration:none;
+			padding-bottom:10px;
+		
+		}
       
-    }
+}
 
 
 
@@ -637,9 +655,9 @@ padding-bottom:10px;
 } 
 
 @media (max-width: 480px) {
+
 	
-	
-	    .labels{
+	.labels{
 	      margin-top:-30px;
 	      text-align:center;
 	      font-family: 'megalopolis_extraregular';
@@ -650,79 +668,82 @@ padding-bottom:10px;
 	  }
 
       .navbar-wrapper {
-      position: relative;
-      top: 0;
-      left: 0;
-      right: 0;
-      z-index: 10;
-      border:1px solid blue;
-      margin-top: 0px;
-      padding-top:20px;
-      margin-bottom: 0px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
-
-     }
+		  position: relative;
+		  top: 0;
+		  left: 0;
+		  right: 0;
+		  z-index: 10;
+		  margin-top: 0px;
+		  padding-top:20px;
+		  margin-bottom: 0px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+	
+		 }
 
      
-
+		.carousel-caption {margin-top:130px; margin-left:-40px;}
+		
+		.carousel-caption .lead{font-family: 'Helvetica', sans-serif;}
+		 .carousel-caption {width: 80%;}
 
  .featurette-image {
       margin-top: 0px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
-    }
+		}
     
     .navbar h1{
-	font-family: 'GreatLakesNFRegular';
-	font-weight:100;
-	font-size:30px;
-	padding-top:8px;
-	color:#00487E;
+		font-family: 'GreatLakesNFRegular';
+		font-weight:100;
+		font-size:30px;
+		padding-top:0px;
+		color:#00487E;
 	}
 
 	#logoimg{
-	max-width:70px;
-	margin-top:0px;
-	padding-top:0px;
-	border:1px solid blue;
-	}
+		max-width:50px;
+		margin-top:0px;
+		padding-top:0px;
+		margin-left:-20px;	}
 
-	h6{
-		font-size:.5em;
-	}
+	h6{font-size:.5em;}
 	
 	
-	footer{width:100%;margin:0px;padding:0px;}
+	footer{width:100%;margin-left:-20px;padding-left:5px;padding-right:35px;}
+	
 	footer h1{
-	font-family: 'GreatLakesNFRegular';
-	font-weight:100;
-	font-size:35px;
-	color:#999999;
-	padding-top:10px;
-	margin-top:30px;
-	display:inline; 
-	}
+		font-family: 'GreatLakesNFRegular';
+		font-weight:100;
+		font-size:35px;
+		color:#999999;
+		padding-top:10px;
+		margin-top:30px;
+		margin-left:93px;
+		display:inline; 
+		}
 
-footer h4{
-	font-family: 'helvetica', sans-serif;
-	font-weight:900;
-	font-size:45px;
-	color:#0088CC;
-	text-decoration:none;
-	}
-footer h5{
-	font-family: 'helvetica', sans-serif;
-	font-weight:900;
-	font-size:20px;
-	color:#999999;
+	footer h4{
+		font-family: 'helvetica', sans-serif;
+		font-weight:900;
+		font-size:45px;
+		color:#0088CC;
 		text-decoration:none;
-	text-align:right;
-	}
-	.socialthumb{
-	max-width:45px;
-	
-	}
-
-	
+		text-align:center;
+		}
+	footer h5{
+		font-family: 'helvetica', sans-serif;
+		font-weight:900;
+		font-size:20px;
+		color:#999999;
+		text-decoration:none;
+		text-align:center;
+		}
+	footer p{text-align:center;}
+	.socialthumb{max-width:45px;}
+	#socialdiv{width:243px;}
+	#footerlogo{margin-left:115px;}
+	#menubtn{margin-top:10px;}
 }
-    
+  
+  
+  
 .single-title{
 color:#00487E;
 font-weight:900;
@@ -730,41 +751,15 @@ font-family:helvetica;
 }
 
 
-#blogindex {
-	color:#0088CC;
-}
+#blogindex {color:#0088CC;}
 
-#blogindex:hover{
-	color:#00487E;
-}
+#blogindex:hover{color:#00487E;}
 
 
-.representativeslist{
-margin-left:20px;
-}
+.representativeslist{margin-left:20px;}
 
 
-.membershiptype{
-font-weight:900;
-}
-
-
-.nav {padding-top:35px; }
-
-
-.navbar-inner h1{
-display:inline;
-float:left;
-font-weight:100;
-font-size:55px;
-padding-top:8px;
-
-}
-
-.navbar .brand{
-padding:5px 20px;
-
-}
+.membershiptype{font-weight:900;}
 
 
 #kidzonepic{
@@ -775,22 +770,17 @@ padding:5px 20px;
 
 
 
-.resourceimg{
-	display:inline;}
+.resourceimg{display:inline;}
 	
 #companyName{
 	display:inline;}
 
-#blogheading h2{
-	font-family:'helvetica', 'sans-serif';
-	color:#00487E;}
+#blogheading h2{font-family:'helvetica', 'sans-serif';color:#00487E;}
 	
-	.side_date{font-weight:900; color:#0088CC;}
+.side_date{font-weight:900; color:#0088CC;}
 	
 
 
-#fp h2{text-align:center;
-	font-family: 'hand_of_seanregular';
-	color:#00487E;font-weight:100;}
+#fp h2{text-align:center;font-family: 'hand_of_seanregular';color:#00487E;font-weight:100;}
 	
 .accordion-toggle{font-weight:600;font-size:18px;}

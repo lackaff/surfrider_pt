@@ -17,8 +17,8 @@ Template Name: home
           <div class="container">
             <div class="carousel-caption" id="headline1">
               <h1 >Give Back!</h1>
-             <p class="lead hidden-phone">Give back what you take from the ocean.</p>
-              <a class="btn btn-large btn-success hidden-phone" href="<?php bloginfo('url'); ?>/problem/">Learn more</a>
+             <p class="lead">Give back what you take from the ocean.</p>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/problem/">Learn more</a>
             </div>
           </div>
         </div>
@@ -27,8 +27,8 @@ Template Name: home
           <div class="container">
             <div class="carousel-caption">
               <h1>Community Involvement</h1>
-              <p class="lead hidden-phone">Secondary school students sweep the shore for trash.</p>
-              <a class="btn btn-large btn-success hidden-phone" href="#">Read the blog</a>
+              <p class="lead">Secondary school students sweep the shore for trash.</p>
+              <a class="btn btn-large btn-success" href="#">Read the blog</a>
             </div>
           </div>
         </div>
@@ -37,8 +37,8 @@ Template Name: home
           <div class="container">
             <div class="carousel-caption">
               <h1>Connect</h1>
-              <p class="lead hidden-phone">Follow us on social media for updates about our coast.</p>
-              <a class="btn btn-large btn-success hidden-phone" href="<?php bloginfo('url'); ?>/contact/">Connect</a>
+              <p class="lead">Follow us on social media for updates about our coast.</p>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/contact/">Connect</a>
             </div>
           </div>
         </div>
@@ -47,14 +47,14 @@ Template Name: home
           <div class="container">
             <div class="carousel-caption">
               <h1>Volunteer.</h1>
-              <p class="lead hidden-phone">Participate in our next beach cleanup.</p>
-              <a class="btn btn-large btn-success hidden-phone" href="<?php bloginfo('url'); ?>/contact/">Volunteer.</a>
+              <p class="lead">Participate in our next beach cleanup.</p>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/contact/">Volunteer.</a>
             </div>
           </div>
         </div>
       </div>
-      <a class="left carousel-control" href="index.html#myCarousel" data-slide="prev">‹</a>
-      <a class="right carousel-control" href="index.html#myCarousel" data-slide="next">›</a>
+      <a class="left carousel-control hidden-phone" href="index.html#myCarousel" data-slide="prev">‹</a>
+      <a class="right carousel-control hidden-phone" href="index.html#myCarousel" data-slide="next">›</a>
     </div><!-- /.carousel -->
 
 
