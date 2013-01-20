@@ -619,14 +619,15 @@ padding:5px 20px;
 		font-size:.5em;
 	}
 
-
-
-
+ 
+ 
+ 
 } 
 
 @media (max-width: 480px) {
-
-	
+	#accordion5{margin-top:10px;}
+	.container {width:100%; padding-bottom:0em;}
+	.accordion-heading .accordion-toggle{padding:0px 0px;}
 	.labels{
 	      margin-top:-30px;
 	      text-align:center;
@@ -634,7 +635,7 @@ padding:5px 20px;
 	      color:#FFFFFF;
 	      font-weight:100;
 	      font-size:1.5em;
-
+ 
 	  }
 
       .navbar-wrapper {

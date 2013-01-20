@@ -314,9 +314,9 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 
 <div class="visible-phone">
 
-  <div class="container">
+  <div class="container" >
 	  <div class="row">
-		  <div class="span10 offset1">
+		  <div>
 
   
 <!--  begining of accordian --> 
@@ -325,7 +325,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 	  <div class="accordion-group">
 		  <div class="accordion-heading">
 			  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseOne5">
-				  	About Us
+				  	<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileAbout.gif" alt="">
 			</a>
 			</div>
 
@@ -358,7 +358,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 <div class="accordion-group">
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseTwo5">
-Our Staff
+<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileStaff.gif" alt="">
 </a>
 </div>
 <div id="collapseTwo5" class="accordion-body collapse">
@@ -419,7 +419,7 @@ Our Staff
 						</div>
  <h2> Representatives</h2>
  <p>organized by beach</p>
-		<div id="content" class="clearfix row-fluid">
+		<div id="content" class="clearfix row">
 			
 				<div id="main" class="span12 clearfix" role="main">
 
@@ -473,7 +473,7 @@ Our Staff
 <div class="accordion-group">
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseThree5">
-Partners
+<img   src="<?php echo get_template_directory_uri(); ?>/img/mobilePartners.gif" alt="">
 </a>
 </div>
 <div id="collapseThree5" class="accordion-body collapse">
@@ -496,8 +496,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 <div class="accordion-group">
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseFour5">
-Sustainable Surfing
-</a>
+<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileSurf.gif" alt=""></a>
 </div>
 <div id="collapseFour5" class="accordion-body collapse">
 <div class="accordion-inner">
