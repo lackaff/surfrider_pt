@@ -32,13 +32,20 @@ Template Name: Problem
 <div class="row">
 
   <h2>The Problem</h2>
-<div class="span4">
+<div class="span10">
   <p >As stewards of the Ericeira coast, Surfrider tries its best to be involved in the community and educate others on the dangers certain environmental issues present to the coastline. </p>
 </div>
-<div class="span3">
-<img src="<?php echo get_template_directory_uri(); ?>/img/evolutionPlasticMan.swf" alt="" class="visible-desktop">
-<img src="<?php echo get_template_directory_uri(); ?>/img/evolutionPlasticMan.swf" alt="" class="visible-desktop">
-
+<div class="span8 offset1">
+<object width="600" height="400"
+classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+codebase="http://fpdownload.macromedia.com/
+pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
+<param name="SRC" value="evolutionPlasticMan.swf">
+<embed src="<?php echo get_template_directory_uri(); ?>/img/evolutionPlasticMan.swf" width="600" height="400">
+</embed>
+</object> 
+<img src="<?php echo get_template_directory_uri(); ?>/img/evolutionPlasticMan.png" alt="" class="hidden-desktop">
+</div>
 </div>
 </div>
 	  <div class="accordion-group">
@@ -51,7 +58,20 @@ Template Name: Problem
 				<div id="collapseOne" class="accordion-body collapse">
 					<div class="accordion-inner">
 <div class="row">
-<div class="span5"
+<div>
+<object width="600" height="500"
+classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+codebase="http://fpdownload.macromedia.com/
+pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
+<param name="SRC" value="plasticCycle.swf">
+<embed src="<?php echo get_template_directory_uri(); ?>/img/plasticCycle.swf" width="600" height="500">
+</embed>
+</object> 
+<img src="<?php echo get_template_directory_uri(); ?>/img/plasticCycleStatic.png" alt="" class="hidden-desktop">
+
+</div>
+<div class="span10">
+
 <p>Plastics have been a tremendous help to our way of life in the world. It has been used in the production of homes, cars, offices, playgrounds, schools, toys, food and fluid containers. But despite how they have helped make our lives a little easier, they can pose a significant threat to the things the surfing community values greatly.</p>
 
 <p>Plastic usage is among the biggest threats to Portugal’s coastline. Most plastic pollution on the beaches start out as litter on farmland, beaches and streets. When it rains, that plastic is flushed into storm drains or directly into streams, rivers and oceans. Once that plastic has entered the water, marine life can often mistake it for food.</p> 
@@ -63,8 +83,7 @@ Template Name: Problem
 <p>Visit the <a href="#">Rise Above Plastics site</a> and click on the “Resources” tab to learn some quick facts about the negative impact plastics has on the environment and learn ways to reduce it. 
 </p>
 </div>
-<img src="<?php echo get_template_directory_uri(); ?>/img/plasticCycle.swf" alt="" class="visible-desktop">
-<img src="<?php echo get_template_directory_uri(); ?>/img/plasticCycleStatic.png" alt="" class="hidden-desktop">
+
 </div>					
 				</div>
 				</div>
