@@ -729,6 +729,7 @@ padding:5px 20px;
 		font-size:18px;
 		text-decoration:none;
 		padding-bottom:0px;}
+		.quotes{display:block;}
 }
   
   
@@ -785,4 +786,6 @@ font-family:helvetica;
     height:auto;
 }
 
-.quotepic{max-width:150px;border:5px solid white;display:inline;float:left;margin-right:10px;}
+.quotepic{max-width:150px;border:5px solid white;display:inline;float:left;margin-right:10px; clear:both;}
+
+.quotepicdouble{max-width:100px;border:5px solid white;display:inline;float:left;margin-right:10px;}
