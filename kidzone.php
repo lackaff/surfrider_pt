@@ -88,10 +88,14 @@ Template Name: Kid-Zone
                     <div class="row">
 						<div class="span6">
 						<h2>What can you do?</h2>
-						<ul>
-						<li><strong>Become a protector of the coast!</strong> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</li>
-						<li><strong>Talk to your teachers! </strong>Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</li> 							<li><strong>Tell your friends!</strong> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </li>
-						</ul>
+						
+						<h5>Become a protector of the coast!</h5>
+						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</p>
+						<h5>Talk to your teachers!</h5>
+						<p>Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</p> 							
+						<h5>Tell your friends!</h5>
+						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </p>
+						
 		</div><!-- end of span 6-->
 						<img src="<?php echo get_template_directory_uri(); ?>/img/fist.png" class="span3" />
 						</div> <!-- end of row -->
@@ -106,15 +110,20 @@ Template Name: Kid-Zone
                     <div class="row">
 						<div class="span">
 						<h2>Ready To Catch Your First Wave?</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet leo nisi, sit amet blandit sem. Integer viverra erat at tortor consectetur aliquet. Nam lectus quam, aliquam eget tempor eu, laoreet scelerisque dui. Nam urna est, tincidunt ac molestie in, porttitor nec purus. In et justo orci. Donec vel massa diam, sed vehicula ligula. Donec at pellentesque leo. Phasellus bibendum erat non urna convallis nec vestibulum lacus placerat. Mauris sapien risus, elementum eget consequat sit amet, rhoncus a velit. Integer consectetur, dui non tempus fermentum, leo nisi dapibus ligula, at rutrum lorem libero sit amet dolor. Nulla tortor mi, aliquet in pretium id, dictum iaculis orci. Vivamus laoreet interdum luctus. Nullam laoreet iaculis ultrices. Proin at enim ut purus adipiscing scelerisque. Aenean vitae eros in lacus pellentesque vehicula.</p>
 
-<p>Sed eu mauris a velit ultrices vulputate vel vitae nulla. Suspendisse risus lorem, pulvinar quis eleifend nec, posuere a ante. Vestibulum venenatis lectus et tellus luctus quis dignissim magna imperdiet. Proin vel nisi varius nisl faucibus mollis non quis dolor. In cursus viverra augue eget lobortis. Morbi tristique, quam eu elementum semper, est nibh luctus elit, egestas commodo est nulla in est. Aenean lobortis, purus in mattis lobortis, ante purus aliquam ipsum, a placerat metus enim blandit elit. Nulla mattis iaculis sapien. Fusce nec augue tellus. Maecenas volutpat tristique nunc nec tincidunt. Etiam ultricies convallis gravida.</p>
-
-<p>Nunc iaculis, nunc eget malesuada elementum, sapien purus rutrum nisl, eu blandit orci massa sit amet sem. Donec sollicitudin tristique nisl, vitae convallis dolor malesuada non. Phasellus adipiscing tortor at nisi lacinia mollis. Vestibulum id mauris urna. Sed imperdiet magna eget risus adipiscing ac ornare tellus malesuada. Donec aliquam ante neque. Ut varius, eros quis bibendum ornare, mauris augue tempus risus, in posuere nibh metus ut sem.</p>
-
-<p>Proin sed orci vel lectus aliquam ullamcorper sed venenatis massa. In ipsum mi, ultricies et imperdiet ac, feugiat nec tortor. In ac neque tellus. Cras sed mauris lacus. Etiam pharetra ultricies risus non euismod. Donec sed luctus lacus. Duis vulputate feugiat turpis et ultrices. Donec ultricies mi vel dolor tincidunt viverra. Sed lacinia pretium luctus. Suspendisse euismod interdum imperdiet. Vestibulum ultricies lectus vitae nisl dapibus interdum. Aenean lobortis volutpat lectus eu egestas. Aenean in ligula ipsum, eu luctus tellus.</p>
-
-<p>Fusce mattis auctor justo id convallis. Quisque accumsan lorem a erat blandit egestas. In lobortis consequat posuere. Fusce sit amet augue diam. Nam suscipit fringilla mi, et ultrices nulla consectetur a. Duis iaculis nulla sit amet justo tempor posuere. Sed nec est sed ligula molestie dictum in pulvinar sem. Ut eget laoreet neque. Quisque gravida ullamcorper sagittis. Morbi lorem dui, faucibus eget commodo eu, fermentum ac sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.  </p>
+<p>Catching your first wave as a surfer can be a pretty big deal. Getting up on the board for the first time correctly can take a lot of time and effort, but once you’re there it can make for a memory that will stick with you for a while.  Here are some quick tips to make sure catching your first wave is awesome.</p>
+<dl>
+<dt><h5>Be patient</h5></dt>
+<dd>Before you get started, decide you won’t get too frustrated. Surfing is supposed to be fun, and it will be. But things can be pretty tough in the beginning. You’ll take some pretty rough tumbles and make get a few knicks or scratches. Make sure you give yourself some time to relax and take in your beautiful surroundings when you need a break.</dd>
+<dt><h5>Be persistent</h5></dt>
+<dd>Good surfers have a determined attitude. They work hard and aren’t afraid to fall off their board a time or two. The only way to get better is to keep practicing!</dd>
+<dt><h5>Be confident</h5></dt>
+<dd>Don’t be afraid! People of all ages can learn to surf. People old and young can do it, so you can too. You’re never too young or old to get started! </dd>
+<dt><h5>Be smart</h5></dt>
+<dd>If you’re going to surf, you’ve got to have the right equipment and help along the way. 
+<ul><li>Pick the right board. As far as boards go, you’ll probably wanted a foam surfboard to start. They’re great for beginners, offer a ton of flotation and don’t hurt as much when they bump into you. They can be a little heavy though. If you’re just trying out surfing for the first time, it might be best to convince your Mom and Dad to help you rent one first. If they decide to buy instead, have them take a look at our guide to surfing sustainably. If they go with a foam board to start, selling can be fairly easy.</li></ul> 
+</dd>
+</dl>
 						</div><!-- end of span 6-->
 						</div> <!-- end of row -->
 					</div>
@@ -180,7 +189,8 @@ Template Name: Kid-Zone
 	  <div class="accordion-group">
 		  <div class="accordion-heading">
 			  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseOne5">
-				  	About Us
+			  	<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileKZAbout.gif" alt="">
+				  	<h4 class="KZlabels"> About Us</h4>
 			</a>
 			</div>
 
@@ -207,17 +217,20 @@ Template Name: Kid-Zone
 <div class="accordion-group">
 	<div class="accordion-heading">
 	<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseTwo5">
-	Take Action
+				<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileKZAction.gif" alt="">
+				  	<h4 class="KZlabels">Take Action</h4>
 	</a>
 	</div>
 		<div id="collapseTwo5" class="accordion-body collapse">
 						<div class="accordion-inner">
 						
 						<h2>What can you do?</h2>
-							<ul>
-								<li>Become a protector of the coast! You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</li>
-								<li>Talk to your teachers! Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</li> 					<li>Tell your friends! If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </li>
-							</ul>
+							<h5>Become a protector of the coast!</h5>
+						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</p>
+						<h5>Talk to your teachers!</h5>
+						<p>Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</p> 							
+						<h5>Tell your friends!</h5>
+						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </p>
 		
 
 						
@@ -233,20 +246,26 @@ Template Name: Kid-Zone
 <div class="accordion-group">
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseThree5">
-Become a Protector of the Coast
+	<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileKZSurf.gif" alt="">
+				  	<h4 class="KZlabels">Surfing</h4>
 </a>
 </div>
 <div id="collapseThree5" class="accordion-body collapse">
 <div class="accordion-inner">
-						<p>If you are under 16 you can become a protector of the coast for 15€ a year. </p>
 
-						<p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
-						<ul>
-							<li>Bronze (15€) - T-shirt, 10% off Surfrider affiliated stores</li>
-							<li>Silver (25€) - T-shirt, 20% off Surfrider affiliated stores and restaurants, PSFF free one-day pass</li>
-							<li>Gold (50€) - T-shirt, 20% off Surfrider affiliated stores and restaurants, hoodie, 20% off a surf lesson with a Surfrider partner. PSFF free one-day pass</li>
-						</ul>
-
+<p>Catching your first wave as a surfer can be a pretty big deal. Getting up on the board for the first time correctly can take a lot of time and effort, but once you’re there it can make for a memory that will stick with you for a while.  Here are some quick tips to make sure catching your first wave is awesome.</p>
+<dl>
+<dt><h5>Be patient</h5></dt>
+<dd>Before you get started, decide you won’t get too frustrated. Surfing is supposed to be fun, and it will be. But things can be pretty tough in the beginning. You’ll take some pretty rough tumbles and make get a few knicks or scratches. Make sure you give yourself some time to relax and take in your beautiful surroundings when you need a break.</dd>
+<dt><h5>Be persistent</h5></dt>
+<dd>Good surfers have a determined attitude. They work hard and aren’t afraid to fall off their board a time or two. The only way to get better is to keep practicing!</dd>
+<dt><h5>Be confident</h5></dt>
+<dd>Don’t be afraid! People of all ages can learn to surf. People old and young can do it, so you can too. You’re never too young or old to get started! </dd>
+<dt><h5>Be smart</h5></dt>
+<dd>If you’re going to surf, you’ve got to have the right equipment and help along the way. 
+<ul><li>Pick the right board. As far as boards go, you’ll probably wanted a foam surfboard to start. They’re great for beginners, offer a ton of flotation and don’t hurt as much when they bump into you. They can be a little heavy though. If you’re just trying out surfing for the first time, it might be best to convince your Mom and Dad to help you rent one first. If they decide to buy instead, have them take a look at our guide to surfing sustainably. If they go with a foam board to start, selling can be fairly easy.</li></ul> 
+</dd>
+</dl>
 </div>
 </div>
 </div>
@@ -259,21 +278,22 @@ Become a Protector of the Coast
 <div class="accordion-group">
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseFour5">
-Sustainable Surfing
+	<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileKZJoin.gif" alt="">
+				  	<h4 class="KZlabels">Join Surfrider</h4>
 </a>
 </div>
 <div id="collapseFour5" class="accordion-body collapse">
 <div class="accordion-inner">
-<p>Though the action of riding a wave is environmentally friendly, there are ways the lifestyle and industry associated with it can be improved to have less negative impact on the environment. Here are some of Surfrider’s quick tips to surfing sustainably. </p>
 
+						<p>If you are under 16 you can become a protector of the coast for 15€ a year. </p>
+
+						<p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
 						<ul>
-							<li>Purchase your equipment from companies that localize production. Despite how well a product may be made by a certain brand, the petroleum involved in transport can pose a significant threat to the health of the environment. </li>
-							<li>Choose to purchase from brands who place emphasis on using materials that are good for the environment. Manufacturers can reduce the toxicity of surfboard and wetsuit production by using alternative materials instead. By opting to support companies that do with your purchase, you help spur a small amount of change in the industry. </li>
-							<li>Shop locally from retailers who deal with waste and energy use responsibly. It’s great if a surfing business caries great products, but if it’s reckless in how it disposes of the waste that comes with those materials, you’re just contributing to more toxic waste from the surfing industry. </li>
-							<li>Make less surf trips and drive less. If you have the option to surf a full day once a week versus one hour five days a week, you can significantly reduce the amount of fuel you use in travel. </li>
-							<li>Seek out more ways to create less waste on your own. Be as wary of the impact you have on the environment as you can. </li>
+							<li>Bronze (15€) - T-shirt, 10% off Surfrider affiliated stores</li>
+							<li>Silver (25€) - T-shirt, 20% off Surfrider affiliated stores and restaurants, PSFF free one-day pass</li>
+							<li>Gold (50€) - T-shirt, 20% off Surfrider affiliated stores and restaurants, hoodie, 20% off a surf lesson with a Surfrider partner. PSFF free one-day pass</li>
 						</ul>
-						<p>By following these tips, you can help make sure the waters you choose to surf in are clean and healthy for you, your friends and the rest of the surfing community. </p>
+
 </div>
 </div>
 </div>
