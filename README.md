@@ -8,8 +8,8 @@ Setup Instructions
 ----------------------------------
 
 1.  Install Wordpress, enable [multisite feature](https://codex.wordpress.org/Create_A_Network).
-2. Create two blogs, one for each language.
-3.  Install surfrider-en and surfrider-pt themes.
+2.  Create two blogs, one for each language.
+3.  Install surfrider and surfride_pt themes.
 4.  Activate appropriate theme for each blog.
 
 2. Install Plugins
@@ -21,10 +21,10 @@ The following plugins must be installed and configured:
 -  Facebook Gallery
 -  Event Manager
 
-3. Generate Static Pages
-------------------------
+3. Generate Static Pages and Assign Templates
+---------------------------------------------
 
-The following pages must be created in Wordpress for the site to function correctly:
+The following pages must be created in both Wordpress sites, and the appropriate template must be added to each page:
 
 -  About
 -  Blog
