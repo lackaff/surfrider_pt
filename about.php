@@ -252,7 +252,9 @@ Template Name: About
 		</div>
 			<div id="collapseThree" class="accordion-body collapse">
 				<div class="accordion-inner">
-				<p> Volunteer's are an important part of Surfrider. If you would like to join you can get more information on our Become a Member page!</p>
+				<p> Volunteers are the backbone of what Surfrider represents. Their giving spirit and willingness to work for the betterment of the community are essential to Surfrider carrying out its mission. Give back to Ericeira by becoming a member today!
+
+</p>
 			<a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/membership/">Volunteer</a>
 
 				</div>

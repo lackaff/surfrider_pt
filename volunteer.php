@@ -67,10 +67,25 @@ Template Name: Volunteer
 				<?php //get_sidebar(); // sidebar 1 ?>
     
 			</div> <!-- end #content -->
-                        
-                        
-		</div> <!-- end of span 10 offset 1 -->
-	</div> <!-- end of row -->
+           </div> <!-- end of span 10 offset 1 -->   
+           
+         <div class="span5 quotes offset1 clearfix">
+							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
+							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. "</p>
+							<small><cite title="Source Title" class="pull-right">-Madeline Chapin</cite></small></br>
+							<a href="#" class="pull-right">link to video</a>
+					</div>
+					
+<div class="span5 quotes clearfix">
+							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
+							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. "</p>
+							<small><cite title="Source Title" class="pull-right">-Madeline Chapin</cite></small></br>
+							<a href="#" class="pull-right">link to video</a>
+					</div>
+
+            
+		</div> <!-- end of row -->  
+	
 </div> <!-- end of container -->
 
                 
