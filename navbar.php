@@ -30,38 +30,38 @@ Template Name: navbar
               
               
               
-               <li><a href="<?php bloginfo('url'); ?>/about/">About Us</a></li>
+               <li><a href="<?php bloginfo('url'); ?>/about/">Quem Somos</a></li>
 		
-		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Learn<span class="caret"></span></a>
+		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Aprender<span class="caret"></span></a>
 			<ul class="dropdown-menu">
-				<li><a href="<?php bloginfo('url'); ?>/problem/">The Problem</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/resources/">Resources</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/psa/">PSA's</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/problem/">O Problema</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/resources/">Recursos</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/psa/">PSAs</a></li>
 			</ul>
 		</li>
 		
 			
-		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Take Action<span class="caret"></span></a>
+		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Agir<span class="caret"></span></a>
 			<ul class="dropdown-menu">
-				<li><a href="<?php bloginfo('url'); ?>/why-give/">Why Give?</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/volunteer/">Volunteer</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/membership/">Become a Member</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/calendar/">Events Calendar</a> </li>
+				<li><a href="<?php bloginfo('url'); ?>/why-give/">Por que dar?</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/volunteer/">Voluntário</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/membership/">Torne-se um membro</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/calendar/">Agenda de Eventos</a> </li>
 			</ul>
 		</li>	
 		
 		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog<span class="caret"></span></a>
 			<ul class="dropdown-menu">
             	<li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/photos/">Photos</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/video/">Videos</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/photos/">Fotos</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/video/">Vídeos</a></li>
 			</ul>
 		</li>
 		
 
-		<li> <a href="<?php bloginfo('url'); ?>/contact/">Contact Us</a></li>	
+		<li> <a href="<?php bloginfo('url'); ?>/contact/">Contato</a></li>	
 
-		<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" ><img src="<?php echo get_template_directory_uri(); ?>/img/kidzone.png" class="visible-desktop" id="kidzonepic"><span class="hidden-desktop" id="kidzonemobile">Kid Zone </span></a></li>	
+		<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" ><img src="<?php echo get_template_directory_uri(); ?>/img/kidzone.png" class="visible-desktop" id="kidzonepic"><span class="hidden-desktop" id="kidzonemobile">Kid Zona</span></a></li>	
               </ul>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->

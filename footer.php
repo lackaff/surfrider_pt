@@ -29,42 +29,42 @@
             
                         <div>
                             <ul class="majornav">
-                                <li class="majornav">About Us
+                                <li class="majornav">Quem Somos
                                     <ul>
-                                        <li><a href="<?php bloginfo('url'); ?>/about/">About Us</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/about/">Our Staff</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/about/">Our Partners</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/about/">Sustainable Surfing</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Quem Somos</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Nossa Equipe</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Nossos parceiros</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Surfe Sustentável</a></li>
                                     </ul>
                                 </li>
-                                <li class="majornav">Learn
+                                <li class="majornav">Aprender
                                     <ul>
-                                        <li><a href="<?php bloginfo('url'); ?>/problem/">The Problem</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/resources/">Resources</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/problem/">O Problema</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/resources/">Recursos</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/psa/">PSAs</a></li>
                                     </ul>
                                 </li>
                                 <li class="majornav">Blog
                                     <ul>
                                         <li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/photos/">Photos</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/video/">Videos</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/photos/">Fotos</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/video/">Vídeos</a></li>
                                     </ul>
                                 </li>
-                                <li class="majornav">Take Action
+                                <li class="majornav">Agir
                                     <ul>
-                                        <li><a href="<?php bloginfo('url'); ?>/why-give/">Why Give?</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/volunteer/">Volunteer</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/membership/">Become a Member</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/calendar/">Events Calendar</a> </li>
+                                        <li><a href="<?php bloginfo('url'); ?>/why-give/">Por que dar?</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/volunteer/">Voluntário</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/membership/">Torne-se um membro</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/calendar/">Agenda de Eventos</a> </li>
                                     </ul>
                                 </li>
-                                <li class="majornav">Kids' Zone
+                                <li class="majornav">Zona Kids
                                     <ul>
-                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >About Us</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Take Action</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Surfing</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Become a Member</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Quem Somos</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Agir</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Surfe</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Torne-se um membro</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -75,7 +75,7 @@
 
 				<div class="span3 pull-right">
                         <div class="row">
-							<h5>Contact Surfrider </h5>
+							<h5>CFale Surfrider </h5>
 							<p>emailaddress@gmail.com</p>
 							<p>88888888</p>
                         </div>
@@ -118,7 +118,7 @@
             </div>
 	<div class="span5 pull-right">
                         <div class="row">
-							<h5>Contact Surfrider </h5>
+							<h5>Fale Surfrider </h5>
 							<p>emailaddress@gmail.com - 88888888</p>
 							
                         </div>
