@@ -27,17 +27,15 @@ Template Name: WhyGive
           
 				<h2>Why Give</h2>   
 				<div class="span10">
-				<div class="span5 pull-right quotes">
-					<div class="span2">
-					<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
+					<div class="span5 pull-right quotes">
+							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
+							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. "</p>
+							<small><cite title="Source Title" class="pull-right">-Madeline Chapin</cite></small></br>
+							<a href="#" class="pull-right">link to video</a>
 					</div>
-					<div class="span2">
-						<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. "</p>
-						<small><cite title="Source Title" class="pull-right">-Madeline Chapin</cite></small></br>
-						<a href="#" class="pull-right">link to video</a>
-					</div>	
-			</div>
-				<p>We are ALL responsible for the upkeep and protection of this beautiful coastline. Ericeira is now part of World Wave Reserve heritage sites. Whether someone has lived in Ericeira for decades or is just visiting it for the first time, it’s probably obvious just how beautiful this place is. The Portuguese economy thrives on tourism from local and international visitors alike, so keeping the country and its waters clean is an absolute necessity.</p>
+					
+					
+					<p>We are ALL responsible for the upkeep and protection of this beautiful coastline. Ericeira is now part of World Wave Reserve heritage sites. Whether someone has lived in Ericeira for decades or is just visiting it for the first time, it’s probably obvious just how beautiful this place is. The Portuguese economy thrives on tourism from local and international visitors alike, so keeping the country and its waters clean is an absolute necessity.</p>
 
 <p>But for those who live in the area, a clean environment does more than just boost the tourism industry. It helps protect the resources people rely on to survive and enjoy their lives. The use of plastic  has risen in recent years, and traces are now found in local wildlife and now exists in some percentage of the food caught and consumed locally.</p>
 
@@ -62,10 +60,10 @@ Template Name: WhyGive
 <p>If you’re active on a local level, the impact you have generates noise to other chapters around the country, Europe and the world. We are all part of a huge team working toward a more sustainable future.</p>
 
 <p>It is so important to give back in this short lifetime. By helping Surfrider achieve its mission, every little ‘positive’ action helps.</p>
-
 <p>Being part of Surfrider Foundation is an honor. If we have the ability to contribute and educate or influence in some way then hopefully we will see a reduction in the harmful effects that are evident today.
 </p>
-</div>                        
+</div>  
+                      
 		</div> <!-- end of span 10 offset 1 -->
 	</div> <!-- end of row -->
 </div> <!-- end of container -->

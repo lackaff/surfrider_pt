@@ -778,10 +778,11 @@ font-family:helvetica;
 .quotes{
 	padding:15px;
 	padding-top:20px;
+	margin-bottom:10px;
   	background-color:#eeeeee;
   	-webkit-border-radius: 5px;
     border-radius: 5px;
     height:auto;
 }
 
-.quotepic{max-width:150px;border:5px solid white;}
+.quotepic{max-width:150px;border:5px solid white;display:inline;float:left;margin-right:10px;}
