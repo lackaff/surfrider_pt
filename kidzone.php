@@ -51,7 +51,8 @@ Template Name: Kid-Zone
 
     <div class="container" id="about">
     <div class="row">
-    <div class="span10 offset1">
+    <h5 class="span1">Download Your Activity Pack!</h5>
+    <div class="span10">
       <!-- main content of the about page  -->
       
       <div class="accordion" id="secondnav">
@@ -77,6 +78,7 @@ Template Name: Kid-Zone
 	</ul>
 						</div><!-- end of span 6-->
 						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" />
+						
 						</div> <!-- end of row -->
 					</div>
 				</div>
@@ -178,9 +180,7 @@ Template Name: Kid-Zone
 
 <div class="visible-phone">
 
-  <div class="container">
-	  <div class="row">
-		  <div class="span10 offset1">
+  
 
   
 <!--  begining of accordian --> 
@@ -196,6 +196,8 @@ Template Name: Kid-Zone
 
 				<div id="collapseOne5" class="accordion-body collapse">
 					<div class="accordion-inner">
+					<div class="row">
+    <div class="span10 offset1">
 <h2>About Us</h2>
 						<p>A group of passionate surfers started Surfrider in 1984 as a way to put and end to pollution in the water they surfed in and loved so much. Tom Curren, three-time world surfing champion, started a new life in France and noticed the terrible state of the beaches. As a response, he created the European headquarters of Surfrider Foundation in 1990 in Biarritz (France).  </p>
 
@@ -211,6 +213,7 @@ Template Name: Kid-Zone
 				</div>
 				</div>
 		</div>
+		</div></div>
 		<!-- end of accordian group --> 
 		
   <!-- begining of accordian group --> 		
@@ -223,7 +226,8 @@ Template Name: Kid-Zone
 	</div>
 		<div id="collapseTwo5" class="accordion-body collapse">
 						<div class="accordion-inner">
-						
+						<div class="row">
+    <div class="span10 offset1">
 						<h2>What can you do?</h2>
 							<h5>Become a protector of the coast!</h5>
 						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</p>
@@ -233,7 +237,7 @@ Template Name: Kid-Zone
 						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </p>
 		
 
-						
+						</div></div>
 		  				 </div>
 		</div>
 </div>
@@ -252,7 +256,8 @@ Template Name: Kid-Zone
 </div>
 <div id="collapseThree5" class="accordion-body collapse">
 <div class="accordion-inner">
-
+<div class="row">
+    <div class="span10 offset1">
 <p>Catching your first wave as a surfer can be a pretty big deal. Getting up on the board for the first time correctly can take a lot of time and effort, but once you’re there it can make for a memory that will stick with you for a while.  Here are some quick tips to make sure catching your first wave is awesome.</p>
 <dl>
 <dt><h5>Be patient</h5></dt>
@@ -269,7 +274,7 @@ Template Name: Kid-Zone
 </div>
 </div>
 </div>
-
+</div></div>
   <!-- end of accordian group --> 
 
   
@@ -284,6 +289,8 @@ Template Name: Kid-Zone
 </div>
 <div id="collapseFour5" class="accordion-body collapse">
 <div class="accordion-inner">
+<div class="row">
+    <div class="span10 offset1">
 
 						<p>If you are under 16 you can become a protector of the coast for 15€ a year. </p>
 
@@ -297,13 +304,12 @@ Template Name: Kid-Zone
 </div>
 </div>
 </div>
-
+</div>
+</div>
   <!-- end of accordian group --> 
 
   </div><!-- end of accordian --> 
-  </div><!-- /.span10 offset1 -->
-  </div><!-- /.row -->
-  </div> <!-- /.container -->
+
 
 
 
