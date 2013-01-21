@@ -100,7 +100,19 @@ Waste and Petrol
 <div id="collapseTwo" class="accordion-body collapse">
 <div class="accordion-inner">
 <div class="row">
-<div class="span5">
+<div>
+<object width="600" height="500"
+classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+codebase="http://fpdownload.macromedia.com/
+pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
+<param name="SRC" value="plasticCycle.swf">
+<embed src="<?php echo get_template_directory_uri(); ?>/img/trash.swf" width="600" height="500">
+</embed>
+</object> 
+<img src="<?php echo get_template_directory_uri(); ?>/img/trashStatic.png" alt="" class="hidden-desktop">
+</div>
+<div class="span10">
+
  <p>The dumping of waste into the ocean is also a primary concern of Surfrider. While the Ericeira community has a proud heritage in the fishing industry, many fishermen unfortunately practice habits that aren’t healthy for the world’s oceans. Many fishermen simply dump waste overboard, rather than stowing it securely until it can be disposed of properly once returning to shore. This waste shows up in the form of plastics, fishing nets and other fibers and toxic chemicals that often have a direct impact on the very fish they catch for the community to later consume.</p> 
 
 <p>If any one group cares about protecting the environment, it’s the surfing community. Despite this, however, the surf industry has potential for negative impact on the environment as well. Petroleum usage, in particular, can pose a threat to the environment because of its prevalence in wetsuits and surfboards.</p>
@@ -109,8 +121,7 @@ Waste and Petrol
 
 <p>Check out SustainableSurf for tips on how to buy the right eco-friendly board.</p>
 </div>
-<img src="<?php echo get_template_directory_uri(); ?>/img/plasticCycle.swf" alt="" class="visible-desktop">
-<img src="<?php echo get_template_directory_uri(); ?>/img/trashStatic.png" alt="" class="hidden-desktop">
+
 
 </div>
 </div>
