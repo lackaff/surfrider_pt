@@ -311,16 +311,14 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
     </div><!-- /.span10 offset1 -->
     </div><!-- /.row -->
 	</div><!-- /.container -->
-	
+
 </div><!-- ******************end of hidden phone *************************************** -->
 
 <div class="visible-phone">
 
-  <div class="container" >
-	  <div class="row">
-		  <div>
 
-  
+<div class="container">
+	 
 <!--  begining of accordian --> 
   <div class="accordion" id="accordion5">
   <!-- begining of accordian group --> 
@@ -334,7 +332,8 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 
 				<div id="collapseOne5" class="accordion-body collapse">
 					<div class="accordion-inner">
-
+<div class="row">
+    <div class="span10 offset1">
 <div class="span5">
 <p>Surfrider Foundation Ericeira is a voluntary chapter of Surfrider Europe. </p>
 <p>It is an associated collective of passionate surfers that shares the same goals of protecting and providing sustainable growth through education and positive activity in the local environment. The organization seeks to protect the Ericeira coastline’s beautiful resources that are so often taken for granted. </p>
@@ -370,7 +369,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 						<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike. </p>
 </div>
 
-
+</div></div>
 				</div>
 				</div>
 		</div>
@@ -385,7 +384,8 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 </div>
 <div id="collapseTwo5" class="accordion-body collapse">
 <div class="accordion-inner">
-  
+  <div class="row">
+    <div class="span10 offset1">
    <img src="<?php echo get_template_directory_uri(); ?>/img/corecircle.png" class="span2">
    <h2>Core Members</h2>
 						<div class="row">	
@@ -485,7 +485,8 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 				 </div>
 </div>
 </div>
-
+</div>
+</div>
   <!-- end of accordian group --> 
 
   
@@ -500,6 +501,8 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 </div>
 <div id="collapseThree5" class="accordion-body collapse">
 <div class="accordion-inner">
+<div class="row">
+    <div class="span10 offset1">
 <p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle. </p>
 
 <p>Ericeira City Hall grants Surfrider Ericerira the permission we need to be active in the community. It also aids in funding and collects taxes.
@@ -509,7 +512,8 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 </div>
 </div>
 </div>
-
+</div>
+</div>
   <!-- end of accordian group --> 
 
   
@@ -540,8 +544,7 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
   <!-- end of accordian group --> 
 
   </div><!-- end of accordian --> 
-  </div><!-- /.span10 offset1 -->
-  </div><!-- /.row -->
+</div>
   </div> <!-- /.container -->
 
 
