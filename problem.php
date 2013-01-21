@@ -44,7 +44,7 @@ pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
 <embed src="<?php echo get_template_directory_uri(); ?>/img/evolutionPlasticMan.swf" width="600" height="400">
 </embed>
 </object> 
-<img src="<?php echo get_template_directory_uri(); ?>/img/evolutionPlasticMan.png" alt="" class="hidden-desktop">
+<img src="<?php echo get_template_directory_uri(); ?>/img/evolutionStatic.png" alt="" class="hidden-desktop">
 </div>
 </div>
 </div>
