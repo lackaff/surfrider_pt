@@ -36,7 +36,7 @@ Template Name: navbar
 			<ul class="dropdown-menu">
 				<li><a href="<?php bloginfo('url'); ?>/problem/">The Problem</a></li>
 				<li><a href="<?php bloginfo('url'); ?>/resources/">Resources</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/psa/">PSA's</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/psa/">PSAs</a></li>
 			</ul>
 		</li>
 		
