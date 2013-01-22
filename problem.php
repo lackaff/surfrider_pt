@@ -58,19 +58,10 @@ pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
 				<div id="collapseOne" class="accordion-body collapse">
 					<div class="accordion-inner">
 <div class="row">
-<div>
-<object width="600" height="500"
-classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
-codebase="http://fpdownload.macromedia.com/
-pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
-<param name="SRC" value="plasticCycle.swf">
-<embed src="<?php echo get_template_directory_uri(); ?>/img/plasticCycle.swf" width="600" height="500">
-</embed>
-</object> 
-<img src="<?php echo get_template_directory_uri(); ?>/img/plasticCycleStatic.png" alt="" class="hidden-desktop">
 
-</div>
+
 <div class="span10">
+<img src="<?php echo get_template_directory_uri(); ?>/img/plasticCycle.jpg" alt="" id="plasticcycle">
 
 <p>Plastics have been a tremendous help to our way of life in the world. It has been used in the production of homes, cars, offices, playgrounds, schools, toys, food and fluid containers. But despite how they have helped make our lives a little easier, they can pose a significant threat to the things the surfing community values greatly. </p>
 
