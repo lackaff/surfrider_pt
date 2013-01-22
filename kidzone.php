@@ -43,7 +43,6 @@ Template Name: Kid-Zone
 	        	<h4 class="labels">Join Surfrider</h4>
           </a>
         </div>
-        
     </div><!-- /.head pic -->
 
 
@@ -51,8 +50,7 @@ Template Name: Kid-Zone
 
     <div class="container" id="about">
     <div class="row">
-    <h5 class="span1">Download Your Activity Pack!</h5>
-    <div class="span10">
+    <div class="span10 offset1">
       <!-- main content of the about page  -->
       
       <div class="accordion" id="secondnav">
@@ -79,7 +77,7 @@ Template Name: Kid-Zone
 						</div><!-- end of span 6-->
 						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" />
 						
-						</div> <!-- end of row -->
+						</div> <!-- end of row -->  
 					</div>
 				</div>
 	      </div>	
@@ -91,11 +89,11 @@ Template Name: Kid-Zone
 						<div class="span6">
 						<h2>What can you do?</h2>
 						
-						<h5>Become a protector of the coast!</h5>
+						<h5><a href="<?php bloginfo('url'); ?>/kid-zone/#aboutFour/">Become a protector of the coast!</a></h5>
 						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</p>
-						<h5>Talk to your teachers!</h5>
+						<h5><a href="<?php bloginfo('url'); ?>/kid-zone/">Talk to your teachers!</a></h5>
 						<p>Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</p> 							
-						<h5>Tell your friends!</h5>
+						<h5><a href="<?php bloginfo('url'); ?>/contact/" >Tell your friends!</a></h5>
 						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </p>
 						
 		</div><!-- end of span 6-->
@@ -229,11 +227,12 @@ Template Name: Kid-Zone
 						<div class="row">
     <div class="span10 offset1">
 						<h2>What can you do?</h2>
-							<h5>Become a protector of the coast!</h5>
+							
+						<h5><a href="<?php bloginfo('url'); ?>/kid-zone/#aboutFour/">Become a protector of the coast!</a></h5>
 						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</p>
-						<h5>Talk to your teachers!</h5>
+						<h5><a href="<?php bloginfo('url'); ?>/kid-zone/">Talk to your teachers!</a></h5>
 						<p>Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</p> 							
-						<h5>Tell your friends!</h5>
+						<h5><a href="<?php bloginfo('url'); ?>/contact/" >Tell your friends!</a></h5>
 						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </p>
 		
 
@@ -310,6 +309,7 @@ Template Name: Kid-Zone
 
   </div><!-- end of accordian --> 
 
+    <h5 class="span1">Download Your Activity Pack!</h5>
 
 
 
