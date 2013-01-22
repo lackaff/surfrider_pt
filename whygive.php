@@ -29,9 +29,9 @@ Template Name: WhyGive
 				<div class="span10">
 					<div class="span5 pull-right quotes">
 							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
-							<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. "</p>
-							<small><cite title="Source Title" class="pull-right">-Madeline Chapin</cite></small></br>
-							<a href="#" class="pull-right">link to video</a>
+							<p>"For me Surfrider Foundation is a way to give something back to the ocean."</p>
+							<small><cite title="Source Title" >-Andrea Torn</cite></small></br>
+							<a href="#">Watch the interview</a>
 					</div>
 					
 					
