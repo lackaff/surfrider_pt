@@ -196,7 +196,7 @@ h1{
 	font-weight:100;
 	font-size:50px;
 	padding-top:20px;
-	color:#00487E;
+	color:#003366;
 
 	}
 
@@ -204,7 +204,7 @@ h1{
 h2{
 	border-bottom:3px solid #003366;
 	font-family: 'Helvetica', sans-serif;
-	color:#00487E;
+	color:#003366;
 	font-weight:900;
 
 	}
@@ -213,7 +213,7 @@ h2{
 	border-bottom:3px solid #003366;
 	text-align:center;
 	font-family: 'hand_of_seanregular';
-	color:#00487E;
+	color:#003366;
 	font-weight:100;
 
 	}
@@ -221,23 +221,23 @@ h2{
 h3{
 	border-bottom:1px solid black;
 	font-size:35px;
-	color:#00487E;
+	color:#003366;
 	}
 	
 .post_item h3{
 	border-bottom:1px solid black;
 	font-size:25px;
-	color:#00487E;
+	color:#003366;
 	}
 	
 	
 h3 a{
 
-	color:#00487E;
+	color:#003366;
 	}
 
 h4{
-color:#00487E;
+color:#003366;
 font-weight:900;
 text-decoration:underline;
 }
@@ -403,7 +403,7 @@ padding-bottom:10px;
 
 #menubtn{
 	margin-top:20px;
-	background-color:#00487E;
+	background-color:#003366;
 	background-image: none;
 }
 
@@ -608,7 +608,7 @@ padding:5px 20px;
 		font-weight:100;
 		font-size:30px;
 		padding-top:8px;
-		color:#00487E;
+		color:#003366;
 	} 
 
 	#logoimg{
@@ -672,7 +672,7 @@ padding:5px 20px;
 			font-weight:100;
 			font-size:30px;
 			padding-top:0px;
-			color:#00487E;
+			color:#003366;
 		}
 
 		#logoimg{
@@ -733,7 +733,7 @@ padding:5px 20px;
   
   
 .single-title{
-color:#00487E;
+color:#003366;
 font-weight:900;
 font-family:helvetica;
 }
@@ -741,7 +741,7 @@ font-family:helvetica;
 
 #blogindex {color:#0088CC;}
 
-#blogindex:hover{color:#00487E;}
+#blogindex:hover{color:#003366;}
 
 
 .representativeslist{margin-left:20px;}
@@ -763,13 +763,13 @@ font-family:helvetica;
 #companyName{
 	display:inline;}
 
-#blogheading h2{font-family:'helvetica', 'sans-serif';color:#00487E;}
+#blogheading h2{font-family:'helvetica', 'sans-serif';color:#003366;}
 	
 .side_date{font-weight:900; color:#0088CC;}
 	
 
 
-#fp h2{text-align:center;font-family: 'hand_of_seanregular';color:#00487E;font-weight:100;}
+#fp h2{text-align:center;font-family: 'hand_of_seanregular';color:#003366;font-weight:100;}
 	
 .accordion-toggle{font-weight:600;font-size:18px;}
 
