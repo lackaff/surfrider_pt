@@ -3,14 +3,6 @@ display:inline;
 float:left;
 }
 
-.table h1{
-color:#0088CC;
-}
-
-.table{
-padding-top:0px;
-margin-top:0px;
-}
 
 
 #langSwitch{
@@ -456,9 +448,8 @@ padding-bottom:10px;
 
 .visible-phone #corepic{
 	max-width:150px;
-	display:inline;
-	float:left;
-	margin-right:15px;
+	display:block;
+
 }
 
 .contacticon{
@@ -485,7 +476,7 @@ padding:5px 20px;
 
 }
 
-
+#surfboard{max-height:370px;}
 
 
 /* RESPONSIVE CSS
@@ -533,7 +524,8 @@ padding:5px 20px;
 			padding-bottom:10px;
 		
 		}
-      
+		
+	
 }
 
 
@@ -765,6 +757,16 @@ font-family:helvetica;
 	  max-width:125px;margin-left:-15px;
 }
 
+.table h1{
+color:#0088CC;
+padding:0px;
+
+}
+
+.table{
+padding-top:0px;
+margin-top:0px;
+}
 
 
 .resourceimg{display:inline;}
@@ -776,12 +778,11 @@ font-family:helvetica;
 	
 .side_date{font-weight:900; color:#0088CC;}
 	
-
-
 #fp h2{text-align:center;font-family: 'hand_of_seanregular';color:#003366;font-weight:100;}
 	
 .accordion-toggle{font-weight:600;font-size:18px;}
 
+#accordion5 ul{list-style-type:none;}
 
 .quotes{
 	padding:15px;

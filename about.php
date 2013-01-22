@@ -278,14 +278,16 @@ Template Name: About
 					<h3> Our Partners</h3>
 						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle.</p>
 
-<p>Ericeira City Hall grants Surfrider Ericerira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
-<p>Coastwatch Portugal researches and presents findings on wildlife, coast erosion and statistics for the area. </p>
+<p><strong>Ericeira City Hall</strong> grants Surfrider Ericerira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
+<p><strong>Coastwatch Portugal</strong> researches and presents findings on wildlife, coast erosion and statistics for the area. </p>
 <p>Surfrider also works with a number of sponsors, which can be found listed below:</p>
 <ul><li>Camera Municipal de Mafra</li>
 <li>Patagonia</li>
 <li>Cligeral LDA</li>
+</ul><ul>
 <li>Amar Hostel</li>
 <li>AKI </li>
+</ul><ul>
 <li>Riviera Restaurant </li>
 <li>Tik Tak</li>
 <li>Prim </li></ul>
@@ -303,11 +305,10 @@ Template Name: About
 						<p>Though the action of riding a wave is environmentally friendly, there are ways the lifestyle and industry associated with it can be improved to have less negative impact on the environment. Here are some of Surfrider’s quick tips to surfing sustainably. </p>
 
 						<ul>
-							<li>Purchase your equipment from companies that localize production. Despite how well a product may be made by a certain brand, the petroleum involved in transport can pose a significant threat to the health of the environment. </li>
-							<li>Choose to purchase from brands who place emphasis on using materials that are good for the environment. Manufacturers can reduce the toxicity of surfboard and wetsuit production by using alternative materials instead. By opting to support companies that do with your purchase, you help spur a small amount of change in the industry. </li>
-							<li>Shop locally from retailers who deal with waste and energy use responsibly. It’s great if a surfing business caries great products, but if it’s reckless in how it disposes of the waste that comes with those materials, you’re just contributing to more toxic waste from the surfing industry. </li>
-							<li>Make less surf trips and drive less. If you have the option to surf a full day once a week versus one hour five days a week, you can significantly reduce the amount of fuel you use in travel. </li>
-							<li>Seek out more ways to create less waste on your own. Be as wary of the impact you have on the environment as you can. </li>
+							<li><strong>Purchase your equipment from companies that localize production.</strong> Despite how well a product may be made by a certain brand, the petroleum involved in transport can pose a significant threat to the health of the environment. </li>
+							<li><strong>Choose to purchase from brands who place emphasis on using materials that are good for the environment.</strong> Manufacturers can reduce the toxicity of surfboard and wetsuit production by using alternative materials instead. By opting to support companies that do with your purchase, you help spur a small amount of change in the industry. </li>
+							<li><strong>Shop locally from retailers who deal with waste and energy use responsibly.</strong> It’s great if a surfing business carries great products, but if it’s reckless in how it disposes of the waste that comes with those materials, you’re just contributing to more toxic waste from the surfing industry. </li>
+							<li><strong>Seek out more ways to create less waste on your own.</strong> Be as wary of the impact you have on the environment as you can. </li>
 						</ul>
 						<p>By following these tips, you can help make sure the waters you choose to surf in are clean and healthy for you, your friends and the rest of the surfing community. </p>
 						</div>
@@ -505,17 +506,20 @@ Template Name: About
     <div class="span10 offset1">
 						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle.</p>
 
-<p>Ericeira City Hall grants Surfrider Ericerira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
-<p>Coastwatch Portugal researches and presents findings on wildlife, coast erosion and statistics for the area. </p>
+<p><strong>Ericeira City Hall</strong> grants Surfrider Ericerira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
+<p><strong>Coastwatch Portugal</strong> researches and presents findings on wildlife, coast erosion and statistics for the area. </p>
 <p>Surfrider also works with a number of sponsors, which can be found listed below:</p>
 <ul><li>Camera Municipal de Mafra</li>
 <li>Patagonia</li>
 <li>Cligeral LDA</li>
+</ul><ul>
 <li>Amar Hostel</li>
 <li>AKI </li>
+</ul><ul>
 <li>Riviera Restaurant </li>
 <li>Tik Tak</li>
 <li>Prim </li></ul>
+
 </div>
 </div>
 </div>
@@ -537,11 +541,10 @@ Template Name: About
 <p>Though the action of riding a wave is environmentally friendly, there are ways the lifestyle and industry associated with it can be improved to have less negative impact on the environment. Here are some of Surfrider’s quick tips to surfing sustainably. </p>
 
 						<ul>
-							<li>Purchase your equipment from companies that localize production. Despite how well a product may be made by a certain brand, the petroleum involved in transport can pose a significant threat to the health of the environment. </li>
-							<li>Choose to purchase from brands who place emphasis on using materials that are good for the environment. Manufacturers can reduce the toxicity of surfboard and wetsuit production by using alternative materials instead. By opting to support companies that do with your purchase, you help spur a small amount of change in the industry. </li>
-							<li>Shop locally from retailers who deal with waste and energy use responsibly. It’s great if a surfing business caries great products, but if it’s reckless in how it disposes of the waste that comes with those materials, you’re just contributing to more toxic waste from the surfing industry. </li>
-							<li>Make less surf trips and drive less. If you have the option to surf a full day once a week versus one hour five days a week, you can significantly reduce the amount of fuel you use in travel. </li>
-							<li>Seek out more ways to create less waste on your own. Be as wary of the impact you have on the environment as you can. </li>
+							<li><strong>Purchase your equipment from companies that localize production.</strong> Despite how well a product may be made by a certain brand, the petroleum involved in transport can pose a significant threat to the health of the environment. </li>
+							<li><strong>Choose to purchase from brands who place emphasis on using materials that are good for the environment.</strong> Manufacturers can reduce the toxicity of surfboard and wetsuit production by using alternative materials instead. By opting to support companies that do with your purchase, you help spur a small amount of change in the industry. </li>
+							<li><strong>Shop locally from retailers who deal with waste and energy use responsibly.</strong> It’s great if a surfing business carries great products, but if it’s reckless in how it disposes of the waste that comes with those materials, you’re just contributing to more toxic waste from the surfing industry. </li>
+							<li><strong>Seek out more ways to create less waste on your own.</strong> Be as wary of the impact you have on the environment as you can. </li>
 						</ul>
 						<p>By following these tips, you can help make sure the waters you choose to surf in are clean and healthy for you, your friends and the rest of the surfing community. </p>
 </div>
