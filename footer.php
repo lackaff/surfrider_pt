@@ -75,9 +75,11 @@
 
 				<div class="span3 pull-right">
                         <div class="row">
-							<h5>CFale Surfrider </h5>
-							<p>emailaddress@gmail.com</p>
-							<p>88888888</p>
+							<h5>Fale Surfrider </h5>
+							<p>surfriderericeira@gmail.com</p>
+							<p>+351 918667358 (mob)</p>
+							<p>+351 261867182</p>
+
                         </div>
                          <div class="row">
                             <div class="span3">
@@ -119,9 +121,9 @@
 	<div class="span5 pull-right">
                         <div class="row">
 							<h5>Fale Surfrider </h5>
-							<p>emailaddress@gmail.com - 88888888</p>
-							
-                        </div>
+							<p>surfriderericeira@gmail.com</p>
+							<p>+351 918667358 or +351 261867182</p>
+                        </div>							
                          					
 					
 				</div><!-- end span 6 -->

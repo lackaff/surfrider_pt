@@ -35,9 +35,11 @@ Template Name: WhyGive
 					</div>
 					
 					
-					<p>We are ALL responsible for the upkeep and protection of this beautiful coastline. Ericeira is now part of World Wave Reserve heritage sites. Whether someone has lived in Ericeira for decades or is just visiting it for the first time, it’s probably obvious just how beautiful this place is. The Portuguese economy thrives on tourism from local and international visitors alike, so keeping the country and its waters clean is an absolute necessity.</p>
+<p>We are ALL responsible for the upkeep and protection of this beautiful coastline. Ericeira is now part of World Wave Reserve heritage sites. Whether someone has lived in Ericeira for decades or is just visiting it for the first time, it’s probably obvious just how beautiful this place is. The Portuguese economy thrives on tourism from local and international visitors alike, so keeping the country and its waters clean is an absolute necessity.</p>
 
 <p>But for those who live in the area, a clean environment does more than just boost the tourism industry. It helps protect the resources people rely on to survive and enjoy their lives. The use of plastic  has risen in recent years, and traces are now found in local wildlife and now exists in some percentage of the food caught and consumed locally.</p>
+
+<h5>Everyone plays a role</h5>
 
 <p>Local fisherman, who make their livelihood from the waters of Ericeira, unintentionally hurt their industry’s future by choosing to use plastics and other materials to haul in their catch.</p>
 
@@ -45,23 +47,28 @@ Template Name: WhyGive
 
 <p>Even surfers, who arguably love and enjoy the water and beaches of Ericeira as much as any of group of people, unintentionally introduce petroleum into the ecosystem with their wetsuits and boards.</p>
 
-<p>By choosing to donate your time or money to Surfrider, you create awareness about our cause and help maintain Ericeira as one of the last paradises on earth. Surfrider loves the ocean and wants to protect it.</p>
+<h5>Choose to give back</h5>
+By choosing to donate your time or money to Surfrider, you create awareness about our cause and help maintain Ericeira as one of the last paradises on earth. Surfrider loves the ocean and wants to protect it.
+<dl>
+<dt>Why GIVE time?</dt> <dd> Time is free and a simple and effective way is to contribute as a volunteer and attend three beach cleans per year.</dd>
 
-<p><strong>Why GIVE time?</strong> – Time is free and a simple and effective way is to contribute as a volunteer and attend three beach cleans per year.</p>
+<dt> Why GIVE money?</dt> <dd>Surfrider Ericeira is run on a voluntary basis and your contribution enables our team to pay for administration, travel expenses to and from beaches and merchandise. All is required for the running of an effective network of people.</dd>
+</dl>
 
-<p><strong>Why GIVE money?</strong> – Surfrider Ericeira is run on a voluntary basis and your contribution enables our team to pay for administration, travel expenses to and from beaches and merchandise. All is required for the running of an effective network of people.</p>
+<h5>Your gift matters</h5>
 
-<p><strong>What does it mean to be a part of Surfrider?</strong> Think Globally and act locally!</p>
+<p><strong>What does it mean to be a part of Surfrider? Think Globally and act locally!</strong></p>
 
-<p>Surfrider is a global organization of likeminded people who share the same concerns with regards to the preservation of our world’s oceans and wildlife. </p>
+<p>Surfrider is a global organization of likeminded people who share the same concerns with regards to the preservation of our world’s oceans and wildlife.</p> 
 
 <p>Becoming a member helps of a Surfrider chapter helps ensure that others in the organization come one step closer to meeting their goals and objectives. </p>
 
 <p>If you’re active on a local level, the impact you have generates noise to other chapters around the country, Europe and the world. We are all part of a huge team working toward a more sustainable future.</p>
 
-<p>It is so important to give back in this short lifetime. By helping Surfrider achieve its mission, every little ‘positive’ action helps.</p>
-<p>Being part of Surfrider Foundation is an honor. If we have the ability to contribute and educate or influence in some way then hopefully we will see a reduction in the harmful effects that are evident today.
-</p>
+<p>It is so important to give back in this short lifetime. Offer your time or money now to help Surfrider achieve its mission!</p>
+
+<p>Being part of Surfrider Foundation is an honor. If we have the ability to contribute and educate or influence in some way then hopefully we will see a reduction in the harmful effects that are evident today.</p>
+
 </div>  
                       
 		</div> <!-- end of span 10 offset 1 -->

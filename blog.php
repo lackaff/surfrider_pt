@@ -41,7 +41,7 @@ setup_postdata($post); ?>
             if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
               the_post_thumbnail();
             } else { ?>
-	<img src="<?php bloginfo('template_directory'); ?>/img/logo.jpg" alt="<?php the_title(); ?>" />	<?php }
+	<img src="<?php bloginfo('template_directory'); ?>/img/ericeiralogod.png" alt="<?php the_title(); ?>" />	<?php }
             ?>
     </div>
 <span class='side_date span7'><?php the_time('F j, Y'); ?></span>

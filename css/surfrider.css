@@ -242,11 +242,9 @@ font-weight:900;
 text-decoration:underline;
 }
 
-h6{
+h5{
 color:#0088CC;
-font-family: 'GreatLakesNFRegular';
-	font-weight:100;
-	font-size:50px;
+	font-size:20px;
 
 }
 .carousel-caption h1{
@@ -631,9 +629,9 @@ padding:5px 20px;
 @media (max-width: 480px) {
 	body{padding:0px;margin:0px;width:100%;}
 	.row{padding-left:20px;padding-right:20px;}
-	#accordion5{margin-top:10px;margin-left:-20px;}
+	
 	.container {width:100%; padding-bottom:1em;}
-	.accordion-heading .accordion-toggle{padding:0px 0px;}
+	.accordion-heading .accordion-toggle{padding:0px 0px;margin:0px;width:100%}
 	.labels{
 		margin-top:-25px;
 		margin-bottom:5px;
