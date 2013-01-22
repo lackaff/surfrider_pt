@@ -298,6 +298,7 @@ Template Name: About
 				<div id="aboutFour" class="accordion-body collapse">
 					<div class="accordion-inner">
 						<h3>Sustainable Surfing</h3>
+						<div class="span7">
 						<p>Though the action of riding a wave is environmentally friendly, there are ways the lifestyle and industry associated with it can be improved to have less negative impact on the environment. Here are some of Surfrider’s quick tips to surfing sustainably. </p>
 
 						<ul>
@@ -308,6 +309,8 @@ Template Name: About
 							<li>Seek out more ways to create less waste on your own. Be as wary of the impact you have on the environment as you can. </li>
 						</ul>
 						<p>By following these tips, you can help make sure the waters you choose to surf in are clean and healthy for you, your friends and the rest of the surfing community. </p>
+						</div>
+						<div class="span2"><img src="<?php echo get_template_directory_uri(); ?>/img/surfboard2.png" id="surfboard" alt="" class="hidden-phone" /></div>
 					</div>
 				</div>
 			</div>
