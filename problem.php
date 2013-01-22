@@ -99,8 +99,8 @@ Waste and Petrol
 <div id="collapseTwo" class="accordion-body collapse">
 <div class="accordion-inner">
 <div class="row">
-<div>
-<object width="600" height="500"
+<div class="span8 offset1">
+<object width="600" height="450"
 classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
 codebase="http://fpdownload.macromedia.com/
 pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
