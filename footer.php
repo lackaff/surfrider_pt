@@ -77,8 +77,8 @@
                         <div class="row">
 							<h5>Contact Surfrider </h5>
 							<p>surfriderericeira@gmail.com</p>
-							<p>00351 918667358</p>
-							<p>261867182</p>
+							<p>+351 918667358</p>
+							<p>+351 261867182</p>
                         </div>
                          <div class="row">
                             <div class="span3">
@@ -121,7 +121,7 @@
                         <div class="row">
 							<h5>Contact Surfrider </h5>
 							<p>surfriderericeira@gmail.com</p>
-							<p>00351 918667358 or 261867182</p>
+							<p>+351 918667358 or +351 261867182</p>
                         </div>							
                         </div>
                          					
