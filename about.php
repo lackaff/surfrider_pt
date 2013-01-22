@@ -64,13 +64,13 @@ Template Name: About
                         
 <div class="row">
 <div class="span5">
-<p>Surfrider Foundation Ericeira is a voluntary chapter of Surfrider Europe. </p>
+<p>Surfrider Foundation Ericeira is a voluntary chapter of Surfrider Europe.</p>
 <p>It is an associated collective of passionate surfers that shares the same goals of protecting and providing sustainable growth through education and positive activity in the local environment. The organization seeks to protect the Ericeira coastline’s beautiful resources that are so often taken for granted. </p>
-<p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through CARE (conservation, activism, research and education). 
+<p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through CARE (conservation, activism, research and education).  
 </p>
 
 <h3> Our Mission</h3>
-						<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike. </p>
+						<p>Surfrider’s mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. Surfrider seeks to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike.</p>
 </div>
 <div class="span4">
 
@@ -129,7 +129,7 @@ Template Name: About
 						<ul class="span4">
 							<li id="membername">Richard O'Sullivan</li>
 							<li id="membertitle">Responsible</li>
-							<li id="memberp">Richard O’Sullivan is the Responsible at Surfrider Foundation Ericeira. He studied Business Information Systems at the University of West England and like most staff at Surfrider, does a little bit of everything in the Ericeira community. He’s a project manager, operations director, personal trainer and surf coach. Richard loves all things surfing and is passionate about keeping the waters he surfs in clean. His favorite surf spots are Sao Lourenco, Pedra Branca, and Ribeira.</li>
+							<li id="memberp">Richard O’Sullivan is the Responsible at Surfrider Foundation Ericeira. He studied Business Information Systems at the University of West England and like most staff at Surfrider, does a little bit of everything in the Ericeira community. He’s a project manager, operations director, personal trainer and surf coach. Richard loves all things surfing and is passionate about keeping the waters he surfs in clean. His favorite surf spots are São Lourenço, Pedra Branca, and Ribeira d'Ilhas. </li>
 	
 						</ul>
 						</div>
@@ -139,7 +139,7 @@ Template Name: About
 						<ul class="span4">
 							<li id="membername">Gonçalo Osario</li>
 							<li id="membertitle">Co-Responsible</li>
-							<li id="memberp">Gonçalo Osario is the co-responsible for Surfrider Ericeira. He’s known for being incredibly creative, and has done all kinds of work ranging from jewelry making to film directing and production. He loves to surf, skate and dabbles in photography as well. His favorite surf spot in Ericeira is a secret, but you can sometimes catch him at Ribeira Dilhas.</li>
+							<li id="memberp">Gonçalo Osario is the co-responsible for Surfrider Ericeira. He’s known for being incredibly creative, and has done all kinds of work ranging from jewelry making to film directing and production. He loves to surf, skate and dabbles in photography as well. His favorite surf spot in Ericeira is a secret, but you can sometimes catch him at Ribeira d'Ilhas</li>
 	
 						</ul>
 						</div>
@@ -150,7 +150,7 @@ Template Name: About
 						<ul class="span4">
 							<li id="membername">Bruno Andrade </li>
 							<li id="membertitle">Treasurer</li>
-							<li id="memberp">Bruno is Surfrider’s treasurer and studied Geology Engineering in university. Last year, he opened his own business and became manager of Ericeira’s own Amar Hostel and Suites. Bruno loves to surf at popular areas such as Sao Juliao and Pedra Branca.</li>
+							<li id="memberp">Bruno is Surfrider’s treasurer and studied Geology Engineering in university. Last year, he opened his own business and became manager of Ericeira’s own <a href="http://www.amarhostel.com" target="_blank">Amar Hostel and Suites</a>. Bruno loves to surf at popular areas such as Sao Juliao and Pedra Branca.</li>
 	
 						</ul>
 						</div>
@@ -160,7 +160,7 @@ Template Name: About
 						<ul class="span4">
 							<li id="membername">Hugo Pereira Rocha </li>
 							<li id="membertitle">Secretary</li>
-							<li id="memberp">Hugo studied Urban and Environmental Law and worked as a lawyer for some time before moving on to become a writer. He currently writes for Surf Portugal and recently released his second novel titled “In the End”, with action that unfolds in Ericeira. </li>
+							<li id="memberp">Hugo studied Urban and Environmental Law and worked as a lawyer for some time before moving on to become a writer. He currently writes for <a href="http://surfportugal.sapo.pt" target="_blank">Surf Portugal</a> and recently released his second novel titled “In the End”, with action that unfolds in Ericeira. </li>
 	
 						</ul>
 						</div>
@@ -171,7 +171,7 @@ Template Name: About
 						<ul class="span4">
 							<li id="membername">Bruno Lisboa</li>
 							<li id="membertitle">Volunteer Services Head </li>
-							<li id="memberp">Bruno was born in the heart of Portugal, Lisboa, and studied journalism. Today he works as a logistics officer for Despomar, a local sports shop in Ericeira. He can usually be found at his favorite surf spots of Sao Juliao and Pedra Branca. </li>
+							<li id="memberp">Bruno was born in the heart of Portugal, Lisboa, and studied journalism. Today he works as a logistics officer for Despomar, a local sports shop in Ericeira. He can usually be found at his favorite surf spots of São Julião and Pedra Branca. </li>
 	
 						</ul>
 						</div>						
@@ -181,7 +181,7 @@ Template Name: About
 						<ul class="span4">
 							<li id="membername">Davide Troiani </li>
 							<li id="membertitle">Administrator</li>
-							<li id="memberp">Beach Representatives help identify local problems at the beaches. They are the first point of contact for the general public or local people. When a problem is found or reported to them, they take it back to Surfrider’s core leadership. Beach representatives can also offer information on how to volunteer or become a member of Surfrider.</li>
+							<li id="memberp">Davide is Surfrider’s resident tech geek. He has a background in Computer Science and and works an IT Supervisor in his dayjob. When he’s not at work or surfing, he loves to work on his 1985 Volkswagen Caravelle.  His top surf spot is Ribeira d’Illhas.</li>
 	
 						</ul>
 						</div>
@@ -275,11 +275,20 @@ Template Name: About
 				<div id="aboutThree" class="accordion-body collapse">
 					<div class="accordion-inner">
 					<h3> Our Partners</h3>
-						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle. </p>
+						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle.</p>
 
-<p>Ericeira City Hall grants Surfrider Ericerira the permission we need to be active in the community. It also aids in funding and collects taxes.
-Coastwatch Portugal researches and presents findings on wildlife, coast erosion and statistics for the area. 
-</p>
+<p>Ericeira City Hall grants Surfrider Ericerira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
+<p>Coastwatch Portugal researches and presents findings on wildlife, coast erosion and statistics for the area. </p>
+<p>Surfrider also works with a number of sponsors, which can be found listed below:</p>
+<ul><li>Camera Municipal de Mafra</li>
+<li>Patagonia</li>
+<li>Cligeral LDA</li>
+<li>Amar Hostel</li>
+<li>AKI </li>
+<li>Riviera Restaurant </li>
+<li>Tik Tak</li>
+<li>Prim </li></ul>
+
 
 					</div>
 				</div>
@@ -364,9 +373,9 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 
 
 
-
 <h3> Our Mission</h3>
-						<p>Our mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. We want to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike. </p>
+						<p>Surfrider’s mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. Surfrider seeks to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike.</p>
+
 </div>
 
 </div></div>
@@ -439,6 +448,69 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 	
 						</ul>
 						</div>
+<div class="row">	
+					<img src="<?php echo get_template_directory_uri(); ?>/img/richard.png" class="span2" id="corepic">
+						<ul class="span4">
+							<li id="membername">Richard O'Sullivan</li>
+							<li id="membertitle">Responsible</li>
+							<li id="memberp">Richard O’Sullivan is the Responsible at Surfrider Foundation Ericeira. He studied Business Information Systems at the University of West England and like most staff at Surfrider, does a little bit of everything in the Ericeira community. He’s a project manager, operations director, personal trainer and surf coach. Richard loves all things surfing and is passionate about keeping the waters he surfs in clean. His favorite surf spots are São Lourenço, Pedra Branca, and Ribeira d'Ilhas. </li>
+	
+						</ul>
+						</div>
+						
+						<div class="row">	
+					<img src="<?php echo get_template_directory_uri(); ?>/img/Osario.jpg" class="span2" id="corepic">
+						<ul class="span4">
+							<li id="membername">Gonçalo Osario</li>
+							<li id="membertitle">Co-Responsible</li>
+							<li id="memberp">Gonçalo Osario is the co-responsible for Surfrider Ericeira. He’s known for being incredibly creative, and has done all kinds of work ranging from jewelry making to film directing and production. He loves to surf, skate and dabbles in photography as well. His favorite surf spot in Ericeira is a secret, but you can sometimes catch him at Ribeira d'Ilhas</li>
+	
+						</ul>
+						</div>
+
+
+						<div class="row">	
+					<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="span2" id="corepic">
+						<ul class="span4">
+							<li id="membername">Bruno Andrade </li>
+							<li id="membertitle">Treasurer</li>
+							<li id="memberp">Bruno is Surfrider’s treasurer and studied Geology Engineering in university. Last year, he opened his own business and became manager of Ericeira’s own <a href="http://www.amarhostel.com" target="_blank">Amar Hostel and Suites</a>. Bruno loves to surf at popular areas such as Sao Juliao and Pedra Branca.</li>
+	
+						</ul>
+						</div>
+						
+						<div class="row">	
+					<img src="<?php echo get_template_directory_uri(); ?>/img/hugo.jpg" class="span2" id="corepic">
+						<ul class="span4">
+							<li id="membername">Hugo Pereira Rocha </li>
+							<li id="membertitle">Secretary</li>
+							<li id="memberp">Hugo studied Urban and Environmental Law and worked as a lawyer for some time before moving on to become a writer. He currently writes for <a href="http://surfportugal.sapo.pt" target="_blank">Surf Portugal</a> and recently released his second novel titled “In the End”, with action that unfolds in Ericeira. </li>
+	
+						</ul>
+						</div>
+						
+						
+						<div class="row">	
+					<img src="<?php echo get_template_directory_uri(); ?>/img/brunolisboa.jpg" class="span2" id="corepic">
+						<ul class="span4">
+							<li id="membername">Bruno Lisboa</li>
+							<li id="membertitle">Volunteer Services Head </li>
+							<li id="memberp">Bruno was born in the heart of Portugal, Lisboa, and studied journalism. Today he works as a logistics officer for Despomar, a local sports shop in Ericeira. He can usually be found at his favorite surf spots of São Julião and Pedra Branca. </li>
+	
+						</ul>
+						</div>						
+						
+						<div class="row">	
+					<img src="<?php echo get_template_directory_uri(); ?>/img/davide.jpg" class="span2" id="corepic">
+						<ul class="span4">
+							<li id="membername">Davide Troiani </li>
+							<li id="membertitle">Administrator</li>
+							<li id="memberp">Davide is Surfrider’s resident tech geek. He has a background in Computer Science and and works an IT Supervisor in his dayjob. When he’s not at work or surfing, he loves to work on his 1985 Volkswagen Caravelle.  His top surf spot is Ribeira d’Illhas.</li>
+	
+						</ul>
+						</div>
+						
+						
  <h2> Representatives</h2>
 		<div id="content" class="clearfix row">
 			
@@ -503,12 +575,19 @@ Coastwatch Portugal researches and presents findings on wildlife, coast erosion 
 <div class="accordion-inner">
 <div class="row">
     <div class="span10 offset1">
-<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle. </p>
+						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle.</p>
 
-<p>Ericeira City Hall grants Surfrider Ericerira the permission we need to be active in the community. It also aids in funding and collects taxes.
-Coastwatch Portugal researches and presents findings on wildlife, coast erosion and statistics for the area. 
-</p>
-
+<p>Ericeira City Hall grants Surfrider Ericerira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
+<p>Coastwatch Portugal researches and presents findings on wildlife, coast erosion and statistics for the area. </p>
+<p>Surfrider also works with a number of sponsors, which can be found listed below:</p>
+<ul><li>Camera Municipal de Mafra</li>
+<li>Patagonia</li>
+<li>Cligeral LDA</li>
+<li>Amar Hostel</li>
+<li>AKI </li>
+<li>Riviera Restaurant </li>
+<li>Tik Tak</li>
+<li>Prim </li></ul>
 </div>
 </div>
 </div>
