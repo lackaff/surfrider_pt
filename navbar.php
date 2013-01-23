@@ -3,7 +3,9 @@
 Template Name: navbar
 */ 
 ?>
-<div id="langSwitch"><a href="#"> Switch to Portugese</a></div> 
+
+
+<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Language Switcher') ) : ?><?php endif; ?>
 <!-- NAVBAR
     ================================================== -->
     <div class="navbar-wrapper">
