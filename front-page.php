@@ -12,13 +12,22 @@ Template Name: home
     ================================================== -->
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
-        <div class="item active">
+        <div class="item">
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderLearn.jpg" alt="">
           <div class="container">
             <div class="carousel-caption" id="headline1">
               <h1 >Give Back!</h1>
              <p class="lead">Give back what you take from the ocean.</p>
               <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/problem/">Learn more</a>
+            </div>
+          </div>
+        </div>
+        <div class="item active">
+          <img src="<?php echo get_template_directory_uri(); ?>/img/sliderLogo.png" alt="">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Learn about Surfrider</h1>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/about/">Watch the Video</a>
             </div>
           </div>
         </div>
@@ -48,7 +57,7 @@ Template Name: home
             <div class="carousel-caption">
               <h1>Volunteer.</h1>
               <p class="lead">Participate in our next beach cleanup.</p>
-              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/contact/">Volunteer.</a>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/volunteer/">Volunteer.</a>
             </div>
           </div>
         </div>
