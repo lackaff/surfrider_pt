@@ -95,7 +95,7 @@ classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
 codebase="http://fpdownload.macromedia.com/
 pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
 <param name="SRC" value="plasticCycle.swf">
-<embed src="<?php echo get_template_directory_uri(); ?>/img/trash.swf" width="600" height="500">
+<embed src="<?php echo get_template_directory_uri(); ?>/img/trash.swf" width="600" height="450">
 </embed>
 </object> 
 <img src="<?php echo get_template_directory_uri(); ?>/img/trashStatic.png" alt="" class="hidden-desktop">
