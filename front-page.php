@@ -17,8 +17,8 @@ Template Name: home
           <div class="container">
             <div class="carousel-caption" id="headline1">
               <h1 >Give Back!</h1>
-             <p class="lead">Give back what you take from the ocean.</p>
-              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/problem/">Learn more</a>
+             <p class="lead">Dar de volta o que você toma do oceano.</p>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/problem/">Saiba mais</a>
             </div>
           </div>
         </div>
@@ -35,9 +35,9 @@ Template Name: home
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderBeachClean.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Community Involvement</h1>
-              <p class="lead">Secondary school students sweep the shore for trash.</p>
-              <a class="btn btn-large btn-success" href="#">Read the blog</a>
+              <h1>Envolvimento da Comunidade</h1>
+              <p class="lead">Alunos do ensino secundário varrer a costa para o lixo.</p>
+              <a class="btn btn-large btn-success" href="#">Leia o blog</a>
             </div>
           </div>
         </div>
@@ -45,9 +45,9 @@ Template Name: home
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderConnect.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Connect</h1>
-              <p class="lead">Follow us on social media for updates about our coast.</p>
-              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/contact/">Connect</a>
+              <h1>Conectar</h1>
+              <p class="lead">Siga-nos nas mídias sociais para atualizações sobre a nossa costa.</p>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/contact/">Conectar</a>
             </div>
           </div>
         </div>
@@ -55,9 +55,9 @@ Template Name: home
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderVolunteer.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Volunteer.</h1>
-              <p class="lead">Participate in our next beach cleanup.</p>
-              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/volunteer/">Volunteer.</a>
+              <h1>Voluntário.</h1>
+              <p class="lead">Participe da nossa limpeza da praia próxima.</p>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/contact/">Voluntário.</a>
             </div>
           </div>
         </div>
@@ -76,7 +76,7 @@ Template Name: home
       
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>Upcoming Events</h2>
+          <h2>Próximos Eventos</h2>
 				<?php echo do_shortcode('[events_list limit="5"]#_EVENTLINK - #_EVENTDATES<br /><br />[/events_list]'); ?>
 
         </div><!-- /.span4 -->
@@ -91,10 +91,10 @@ Template Name: home
         
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2 class="fpcenter">Take Action</h2>
+          <h2 class="fpcenter">Agir</h2>
           <div class="row">
  <img class="span2" src="<?php echo get_template_directory_uri(); ?>/img/ta1.jpg" />
-          <p class="span2">Surfrider supports the ocean, the waves, and the people who enjoy it.</p> <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-success span1">Sign Up!</a>
+          <p class="span2">Surfrider suporta o mar, as ondas, e as pessoas que gostam dele.</p> <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-success span1">Inscreva-se!!</a>
           </div>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
@@ -112,7 +112,7 @@ Template Name: home
       
         <div class="span6">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2 class="fpcenter">Upcoming Events</h2>
+          <h2 class="fpcenter">Próximos Eventos</h2>
          		<?php echo do_shortcode('[events_list limit="5"]#_EVENTLINK - #_EVENTDATES<br /><br />[/events_list]'); ?>
         </div><!-- /.span4 -->
         
@@ -128,8 +128,8 @@ Template Name: home
           <h2>Take Action</h2>
         
           <img class="span2" src="<?php echo get_template_directory_uri(); ?>/img/ta1.jpg" />
-          <p class="span3">Surfrider supports the ocean, the waves, and the people who enjoy it.</p> 
-          <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-large btn-success span2">Sign Up!</a>       
+          <p class="span3">Surfrider suporta o mar, as ondas, e as pessoas que gostam dele.</p> 
+          <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-large btn-success span2">Inscreva-se!</a>       
         </div><!-- /.span4 -->
       </div><!-- /.row -->
     
