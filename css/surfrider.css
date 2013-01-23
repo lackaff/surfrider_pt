@@ -297,38 +297,12 @@ footer .container{
 	width:100%;
 }
 
-footer ul{
-	list-style-type: none;
-	
-	
-}
-
-footer ul li{
-	font-family: 'helvetica', sans-serif;
-	font-weight:900;
-	font-size:20px;
-	text-decoration:none;
-	color:#999999;
-	margin-bottom:0px;
-	}
-
-
-
-footer ul ul li{
-	text-decoration: none;
-		font-family: 'Galdeano', sans-serif;
-		color:#999999;
-		font-size:14px;
-		margin-top:0px;
-		margin-bottom:0px;
-	
-}
-
-
+.list-with-heading{display:inline;float:left; margin-right:40px;}
+.list-with-heading h6{font-family: 'helvetica', sans-serif; font-weight:900; font-size:20px; text-decoration:none; color:#999999; margin-bottom:0px;}
+.list-with-heading ul{list-style-type:none;margin-left:0px;padding-left:0px;}
+#lastLWH{margin-right:0px; float:right;}
 #footerlogo{max-width:90px; display:inline;margin-top:-50px;}
 #socialdiv{width:295px; display:inline;float:right;}
-.majornav{display:inline;float:left;}
-
 
 footer h1{
 	font-family: 'GreatLakesNFRegular';
@@ -355,6 +329,7 @@ footer h5{
 		text-decoration:none;
 	text-align:right;
 	}
+	
 	
 footer a{color:#999999; text-decoration:none;}
 
@@ -736,7 +711,9 @@ padding:5px 20px;
 .single-title{
 color:#003366;
 font-weight:900;
-font-family:helvetica;
+font-size:35px;
+font-family:'helvetica', sans-serif;
+line-height:
 }
 
 
@@ -791,11 +768,19 @@ margin-top:0px;
   	background-color:#eeeeee;
   	-webkit-border-radius: 5px;
     border-radius: 5px;
-    height:auto;
+	-webkit-box-shadow: 0 10px 10px rgba(0,0,0,.25);
+    -moz-box-shadow: 0 10px 10px rgba(0,0,0,.25);
+    box-shadow: 0 10px 10px rgba(0,0,0,.25);
 }
+
+.quotes p{
+font-style:italic;font-size:16px;line-height:25px;}
 
 .coremem{margin-bottom:20px;}
 #plasticcycle{display:inline;float:left;margin-right:20px;}
 .quotepic{max-width:150px;border:5px solid white;display:inline;float:left;margin-right:10px; clear:both;}
 
 .quotepicdouble{max-width:100px;border:5px solid white;display:inline;float:left;margin-right:10px;}
+
+#activitypack{margin-top:15px; margin-left:30px;}
+

@@ -58,8 +58,7 @@ Portugal<br><br>
 		  
 		<div class="span5">
 		<h4>Find your local representative</h4>
-				  <div id="map_canvas" style="height:500px; border:1px solid black;"></div>
-		</div><!-- close span 6 rightt --> 
+				<iframe width="425" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206248957618999652234.0004d3e4dd09f691f9032&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=38.982163,-9.420798&amp;spn=0.101281,0.009828&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206248957618999652234.0004d3e4dd09f691f9032&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=38.982163,-9.420798&amp;spn=0.101281,0.009828&amp;source=embed" style="color:#0000FF;text-align:left">Surfrider Ericeira</a> in a larger map</small>		</div><!-- close span 6 rightt --> 
 		  
 		  
 		  

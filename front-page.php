@@ -12,9 +12,9 @@ Template Name: home
     ================================================== -->
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
-        <div class="item">
+        <div class="item active">
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderLearn.jpg" alt="">
-          <div class="container">
+          <div class="container  active">
             <div class="carousel-caption" id="headline1">
               <h1 >Give Back!</h1>
              <p class="lead">Dar de volta o que você toma do oceano.</p>
@@ -22,15 +22,7 @@ Template Name: home
             </div>
           </div>
         </div>
-        <div class="item active">
-          <img src="<?php echo get_template_directory_uri(); ?>/img/sliderLogo.png" alt="">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Learn about Surfrider</h1>
-              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/about/">Watch the Video</a>
-            </div>
-          </div>
-        </div>
+      
         <div class="item">
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderBeachClean.jpg" alt="">
           <div class="container">
