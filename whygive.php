@@ -30,8 +30,8 @@ Template Name: WhyGive
 					<div class="span5 pull-right quotes">
 							<img src="<?php echo get_template_directory_uri(); ?>/img/andrea.jpg" class="quotepic">
 							<p>"For me Surfrider Foundation is a way to give something back to the ocean."</p>
-							<small><cite title="Source Title" >Andrea Torn</cite></br>Beach Representative</small></br>
-							<a href="#">Watch the interview</a>
+							<small class="pull-right"><cite class="pull-right" title="Source Title" >Andrea Torn</cite></br>Beach Representative</small></br>
+							<a href="#" class="pull-right">Watch the interview</a>
 					</div>
 					
 					
