@@ -791,8 +791,13 @@ margin-top:0px;
   	background-color:#eeeeee;
   	-webkit-border-radius: 5px;
     border-radius: 5px;
-    height:auto;
+	-webkit-box-shadow: 0 10px 10px rgba(0,0,0,.25);
+    -moz-box-shadow: 0 10px 10px rgba(0,0,0,.25);
+    box-shadow: 0 10px 10px rgba(0,0,0,.25);
 }
+
+.quotes p{
+font-style:italic;font-size:16px;line-height:25px;}
 
 .coremem{margin-bottom:20px;}
 #plasticcycle{display:inline;float:left;margin-right:20px;}
