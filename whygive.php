@@ -61,11 +61,11 @@ By choosing to donate your time or money to Surfrider, you create awareness abou
 
 <p>Surfrider is a global organization of likeminded people who share the same concerns with regards to the preservation of our world’s oceans and wildlife.</p> 
 
-<p><<a href="<?php bloginfo('url'); ?>/becomeamember/">>Become a member</a>and help our Surfrider chapter come one step closer to its goal of safe beaches for all in the Ericeira community.</p>
+<p><a href="<?php bloginfo('url'); ?>/membership/">Become a member</a>and help our Surfrider chapter come one step closer to its goal of safe beaches for all in the Ericeira community.</p>
 
 <p>If you’re active on a local level, the impact you have generates noise to other chapters around the country, Europe and the world. We are all part of a huge team working toward a more sustainable future.</p>
 
-<p>It is so important to give back in this short lifetime. <a href="<?php bloginfo('url'); ?>/volunteer/">Offer your time</a> or <a href="<?php bloginfo('url'); ?>/becomeamember/">money</a> now to help Surfrider achieve its mission!</p>
+<p>It is so important to give back in this short lifetime. <a href="<?php bloginfo('url'); ?>/volunteer/">Offer your time</a> or <a href="<?php bloginfo('url'); ?>/membership/">money</a> now to help Surfrider achieve its mission!</p>
 
 <p>Being part of Surfrider Foundation is an honor. If we have the ability to contribute and educate or influence others positively in some way, then the dream of safe, clean beaches for all starts to seem very attainable.</p>
 
