@@ -77,9 +77,10 @@ Template Name: Volunteer
 					</div>
 					
 <div class="span5 quotes clearfix">
-							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
-							<p>"I do it with my surf school. Everyday we come out of the surf school from the water and I say, grab the board in one hand, grab a piece of trash in the other. It's one piece, but if everybody does that, it will help"</p>
-							<small><cite title="Source Title" >-Ricardo Cosme</cite> of <a href="http://www.pocean.pt/" target="_blank">Pocean Surf Academy</a></small></br>
+							<img src="<?php echo get_template_directory_uri(); ?>/img/ricardo.jpg" class="quotepic">	
+							
+							<p>"Everyday we come out of the surf school from the water and I say, grab the board in one hand, grab a piece of trash in the other. It's one piece, but if everybody does that, it will help"</p>
+							<small><cite title="Source Title" >-Ricardo Cosme</cite> <br/><a href="http://www.pocean.pt/" target="_blank">Pocean Surf Academy</a></small></br>
 							<a href="#">Watch the interview</a>					
 							</div>
 
