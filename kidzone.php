@@ -43,13 +43,14 @@ Template Name: Kid-Zone
 	        	<h4 class="labels">Join Surfrider</h4>
           </a>
         </div>
+
     </div><!-- /.head pic -->
 
 
      <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container" id="about">
-    <div class="row">
+       <div class="row">
     <div class="span10 offset1">
       <!-- main content of the about page  -->
       
@@ -76,7 +77,8 @@ Template Name: Kid-Zone
 	</ul>
 						</div><!-- end of span 6-->
 						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" />
-						
+						<a class="btn btn-large btn-success" id="activitypack" href="<?php bloginfo('url'); ?>/problem/">Download your Activity Pack!</a>						
+
 						</div> <!-- end of row -->  
 					</div>
 				</div>
@@ -108,9 +110,9 @@ Template Name: Kid-Zone
 				<div id="aboutThree" class="accordion-body collapse">
 					<div class="accordion-inner">
                     <div class="row">
-						<div class="span">
+                    <div class="span10">
 						<h2>Ready To Catch Your First Wave?</h2>
-
+<img src="<?php echo get_template_directory_uri(); ?>/img/surfer.png" class="span3 pull-right" />
 <p>Catching your first wave as a surfer can be a pretty big deal. Getting up on the board for the first time correctly can take a lot of time and effort, but once you’re there it can make for a memory that will stick with you for a while.  Here are some quick tips to make sure catching your first wave is awesome!</p>
 <dl>
 <dt><h5>Be patient</h5></dt>
@@ -127,6 +129,8 @@ Template Name: Kid-Zone
 </dd>
 <dd><h5>Be Green</h5>If you’re spending the day trying to learn how to surf at the beach, make sure your keep an eye on all your trash! This might sound silly, but respecting the environment is an important part of becoming a respectable surfer. The water and beach belongs to everyone, so keeping it all clean means everyone there gets to have a great experience. Get in the habit of disposing of food wrappers and plastics in the right place when you wrap up a day at the beach. This way, everyone can enjoy the Ericeira coastline!</dd>
 </dl>
+
+
 						</div><!-- end of span 6-->
 						</div> <!-- end of row -->
 					</div>
@@ -316,8 +320,6 @@ Template Name: Kid-Zone
   <!-- end of accordian group --> 
 
   </div><!-- end of accordian --> 
-
-    <h5 class="span1">Download Your Activity Pack!</h5>
 
 
 
