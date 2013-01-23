@@ -256,7 +256,7 @@ Template Name: About
 				<p> Volunteers are the backbone of what Surfrider represents. Their giving spirit and willingness to work for the betterment of the community are essential to Surfrider carrying out its mission. Give back to Ericeira by becoming a member today!
 
 </p>
-			<a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/membership/">Volunteer</a>
+			<a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/volunteer/">Volunteer</a>
 
 				</div>
 			</div>
