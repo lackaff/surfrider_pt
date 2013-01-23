@@ -43,7 +43,6 @@ Template Name: Kid-Zone
 	        	<h4 class="labels">Join Surfrider</h4>
           </a>
         </div>
-        
     </div><!-- /.head pic -->
 
 
@@ -51,8 +50,7 @@ Template Name: Kid-Zone
 
     <div class="container" id="about">
     <div class="row">
-    <h5 class="span1">Download Your Activity Pack!</h5>
-    <div class="span10">
+    <div class="span10 offset1">
       <!-- main content of the about page  -->
       
       <div class="accordion" id="secondnav">
@@ -73,13 +71,13 @@ Template Name: Kid-Zone
 
 <p>Surfrider Ericeira tries to keep beaches and oceans clean by:</p>
 	<ul>
-		<li>•	Hanging out in schools with kids and teachers to tell everyone about why they need to be green and make good choices for the earth.</li> 
-		<li>•	Helping clean beaches so your family safely have fun at the beach.</li>
+		<li>Hanging out in schools with kids and teachers to tell everyone about why they need to be green and make good choices for the earth.</li> 
+		<li>Help cleaning beaches so your can family safely have fun at the beach.</li>
 	</ul>
 						</div><!-- end of span 6-->
 						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" />
 						
-						</div> <!-- end of row -->
+						</div> <!-- end of row -->  
 					</div>
 				</div>
 	      </div>	
@@ -91,12 +89,12 @@ Template Name: Kid-Zone
 						<div class="span6">
 						<h2>What can you do?</h2>
 						
-						<h5>Become a protector of the coast!</h5>
-						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</p>
-						<h5>Talk to your teachers!</h5>
-						<p>Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</p> 							
-						<h5>Tell your friends!</h5>
-						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </p>
+						<h5><a href="<?php bloginfo('url'); ?>/kid-zone/#aboutFour/">Become a protector of the coast!</a></h5>
+						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider has tons of group cleanups where kids like you all pitch in, and we would love to have to help out.</p>
+						<h5><a href="<?php bloginfo('url'); ?>/kid-zone/">Talk to your teachers!</a></h5>
+						<p>Let them know how much you love the land around Ericeira and tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</p> 							
+						<h5><a href="<?php bloginfo('url'); ?>/contact/" >Tell your friends!</a></h5>
+						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away in the proper bin. Tell others why you love Ericeira and how much you want to keep it clean. </p>
 						
 		</div><!-- end of span 6-->
 						<img src="<?php echo get_template_directory_uri(); ?>/img/fist.png" class="span3" />
@@ -113,18 +111,21 @@ Template Name: Kid-Zone
 						<div class="span">
 						<h2>Ready To Catch Your First Wave?</h2>
 
-<p>Catching your first wave as a surfer can be a pretty big deal. Getting up on the board for the first time correctly can take a lot of time and effort, but once you’re there it can make for a memory that will stick with you for a while.  Here are some quick tips to make sure catching your first wave is awesome.</p>
+<p>Catching your first wave as a surfer can be a pretty big deal. Getting up on the board for the first time correctly can take a lot of time and effort, but once you’re there it can make for a memory that will stick with you for a while.  Here are some quick tips to make sure catching your first wave is awesome!</p>
 <dl>
 <dt><h5>Be patient</h5></dt>
-<dd>Before you get started, decide you won’t get too frustrated. Surfing is supposed to be fun, and it will be. But things can be pretty tough in the beginning. You’ll take some pretty rough tumbles and make get a few knicks or scratches. Make sure you give yourself some time to relax and take in your beautiful surroundings when you need a break.</dd>
+<dd>Before you get started, decide you won’t get too frustrated! Surfing is supposed to be fun, and it will be. But things can be pretty tough in the beginning. You’ll take some pretty rough tumbles and maybe get a few knicks or scratches. Make sure you give yourself some time to relax and take in your beautiful surroundings when you need a break.</dd>
 <dt><h5>Be persistent</h5></dt>
-<dd>Good surfers have a determined attitude. They work hard and aren’t afraid to fall off their board a time or two. The only way to get better is to keep practicing!</dd>
+<dd>Good surfers have a determined attitude! They work hard and aren’t afraid to fall off their board a time or two. The only way to get better is to keep practicing!</dd>
 <dt><h5>Be confident</h5></dt>
-<dd>Don’t be afraid! People of all ages can learn to surf. People old and young can do it, so you can too. You’re never too young or old to get started! </dd>
+<dd>Don’t be afraid! People of all ages can learn to surf. People old and young can do it, so you can too. You’re never too young or old to get started if you have the right help! </dd>
 <dt><h5>Be smart</h5></dt>
-<dd>If you’re going to surf, you’ve got to have the right equipment and help along the way. 
-<ul><li>Pick the right board. As far as boards go, you’ll probably wanted a foam surfboard to start. They’re great for beginners, offer a ton of flotation and don’t hurt as much when they bump into you. They can be a little heavy though. If you’re just trying out surfing for the first time, it might be best to convince your Mom and Dad to help you rent one first. If they decide to buy instead, have them take a look at our guide to surfing sustainably. If they go with a foam board to start, selling can be fairly easy.</li></ul> 
+<dd>If you’re going to surf, you’ve got to have the right equipment and help along the way! 
+<ul><li>Pick the right board. As far as boards go, you’ll probably want a foam surfboard to start. They’re great for beginners, offer a ton of flotation and don’t hurt as much when they bump into you. They can be a little heavy though. If you’re just trying out surfing for the first time, it might be best to convince your Mom and Dad to help you rent one first. If they decide to buy instead, ask them to read our guide to surfing sustainably. If they go with a foam board to start, selling can be fairly easy.</li>
+<li>Get the right help. If you’re trying out surfing for the first time, you’re going to need an experienced surfer out there to help you in the water. Surfrider’s friends over at Pocean Surf Academy can get you started. Mention them to Mom or Dad. They teach people of all ages how to surf and give you the push you need to become a great surfer. </li>
+</ul> 
 </dd>
+<dd><h5>Be Green</h5>If you’re spending the day trying to learn how to surf at the beach, make sure your keep an eye on all your trash! This might sound silly, but respecting the environment is an important part of becoming a respectable surfer. The water and beach belongs to everyone, so keeping it all clean means everyone there gets to have a great experience. Get in the habit of disposing of food wrappers and plastics in the right place when you wrap up a day at the beach. This way, everyone can enjoy the Ericeira coastline!</dd>
 </dl>
 						</div><!-- end of span 6-->
 						</div> <!-- end of row -->
@@ -140,7 +141,7 @@ Template Name: Kid-Zone
                      	<div class="span6">
                    
                     <h2>Become a Protector of the Coast</h2>
-						<p>If you are under 16 you can become a protector of the coast for 15€ a year. </p>
+						<p>If you are under 16 years old you can become a protector of the coast for 15€ a year. </p>
     <p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
 
 <table class="table span7">
@@ -199,16 +200,18 @@ Template Name: Kid-Zone
 					<div class="row">
     <div class="span10 offset1">
 <h2>About Us</h2>
-						<p>A group of passionate surfers started Surfrider in 1984 as a way to put and end to pollution in the water they surfed in and loved so much. Tom Curren, three-time world surfing champion, started a new life in France and noticed the terrible state of the beaches. As a response, he created the European headquarters of Surfrider Foundation in 1990 in Biarritz (France).  </p>
+						<p>Passionate surfers started coming together at Surfrider to put an end to pollution in 1984! That’s a pretty long time, right?</p>
 
-<p>Since that time, Surfrider Foundation employees and thousands of people have chipped in over the battle to keep the oceans clean. Their contributions over the years allow us to bathe and surf without risking our own health. Surfrider Foundation has headquarters in all major parts of the world, but in plenty of smaller communities like Ericeira as well.</p>
+<p>Since then, Surfrider has been working hard with its employees and tons of volunteers like you to help fight the battle of keeping the oceans clean. When kids choose to become a protector of the coast, they help keep things like your bath and drinking water clean, and give you clean oceans and beaches to enjoy!</p>
+
+<p>But even though Surfrider has had plenty of help over the years, it still needs help from you. Talk to your Mom and Dad about becoming a member at Surfrider, so you can become a protector of the coast too! </p>
 
 <h2>What do we do?</h2>
 
-<p>Surfrider Ericeira works to ensure a clean ocean and environment in different ways.</p>
+<p>Surfrider Ericeira tries to keep beaches and oceans clean by:</p>
 	<ul>
-		<li>We visit schools and help teachers and children understand the importance of living a sustainable lifestyle. That means using making good choices for the land and water around our home.</li> 
-		<li>We help clean beaches so families and surfers can enjoy the coast in a safe, healthy way for everyone involved</li>
+		<li>Hanging out in schools with kids and teachers to tell everyone about why they need to be green and make good choices for the earth.</li> 
+		<li>Help cleaning beaches so your can family safely have fun at the beach.</li>
 	</ul>
 				</div>
 				</div>
@@ -229,12 +232,13 @@ Template Name: Kid-Zone
 						<div class="row">
     <div class="span10 offset1">
 						<h2>What can you do?</h2>
-							<h5>Become a protector of the coast!</h5>
-						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider schedules group cleanups we would love to have your help with as well.</p>
-						<h5>Talk to your teachers!</h5>
-						<p>Let them know how much you love the beaches and land around Ericeira and ask them to tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</p> 							
-						<h5>Tell your friends!</h5>
-						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away where it belongs. Tell others why you love Ericeira and how much you want to keep it clean. </p>
+							
+						<h5><a href="<?php bloginfo('url'); ?>/kid-zone/#aboutFour/">Become a protector of the coast!</a></h5>
+						<p> You can pick up trash when you see it in your neighborhood or on the beaches with your family. Surfrider has tons of group cleanups where kids like you all pitch in, and we would love to have to help out.</p>
+						<h5><a href="<?php bloginfo('url'); ?>/kid-zone/">Talk to your teachers!</a></h5>
+						<p>Let them know how much you love the land around Ericeira and tell others about how they can help keep those places clean. You can print off one of our activity packets for your teachers too!</p> 							
+						<h5><a href="<?php bloginfo('url'); ?>/contact/" >Tell your friends!</a></h5>
+						<p> If you see a friend dropping trash on the ground, it is okay to ask them to pick it up and throw it away in the proper bin. Tell others why you love Ericeira and how much you want to keep it clean. </p>
 		
 
 						</div></div>
@@ -258,18 +262,21 @@ Template Name: Kid-Zone
 <div class="accordion-inner">
 <div class="row">
     <div class="span10 offset1">
-<p>Catching your first wave as a surfer can be a pretty big deal. Getting up on the board for the first time correctly can take a lot of time and effort, but once you’re there it can make for a memory that will stick with you for a while.  Here are some quick tips to make sure catching your first wave is awesome.</p>
+<p>Catching your first wave as a surfer can be a pretty big deal. Getting up on the board for the first time correctly can take a lot of time and effort, but once you’re there it can make for a memory that will stick with you for a while.  Here are some quick tips to make sure catching your first wave is awesome!</p>
 <dl>
 <dt><h5>Be patient</h5></dt>
-<dd>Before you get started, decide you won’t get too frustrated. Surfing is supposed to be fun, and it will be. But things can be pretty tough in the beginning. You’ll take some pretty rough tumbles and make get a few knicks or scratches. Make sure you give yourself some time to relax and take in your beautiful surroundings when you need a break.</dd>
+<dd>Before you get started, decide you won’t get too frustrated! Surfing is supposed to be fun, and it will be. But things can be pretty tough in the beginning. You’ll take some pretty rough tumbles and maybe get a few knicks or scratches. Make sure you give yourself some time to relax and take in your beautiful surroundings when you need a break.</dd>
 <dt><h5>Be persistent</h5></dt>
-<dd>Good surfers have a determined attitude. They work hard and aren’t afraid to fall off their board a time or two. The only way to get better is to keep practicing!</dd>
+<dd>Good surfers have a determined attitude! They work hard and aren’t afraid to fall off their board a time or two. The only way to get better is to keep practicing!</dd>
 <dt><h5>Be confident</h5></dt>
-<dd>Don’t be afraid! People of all ages can learn to surf. People old and young can do it, so you can too. You’re never too young or old to get started! </dd>
+<dd>Don’t be afraid! People of all ages can learn to surf. People old and young can do it, so you can too. You’re never too young or old to get started if you have the right help! </dd>
 <dt><h5>Be smart</h5></dt>
-<dd>If you’re going to surf, you’ve got to have the right equipment and help along the way. 
-<ul><li>Pick the right board. As far as boards go, you’ll probably wanted a foam surfboard to start. They’re great for beginners, offer a ton of flotation and don’t hurt as much when they bump into you. They can be a little heavy though. If you’re just trying out surfing for the first time, it might be best to convince your Mom and Dad to help you rent one first. If they decide to buy instead, have them take a look at our guide to surfing sustainably. If they go with a foam board to start, selling can be fairly easy.</li></ul> 
+<dd>If you’re going to surf, you’ve got to have the right equipment and help along the way! 
+<ul><li>Pick the right board. As far as boards go, you’ll probably want a foam surfboard to start. They’re great for beginners, offer a ton of flotation and don’t hurt as much when they bump into you. They can be a little heavy though. If you’re just trying out surfing for the first time, it might be best to convince your Mom and Dad to help you rent one first. If they decide to buy instead, ask them to read our guide to surfing sustainably. If they go with a foam board to start, selling can be fairly easy.</li>
+<li>Get the right help. If you’re trying out surfing for the first time, you’re going to need an experienced surfer out there to help you in the water. Surfrider’s friends over at Pocean Surf Academy can get you started. Mention them to Mom or Dad. They teach people of all ages how to surf and give you the push you need to become a great surfer. </li>
+</ul> 
 </dd>
+<dd><h5>Be Green</h5>If you’re spending the day trying to learn how to surf at the beach, make sure your keep an eye on all your trash! This might sound silly, but respecting the environment is an important part of becoming a respectable surfer. The water and beach belongs to everyone, so keeping it all clean means everyone there gets to have a great experience. Get in the habit of disposing of food wrappers and plastics in the right place when you wrap up a day at the beach. This way, everyone can enjoy the Ericeira coastline!</dd>
 </dl>
 </div>
 </div>
@@ -292,7 +299,7 @@ Template Name: Kid-Zone
 <div class="row">
     <div class="span10 offset1">
 
-						<p>If you are under 16 you can become a protector of the coast for 15€ a year. </p>
+						<p>If you are under 16 years old you can become a protector of the coast for 15€ a year. </p>
 
 						<p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
 						<ul>
@@ -310,6 +317,7 @@ Template Name: Kid-Zone
 
   </div><!-- end of accordian --> 
 
+    <h5 class="span1">Download Your Activity Pack!</h5>
 
 
 

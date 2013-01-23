@@ -25,21 +25,21 @@ Template Name: Membership
 		  <div class="span10 offset1">
 		    <h2>Become a Member of Surfrider</h2>
 		     <div class="span3 visible-desktop">
-		  <p>Becoming a member of Surfrider is one of the best ways to contribute to the cause of keeping our beaches clean and spread awareness about the environmental issues the community faces. Once you’ve given provided your details and paid a small inscription fee, you will have the option to become a member at various levels. Each tier of membership comes with its own set of unique benefits, giving one more reason to join in on the action at Surfrider. </p>
+		  <p>Becoming a member of Surfrider is one of the best ways to contribute to the cause of keeping our beaches clean and spread awareness about the environmental issues the community faces. Once you’ve provided your details and paid a small subscription fee, you will have the option to become a member at various levels. Each tier of membership comes with its own set of unique benefits, giving one more reason to join in on the action at Surfrider.</p>
 </div>
 
 		  <div class="span6 visible-desktop"><iframe width="560" height="315"src="http://www.youtube.com/embed/1moPcYWh_l0" frameborder="0" allowfullscreen></iframe></div>
 		  
 		  
 		  <div class="visible-tablet">
-		  <p>Becoming a member of Surfrider is one of the best ways to contribute to the cause of keeping our beaches clean and spread awareness about the environmental issues the community faces. Once you’ve given us your details and paid a small inscription fee, you will have the option to become a member at various level. Each tier of membership comes with its own set of unique benefits, giving one more reason to join in on the action at Surfrider. </p>
+		  <p>Becoming a member of Surfrider is one of the best ways to contribute to the cause of keeping our beaches clean and spread awareness about the environmental issues the community faces. Once you’ve provided your details and paid a small subscription fee, you will have the option to become a member at various levels. Each tier of membership comes with its own set of unique benefits, giving one more reason to join in on the action at Surfrider.</p>
 </div>
 
 		  <div><iframe class="visible-tablet" width="560" height="315"src="http://www.youtube.com/embed/1moPcYWh_l0" frameborder="0" allowfullscreen></iframe></div>
 		  
 		  
 		  <div class="visible-phone">
-		  <p>Becoming a member of Surfrider is one of the best ways to contribute to the cause of keeping our beaches clean and spread awareness about the environmental issues the community faces. Once you’ve given us your details and paid a small inscription fee, you will have the option to become a member at various level. Each tier of membership comes with its own set of unique benefits, giving one more reason to join in on the action at Surfrider. </p>
+		  <p>Becoming a member of Surfrider is one of the best ways to contribute to the cause of keeping our beaches clean and spread awareness about the environmental issues the community faces. Once you’ve provided your details and paid a small subscription fee, you will have the option to become a member at various levels. Each tier of membership comes with its own set of unique benefits, giving one more reason to join in on the action at Surfrider.</p>
 </div>
 
 		  <div><iframe class="visible-phone" src="http://www.youtube.com/embed/1moPcYWh_l0" frameborder="0" allowfullscreen></iframe></div>
@@ -57,9 +57,9 @@ Template Name: Membership
 
 				<div id="collapseOne" class="accordion-body collapse">
 					<div class="accordion-inner">
-							<p>Anyone over 16 can obtain membership for 20€.</p>
+							<p>Anyone over 16 years old can obtain membership for 20€.</p>
 							
-							<p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
+							<p>After the initial subscription fee, there are three different levels of memberships that can be obtained. </p>
 							
 							<p>A Surfrider card can be shown at participating partner businesses for discounts on merchandise and food.</p> 
 
@@ -95,7 +95,7 @@ Template Name: Membership
 <div id="collapseTwo" class="accordion-body collapse">
 
 			<div class="accordion-inner">
-		<p>A child under 16 can obtain membership for 10€ for year.</p>
+		<p>A child under 16 years old can obtain membership for 10€ for year.</p>
 		<p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
             <table class="table span7">
             <tr>
