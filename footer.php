@@ -19,16 +19,17 @@
                  <div class="span4 pull-right" id="socialdiv">
                                 <a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
                                 <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
-                                <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
+                                <a href="http://instagram.com/surfridericeira/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
                                 <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
                                 
                 </div>
             </div>
             
-            <div class="row">
+            <div class="row-fluid">
             
-                        <div>
+                        <div class="span12">
                             <ul class="majornav">
+                            <div class="span2">
                                 <li class="majornav">About Us
                                     <ul>
                                         <li><a href="<?php bloginfo('url'); ?>/about/">About Us</a></li>
@@ -37,6 +38,8 @@
                                         <li><a href="<?php bloginfo('url'); ?>/about/">Sustainable Surfing</a></li>
                                     </ul>
                                 </li>
+                                </div>
+                                <div class="span2">
                                 <li class="majornav">Learn
                                     <ul>
                                         <li><a href="<?php bloginfo('url'); ?>/problem/">The Problem</a></li>
@@ -44,6 +47,8 @@
                                         <li><a href="<?php bloginfo('url'); ?>/psa/">PSAs</a></li>
                                     </ul>
                                 </li>
+                                </div>
+                                <div class="span2">
                                 <li class="majornav">Blog
                                     <ul>
                                         <li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
@@ -51,6 +56,8 @@
                                         <li><a href="<?php bloginfo('url'); ?>/video/">Videos</a></li>
                                     </ul>
                                 </li>
+                                </div>
+                                <div class="span2">
                                 <li class="majornav">Take Action
                                     <ul>
                                         <li><a href="<?php bloginfo('url'); ?>/why-give/">Why Give?</a></li>
@@ -59,6 +66,8 @@
                                         <li><a href="<?php bloginfo('url'); ?>/calendar/">Events Calendar</a> </li>
                                     </ul>
                                 </li>
+                                </div>
+                                <div class="span2">
                                 <li class="majornav">Kids' Zone
                                     <ul>
                                         <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >About Us</a></li>
@@ -67,6 +76,7 @@
                                         <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Become a Member</a></li>
                                     </ul>
                                 </li>
+                                </div>
                             </ul>
         
                             </div> <!-- end span 7-->
