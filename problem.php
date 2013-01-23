@@ -61,7 +61,6 @@ pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" class="visible-desktop">
 
 
 <div class="span10">
-<img src="<?php echo get_template_directory_uri(); ?>/img/plasticCycle.jpg" alt="" id="plasticcycle">
 
 <p>Plastics have been a tremendous help to our way of life in the world. It has been used in the production of homes, cars, offices, playgrounds, schools, toys, food and fluid containers. But despite how they have helped make our lives a little easier, they can pose a significant threat to the things the surfing community values greatly. </p>
 
