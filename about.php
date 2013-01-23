@@ -63,7 +63,12 @@ Template Name: About
 						
                         
 <div class="row">
+<div class="span10">
+<iframe width="560" height="315" margin-bottom="20" src="http://www.youtube.com/embed/BpjXHh0ojQ4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+</div>
+<div class="row">
 <div class="span5">
+
 <p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through CARE (conservation, activism, research and education).  
 </p>
 <p>It is an associated collective of passionate surfers that shares the same goals of protecting and providing sustainable growth through education and positive activity in the local environment. The organization seeks to protect the Ericeira coastline’s beautiful resources that are so often taken for granted. </p>
@@ -125,7 +130,7 @@ Template Name: About
 
 				<div id="collapseOne" class="accordion-body collapse">
 					<div class="accordion-inner">
-						<div class="row">	
+						<div class="row coremem">	
 					<img src="<?php echo get_template_directory_uri(); ?>/img/richard.png" class="span2" id="corepic">
 						<ul class="span4">
 							<li id="membername">Richard O'Sullivan</li>
@@ -135,7 +140,7 @@ Template Name: About
 						</ul>
 						</div>
 						
-						<div class="row">	
+						<div class="row coremem">	
 					<img src="<?php echo get_template_directory_uri(); ?>/img/Osario.jpg" class="span2" id="corepic">
 						<ul class="span4">
 							<li id="membername">Gonçalo Osario</li>
@@ -146,7 +151,7 @@ Template Name: About
 						</div>
 
 
-						<div class="row">	
+						<div class="row coremem">	
 					<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="span2" id="corepic">
 						<ul class="span4">
 							<li id="membername">Bruno Andrade </li>
@@ -156,7 +161,7 @@ Template Name: About
 						</ul>
 						</div>
 						
-						<div class="row">	
+						<div class="row coremem">	
 					<img src="<?php echo get_template_directory_uri(); ?>/img/hugo.jpg" class="span2" id="corepic">
 						<ul class="span4">
 							<li id="membername">Hugo Pereira Rocha </li>
@@ -167,7 +172,7 @@ Template Name: About
 						</div>
 						
 						
-						<div class="row">	
+						<div class="row coremem">	
 					<img src="<?php echo get_template_directory_uri(); ?>/img/brunolisboa.jpg" class="span2" id="corepic">
 						<ul class="span4">
 							<li id="membername">Bruno Lisboa</li>
@@ -177,7 +182,7 @@ Template Name: About
 						</ul>
 						</div>						
 						
-						<div class="row">	
+						<div class="row coremem">	
 					<img src="<?php echo get_template_directory_uri(); ?>/img/davide.jpg" class="span2" id="corepic">
 						<ul class="span4">
 							<li id="membername">Davide Troiani </li>
@@ -346,6 +351,9 @@ Template Name: About
 
 				<div id="collapseOne5" class="accordion-body collapse">
 					<div class="accordion-inner">
+<div class="row">
+<div class="span10">
+<iframe src="http://www.youtube.com/embed/BpjXHh0ojQ4?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
 <div class="row">
     <div class="span10 offset1">
 <div class="span5">
