@@ -16,84 +16,74 @@
                 <img src="<?php echo get_template_directory_uri(); ?>/img/footerlogo.png" id="footerlogo">
                     <h1>Ericeira</h1>
                  </div>
+                 
                  <div class="span4 pull-right" id="socialdiv">
                                 <a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
                                 <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
-                                <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
+                                <a href="http://instagram.com/surfridericeira/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
                                 <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
-                                
+                        <h5>Contact Surfrider </h5>
+							<p>surfriderericeira@gmail.com</p>
+							<p>+351 918667358</p>
+							<p>+351 261867182</p>   
+							 <div class="fb-like" data-href="http://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?ref=ts&amp;fref=ts" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>      
                 </div>
-            </div>
-            
-            <div class="row">
-            
-                        <div>
-                            <ul class="majornav">
-                                <li class="majornav">Quem Somos
-                                    <ul>
+ 
+            <div class="span8">
+                
+                        <div class="list-with-heading">
+                        <h6>Quem Somos</h6>
+                        	 <ul class="minornav">
                                         <li><a href="<?php bloginfo('url'); ?>/about/">Quem Somos</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/about/">Nossa Equipe</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/about/">Nossos parceiros</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/about/">Surfe Sustentável</a></li>
                                     </ul>
-                                </li>
-                                <li class="majornav">Aprender
-                                    <ul>
-                                        <li><a href="<?php bloginfo('url'); ?>/problem/">O Problema</a></li>
+                        </div>
+                         <div class="list-with-heading">
+                        <h6>Aprender</h6>
+                        	  <ul class="minornav">
                                         <li><a href="<?php bloginfo('url'); ?>/resources/">Recursos</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/problem/">O Problema</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/psa/">PSAs</a></li>
                                     </ul>
-                                </li>
-                                <li class="majornav">Blog
-                                    <ul>
+                        </div>
+                           <div class="list-with-heading">
+                        <h6>Blog</h6>
+                        	  <ul class="minornav">
                                         <li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/photos/">Fotos</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/video/">Vídeos</a></li>
                                     </ul>
-                                </li>
-                                <li class="majornav">Agir
-                                    <ul>
+                        </div>
+                        <div class="list-with-heading">
+                        <h6>Agir</h6>
+                                    <ul class="minornav">
                                         <li><a href="<?php bloginfo('url'); ?>/why-give/">Por que dar?</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/volunteer/">Voluntário</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/membership/">Torne-se um membro</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/calendar/">Agenda de Eventos</a> </li>
-                                    </ul>
-                                </li>
-                                <li class="majornav">Zona Kids
-                                    <ul>
+                                    </ul>                     
+                        </div>
+                        
+						<div class="list-with-heading">
+                        <h6>Zona Kids</h6>
+                        	 <ul class="minornav">
                                         <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Quem Somos</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Agir</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Surfe</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Torne-se um membro</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-        
-                            </div> <!-- end span 7-->
-
-
-
-				<div class="span3 pull-right">
-                        <div class="row">
-							<h5>Fale Surfrider </h5>
-							<p>surfriderericeira@gmail.com</p>
-							<p>+351 918667358 (mob)</p>
-							<p>+351 261867182</p>
+                                    </ul>                   
 
                         </div>
-                         <div class="row">
-                            <div class="span3">
-                                <div class="fb-like" data-href="http://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?ref=ts&amp;fref=ts" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
-                            </div>
-               </div>
-					
-                        
+			
+                 </div>       
                        
                         
 						
 
 						
-					</div><!-- end span 4 -->
+				
 				</div><!-- /.row -->
 			</div><!-- /.container -->
 			
