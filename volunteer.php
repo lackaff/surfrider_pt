@@ -73,7 +73,7 @@ Template Name: Volunteer
 							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
 							<p>"Most people live from tourism or fishing, and in a certain way we all depend on these natural resources that we have here, especially the ocean."</p>
 							<small class="pull-right"><cite class="pull-right" title="Source Title">-Bruno Lisboa</cite></small></br>
-							<a class="pull-right" href="http://youtu.be/dd8m0TnMmyc" target="_blank">Watch the interview</a>
+							<a class="pull-right" href="http://www.youtube.com/watch?v=dd8m0TnMmyc" target="_blank">Watch the interview</a>
 					</div>
 					
 <div class="span5 quotes clearfix">
