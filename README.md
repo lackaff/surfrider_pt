@@ -27,14 +27,19 @@ The following plugins must be installed and configured:
 The following pages must be created in both Wordpress sites, and the appropriate template must be added to each page:
 
 -  About
--  Blog
+-  Archive
+-  Calendar
 -  Contact
+-  Events
 -  Front Page
--  Kidzone
+-  Kid zone
 -  Membership
 -  Problem
+-  Photos
 -  PSA
 -  Resources
+-  Surfrider Blog
+-  Video
 -  Volunteer
 -  Whygive
 
