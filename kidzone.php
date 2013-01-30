@@ -66,7 +66,7 @@ Template Name: Kid-Zone
 
 <p>Since then, Surfrider has been working hard with its employees and tons of volunteers like you to help fight the battle of keeping the oceans clean. When kids choose to become a protector of the coast, they help keep things like your bath and drinking water clean, and give you clean oceans and beaches to enjoy!</p>
 
-<p>But even though Surfrider has had plenty of help over the years, it still needs help from you. Talk to your Mom and Dad about becoming a member at Surfrider, so you can become a protector of the coast too! </p>
+<p>But even though Surfrider has had plenty of help over the years, it still needs help from you. Talk to your Mom and Dad about helping out at Surfrider, so you can become a protector of the coast too! Ask if you can volunteer at the next Surfrider beach clean or talk to someone at your school about how to become a member.</p>
 
 <h2>What do we do?</h2>
 
@@ -193,7 +193,7 @@ Template Name: Kid-Zone
 
 <p>Since then, Surfrider has been working hard with its employees and tons of volunteers like you to help fight the battle of keeping the oceans clean. When kids choose to become a protector of the coast, they help keep things like your bath and drinking water clean, and give you clean oceans and beaches to enjoy!</p>
 
-<p>But even though Surfrider has had plenty of help over the years, it still needs help from you. Talk to your Mom and Dad about becoming a member at Surfrider, so you can become a protector of the coast too! </p>
+<p>But even though Surfrider has had plenty of help over the years, it still needs help from you. Talk to your Mom and Dad about helping out at Surfrider, so you can become a protector of the coast too! Ask if you can volunteer at the next Surfrider beach clean or talk to someone at your school about how to become a member.</p>
 
 <h2>What do we do?</h2>
 
@@ -288,14 +288,8 @@ Template Name: Kid-Zone
 <div class="row">
     <div class="span10 offset1">
 
-						<p>If you are under 16 years old you can become a protector of the coast for 15€ a year. </p>
-
-						<p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
-						<ul>
-							<li>Bronze (15€) - T-shirt, 10% off Surfrider affiliated stores</li>
-							<li>Silver (25€) - T-shirt, 20% off Surfrider affiliated stores and restaurants, PSFF free one-day pass</li>
-							<li>Gold (50€) - T-shirt, 20% off Surfrider affiliated stores and restaurants, hoodie, 20% off a surf lesson with a Surfrider partner. PSFF free one-day pass</li>
-						</ul>
+			<p>Many of Surfrider’s volunteers devoted caretakers of the beach are under the age of 18 years old. In order to protect the identity of children, a child’s membership is possible to obtain through an associated organization or club at your school.</p>
+<p>If children are not able to become a member through their school, there are still things they can do to help Surfrider. Visit the Take Action section of the <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a> to find out how.</p>	
 
 </div>
 </div>
