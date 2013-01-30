@@ -64,7 +64,7 @@ Template Name: About
                         
 <div class="row">
 <div class="span10">
-<iframe width="560" height="315" margin-bottom="20" src="http://www.youtube.com/embed/BpjXHh0ojQ4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ovYEgLW9Flo?rel=0" frameborder="0" allowfullscreen></iframe></div>
 </div>
 <div class="row">
 <div class="span5">
@@ -284,7 +284,7 @@ Template Name: About
 						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle.</p>
 
 <p><strong>Ericeira City Hall</strong> grants Surfrider Ericeira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
-<p><strong>Coastwatch Portugal</strong> researches and presents findings on wildlife, coast erosion and statistics for the area. </p>
+<p><strong>Coastwatch Portugal</strong> is an official partner with Surfrider and provides direct support with research, coast erosion and statistics for the area.</p>
 <p>Surfrider also works with a number of sponsors, which can be found listed below:</p>
 <ul><li>Camera Municipal de Mafra</li>
 <li>Cligeral LDA</li>
@@ -352,7 +352,7 @@ Template Name: About
 					<div class="accordion-inner">
 <div class="row">
 <div class="span10">
-<iframe src="http://www.youtube.com/embed/BpjXHh0ojQ4?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
+<iframe src="http://www.youtube.com/embed/ovYEgLW9Flo?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
 <div class="row">
     <div class="span10 offset1">
 <div class="span5">

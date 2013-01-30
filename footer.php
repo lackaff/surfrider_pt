@@ -22,7 +22,7 @@
                                 <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
                                 <a href="http://instagram.com/surfridericeira/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
                                 <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
-                        <h5>Contact Surfrider </h5>
+                        <a href="<?php bloginfo('url'); ?>/contact/"><h5>Contact Surfrider </h5></a>
 							<p>surfriderericeira@gmail.com</p>
 							<p>+351 918667358</p>
 							<p>+351 261867182</p>   
@@ -103,7 +103,7 @@
                  <div id="socialdiv">
                                 <a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
                                 <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
-                                <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
+                                 <a href="http://instagram.com/surfridericeira/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
                                 <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
 
                 </div>
@@ -135,8 +135,7 @@
                  <div id="socialdiv">
                                 <a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
                                 <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
-                                <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
-                                <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
+                                <a href="http://instagram.com/surfridericeira/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
                                 <a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
 
                 </div>

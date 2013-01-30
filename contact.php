@@ -49,7 +49,7 @@ Portugal<br><br>
 		
 					<a href="https://www.facebook.com/pages/Surfrider-Foundation-Ericeira/422379127821164?fref=ts" target="_blank"> <img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" class="socialthumb" ></a>
 					<a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
-					<img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb">
+					<a href="http://instagram.com/surfridericeira/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
 					<img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb">
 				
 		</div><!-- row --> 

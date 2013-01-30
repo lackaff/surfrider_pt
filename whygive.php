@@ -31,7 +31,7 @@ Template Name: WhyGive
 							<img src="<?php echo get_template_directory_uri(); ?>/img/andrea.jpg" class="quotepic">
 							<p>"For me Surfrider Foundation is a way to give something back to the ocean."</p>
 							<small class="pull-right"><cite class="pull-right" title="Source Title" >Andrea Torn</cite></br>Beach Representative</small></br>
-							<a href="http://youtu.be/dsdQAAr8ZlY" class="pull-right" target="_blank">Watch the interview</a>
+							<a href="http://www.youtube.com/watch?v=dsdQAAr8ZlY" class="pull-right" target="_blank">Watch the interview</a>
 					</div>
 					
 					
