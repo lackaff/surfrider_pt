@@ -145,24 +145,9 @@ Template Name: Kid-Zone
                      	<div class="span6">
                    
                     <h2>Become a Protector of the Coast</h2>
-						<p>If you are under 16 years old you can become a protector of the coast for 15€ a year. </p>
-    <p>After the initial inscription fee, there are three different levels of memberships that can be obtained. </p>
+						<p>Many of Surfrider’s volunteers devoted caretakers of the beach are under the age of 18 years old. In order to protect the identity of children, a child’s membership is possible to obtain through an associated organization or club at your school.</p>
+<p>If children are not able to become a member through their school, there are still things they can do to help Surfrider. Visit the Take Action section of the <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a> to find out how.</p>
 
-<table class="table span7">
-<tr>
-    <td><img src="<?php echo get_template_directory_uri(); ?>/img/bronze.png" /></td>
-    <td><strong>Bronze (15€)</strong><ul><li>T-shirt</li><li>10% off Surfrider affiliated stores</li></ul></td>
-</tr>
-<tr>
-    <td><img src="<?php echo get_template_directory_uri(); ?>/img/silver.png" /></td>
-    <td><strong>Silver (25€)</strong><ul><li>T-shirt</li><li>20% off Surfrider affiliated stores and restaurants</li><li>PSFF free one-day pass</li></ul></td>
-</tr>
-<tr>
-    <td><img src="<?php echo get_template_directory_uri(); ?>/img/gold.png" /></td>
-    <td><strong>Gold (50€)</strong>
-    	<ul><li>T-shirt</li><li>Hoodie</li><li>20% off Surfrider affiliated stores and restaurants</li><li>20% off a surf lesson with a Surfrider partner</li><li>PSFF free one-day pass</li></ul></td>
-</tr>
-</table> 
 
 						</div><!-- end of span 6-->
 							
