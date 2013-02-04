@@ -41,7 +41,7 @@ The following pages must be created in both Wordpress sites, and the appropriate
 -  Surfrider Blog
 -  Video
 -  Volunteer
--  Whygive
+-  Why Give
 
 Credits
 -------
