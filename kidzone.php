@@ -77,7 +77,8 @@ Template Name: Kid-Zone
 	</ul>
 						</div><!-- end of span 6-->
 						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" />
-						<a class="btn btn-large btn-success" id="activitypack" href="<?php bloginfo('url'); ?>/problem/">Download your Activity Pack!</a>						
+						<a class="btn btn-large btn-success" id="activitypack" href="<?php echo get_template_directory_uri(); ?>/img/SurfriderActivtiyPack.pdf">Download your Activity Pack!</a>
+						<p class="span3" >Fun games and activities for kids!</p>						
 
 						</div> <!-- end of row -->  
 					</div>
