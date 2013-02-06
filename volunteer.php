@@ -73,7 +73,7 @@ Template Name: Volunteer
 							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
 							<p>"Most people live from tourism or fishing, and in a certain way we all depend on these natural resources that we have here, especially the ocean."</p>
 							<small class="pull-right"><cite class="pull-right" title="Source Title">-Bruno Lisboa</cite></small></br>
-							<a class="pull-right" href="http://www.youtube.com/watch?v=dd8m0TnMmyc" target="_blank">Watch the interview</a>
+							<a class="pull-right" href="http://youtu.be/y1ImqN1A81o" target="_blank">Watch the interview</a>
 					</div>
 					
 <div class="span5 quotes clearfix">
@@ -81,7 +81,7 @@ Template Name: Volunteer
 							
 							<p>"Everyday we come out of the surf school from the water and I say, grab the board in one hand, grab a piece of trash in the other. It's one piece, but if everybody does that, it will help"</p>
 							<small class="pull-right"><cite  class="pull-right" title="Source Title" >- Ricardo Cosme</cite></small> <br/>
-							<a class="pull-right" href="http://youtu.be/1SuweQhnSMU" target="_blank">Watch the interview</a>					
+							<a class="pull-right" href="http://youtu.be/J6XXVN8GZe0" target="_blank">Watch the interview</a>					
 							</div>
 
             
