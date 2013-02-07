@@ -71,16 +71,17 @@ Template Name: Volunteer
            
          <div class="span5 quotes offset1 clearfix">
 							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
-							<p>"A maioria das pessoas vivem do turismo ou pesca, e de certa forma todos nós dependemos desses recursos naturais que temos aqui, especialmente o oceano."</p>
-							<small class="pull-right"><cite class="pull-right" title="Source Title">-Bruno Lisboa</cite></small><br />
-							<a class="pull-right" href="http://youtu.be/dd8m0TnMmyc" target="_blank">Watch the interview</a>
+							<p>"Most people live from tourism or fishing, and in a certain way we all depend on these natural resources that we have here, especially the ocean."</p>
+							<small class="pull-right"><cite class="pull-right" title="Source Title">-Bruno Lisboa</cite></small></br>
+							<a class="pull-right" href="http://youtu.be/y1ImqN1A81o" target="_blank">Watch the interview</a>
 					</div>
 					
 <div class="span5 quotes clearfix">
-							<img src="<?php echo get_template_directory_uri(); ?>/img/ricardo.jpg" class="quotepic">			
-							<p>"Todos os dias temos de sair da escola de surf da água e eu digo, pegue a placa em uma das mãos, pegue um pedaço de lixo no outro. É uma peça, mas se todo mundo faz isso, ele vai ajudar."</p>
-							<small class="pull-right"><cite  class="pull-right" title="Source Title" >- Ricardo Cosme</cite></small> <br />
-							<a class="pull-right" href="http://youtu.be/1SuweQhnSMU" target="_blank">Watch the interview</a>					
+							<img src="<?php echo get_template_directory_uri(); ?>/img/ricardo.jpg" class="quotepic">	
+							
+							<p>"Everyday we come out of the surf school from the water and I say, grab the board in one hand, grab a piece of trash in the other. It's one piece, but if everybody does that, it will help"</p>
+							<small class="pull-right"><cite  class="pull-right" title="Source Title" >- Ricardo Cosme</cite></small> <br/>
+							<a class="pull-right" href="http://youtu.be/J6XXVN8GZe0" target="_blank">Watch the interview</a>					
 							</div>
 
             
