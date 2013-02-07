@@ -68,8 +68,8 @@ Template Name: home
       
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>Próximos Eventos</h2>
-				<?php echo do_shortcode('[events_list limit="5"]#_EVENTLINK - #_EVENTDATES<br /><br />[/events_list]'); ?>
+          <h2>Upcoming Events</h2>
+				<?php echo do_shortcode('[eo_events numberposts="3"]<a href="%event_url%">%event_title%</a> <br />%start{jS M Y}{ g:i:a}%<br /><br />[/eo_events]'); ?>
 
         </div><!-- /.span4 -->
          
