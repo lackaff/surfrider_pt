@@ -19,7 +19,7 @@ Template Name: About
         <div class="itempic">
 	         <a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutOne">
 	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/aboutus.jpg" alt="">
-	          	<h4 class="labels"> About Us</h4>
+	          	<h4 class="labels">Sobre nós</h4>
 		     </a>        
 	    </div>
 	    
@@ -33,7 +33,7 @@ Template Name: About
         <div class="itempic">
         	<a class="accordion-toggle" data-toggle="collapse" data-parent="#secondnav" href="#aboutThree">
 	        	<img   src="<?php echo get_template_directory_uri(); ?>/img/ourpartners.jpg" alt="">
-	        	<h4 class="labels">Our Partners</h4>
+	        	<h4 class="labels">Os nossos parceiros</h4>
 	        </a>
         </div>
         
@@ -69,13 +69,14 @@ Template Name: About
 <div class="row">
 <div class="span5">
 
-<p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through CARE (conservation, activism, research and education).  
+<p>A Surfrider Foundation Ericeira é um capítulo da Surfrider Europe em regime de voluntariado.   
 </p>
-<p>It is an associated collective of passionate surfers that shares the same goals of protecting and providing sustainable growth through education and positive activity in the local environment. The organization seeks to protect the Ericeira coastline’s beautiful resources that are so often taken for granted. </p>
+<p>É uma colectiva associada de surfistas entusiastas que partilham os mesmos objectivos: proteger o meio ambiente local e fomentar o crescimento sustentável através da educação e de acção positiva. A organização pretende proteger os incríveis recursos da costa da Ericeira, a que tão frequentemente não damos o devido valor.</p>
+<p>A Surfrider Foundation Ericeira é uma organização sem fins lucrativos sediada na Ericeira, Portugal, que se dedica à proteção e fruição dos oceanos, ondas e praias do mundo através da conservação, do activismo, da investigação e da educação.</p>
 
 
 <h3> Our Mission</h3>
-						<p>Surfrider’s mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. Surfrider seeks to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike.</p>
+						<p>A missão da Surfrider é sensibilizar as pessoas e uni-las em torno da ideia de conservar a Ericeira como um dos últimos paraísos na Terra. A Surfrider procura construir uma ponte para novas ideias e para um crescimento sustentável que beneficie todos os membros da comunidade da Ericeira, tanto visitantes como residentes.</p>
 </div>
 <div class="span4">
 
@@ -84,19 +85,19 @@ Template Name: About
 <table class="table">
 <tr>
     <td><h1>C</h1></td>
-    <td>Conservation through efforts like sand bagging, dune protection and water monitoring.</td>
+    <td>Conservation - Conservação através de esforços como a utilização de sacos de areia, proteção das dunas e monitorização das águas.</td>
 </tr>
 <tr>
     <td><h1>A</h1></td>
-    <td>Activism through lobbying, letters to the community, and peaceful protests.</td>
+    <td>Activism - Activismo através do lobbying, envio de cartas à comunidade e protestos pacíficos.</td>
 </tr>
 <tr>
     <td><h1 id="h1r">R</h1></td>
-    <td>Research of new products as alternatives to pollutants, water testing results and effects on how construction on coastlines affects local ecosystems and foodchains.</td>
+    <td>Research - Investigação de novos produtos alternativos aos poluentes, análise dos resultados dos testes às águas e investigação dos efeitos e da forma como a construção nas zonas costeiras afecta os ecossistemas e as cadeias alimentares locais.</td>
 </tr>
 <tr>
     <td><h1>E</h1></td>
-    <td>Education through school programs, promotional materials and new market products.</td>
+    <td>Education - Educação através de programas escolares, material promocional e novos produtos de mercado.</td>
 </tr>
 </table> 
 
@@ -280,21 +281,21 @@ Template Name: About
 			<div class="accordion-group">
 				<div id="aboutThree" class="accordion-body collapse">
 					<div class="accordion-inner">
-					<h3> Our Partners</h3>
-						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle.</p>
+					<h3>Os nossos parceiros</h3>
+						<p>A Surfrider trabalha em conjunto com uma série de grupos diferentes da comunidade da Ericeira para alcançar a sua missão. Sem a sua ajuda, a proteção das zonas costeiras locais seria certamente uma tarefa mais dura.</p>
 
-<p><strong>Ericeira City Hall</strong> grants Surfrider Ericeira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
-<p><strong>Coastwatch Portugal</strong> is an official partner with Surfrider and provides direct support with research, coast erosion and statistics for the area.</p>
-<p>Surfrider also works with a number of sponsors, which can be found listed below:</p>
+<p>A Junta de Freguesia da Ericeira concedeu à Surfrider Ericeira a autorização necessária para ser activa na comunidade. Também presta apoio através de algum financiamento e cobrando impostos.</p>
+<p>A Coastwatch Portugal é um dos parceiros oficiais da Surfrider e presta apoio directo através de investigação, combate à erosão costeira e trabalho estatístico na zona.</p>
+<p>A Surfrider também trabalha com diversos patrocinadores, que podem ser encontrados na seguinte lista:</p>
 <ul><li>Camera Municipal de Mafra</li>
 <li>Cligeral LDA</li>
 </ul><ul>
 <li>Amar Hostel</li>
 <li>AKI </li>
 </ul><ul>
-<li>Riviera Restaurant </li>
-<li>Tik Tak</li>
-<li>Prim </li></ul>
+<li>Restaurante Riviera</li>
+<li>Restaurante Tik Tak</li>
+<li>Restaurante Prim </li></ul>
 
 
 					</div>
@@ -344,7 +345,7 @@ Template Name: About
 		  <div class="accordion-heading">
 			  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseOne5">
 				  	<img   src="<?php echo get_template_directory_uri(); ?>/img/mobileAbout.gif" alt="">
-				  	<h4 class="labels"> About Us</h4>
+				  	<h4 class="labels"> QUEM SOMOS</h4>
 			</a>
 			</div>
 
@@ -356,33 +357,36 @@ Template Name: About
 <div class="row">
     <div class="span10 offset1">
 <div class="span5">
-<p>Surfrider Foundation Ericeira is a nonprofit organization based in Ericeira, Portugal and dedicated to the protection and enjoyment of the world’s oceans, waves and beaches for all people through CARE (conservation, activism, research and education).  
+<p>Sobre nós – A Surfrider Foundation Ericeira é um capítulo da Surfrider Europe em regime de voluntariado.  
 </p>
-<p>It is an associated collective of passionate surfers that shares the same goals of protecting and providing sustainable growth through education and positive activity in the local environment. The organization seeks to protect the Ericeira coastline’s beautiful resources that are so often taken for granted. </p>
+<p>É uma colectiva associada de surfistas entusiastas que partilham os mesmos objectivos: proteger o meio ambiente local e fomentar o crescimento sustentável através da educação e de acção positiva. A organização pretende proteger os incríveis recursos da costa da Ericeira, a que tão frequentemente não damos o devido valor.</p>
+
+<p>A Surfrider Foundation Ericeira é uma organização sem fins lucrativos sediada na Ericeira, Portugal, que se dedica à proteção e fruição dos oceanos, ondas e praias do mundo através da conservação, do activismo, da investigação e da educação.
+</p>
 
 <table class="table">
 <tr>
     <td><h1>C</h1></td>
-    <td>Conservation through efforts like sand bagging, dune protection and water monitoring.</td>
+    <td>Conservation - Conservação através de esforços como a utilização de sacos de areia, proteção das dunas e monitorização das águas.</td>
 </tr>
 <tr>
     <td><h1>A</h1></td>
-    <td>Activism through lobbying, letters to the community, and peaceful protests.</td>
+    <td>Activism - Activismo através do lobbying, envio de cartas à comunidade e protestos pacíficos.</td>
 </tr>
 <tr>
     <td><h1 id="h1r">R</h1></td>
-    <td>Research of new products as alternatives to pollutants, water testing results and effects on how construction on coastlines affects local ecosystems and foodchains.</td>
+    <td>Research - Investigação de novos produtos alternativos aos poluentes, análise dos resultados dos testes às águas e investigação dos efeitos e da forma como a construção nas zonas costeiras afecta os ecossistemas e as cadeias alimentares locais.</td>
 </tr>
 <tr>
     <td><h1>E</h1></td>
-    <td>Education through school programs, promotional materials and new market products.</td>
+    <td>Education - Educação através de programas escolares, material promocional e novos produtos de mercado.</td>
 </tr>
 </table> 
 
 
 
 <h3> Our Mission</h3>
-						<p>Surfrider’s mission is to create awareness and unity around the idea of maintaining Ericeira as one of the last paradises on earth. Surfrider seeks to create a bridge to new ideas and sustainable growth that benefits everyone in the Ericeira community, travelers and residents alike.</p>
+						<p>A missão da Surfrider é sensibilizar as pessoas e uni-las em torno da ideia de conservar a Ericeira como um dos últimos paraísos na Terra. A Surfrider procura construir uma ponte para novas ideias e para um crescimento sustentável que beneficie todos os membros da comunidade da Ericeira, tanto visitantes como residentes.</p>
 
 </div>
 
@@ -504,18 +508,18 @@ Template Name: About
 <div class="accordion-heading">
 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion5" href="#collapseThree5">
 <img   src="<?php echo get_template_directory_uri(); ?>/img/mobilePartners.gif" alt="">
-<h4 class="labels">Our Partners</h4>
+<h4 class="labels">Os nossos parceiros</h4>
 </a>
 </div>
 <div id="collapseThree5" class="accordion-body collapse">
 <div class="accordion-inner">
 <div class="row">
     <div class="span10 offset1">
-						<p>Surfrider works with a number of different groups in the Ericeira community to help achieve its mission. Without their help, protecting the local coastlines would certainly be a more difficult task to tackle.</p>
+						<p>A Surfrider trabalha em conjunto com uma série de grupos diferentes da comunidade da Ericeira para alcançar a sua missão. Sem a sua ajuda, a proteção das zonas costeiras locais seria certamente uma tarefa mais dura.</p>
 
-<p><strong>Ericeira City Hall</strong> grants Surfrider Ericerira the permission needed to be active in the community. It also aids in funding and collects taxes.</p>
-<p><strong>Coastwatch Portugal</strong> researches and presents findings on wildlife, coast erosion and statistics for the area. </p>
-<p>Surfrider also works with a number of sponsors, which can be found listed below:</p>
+<p>A Junta de Freguesia da Ericeira concedeu à Surfrider Ericeira a autorização necessária para ser activa na comunidade. Também presta apoio através de algum financiamento e cobrando impostos.</p>
+<p>A Coastwatch Portugal é um dos parceiros oficiais da Surfrider e presta apoio directo através de investigação, combate à erosão costeira e trabalho estatístico na zona. </p>
+<p>A Surfrider também trabalha com diversos patrocinadores, que podem ser encontrados na seguinte lista:</p>
 <ul><li>Camera Municipal de Mafra</li>
 <li>Patagonia</li>
 <li>Cligeral LDA</li>
@@ -523,9 +527,9 @@ Template Name: About
 <li>Amar Hostel</li>
 <li>AKI </li>
 </ul><ul>
-<li>Riviera Restaurant </li>
-<li>Tik Tak</li>
-<li>Prim </li></ul>
+<li>Restaurante Riviera</li>
+<li>Restaurante Tik Tak</li>
+<li>Restaurante Prim </li></ul>
 
 </div>
 </div>
