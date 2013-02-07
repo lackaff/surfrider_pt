@@ -64,7 +64,7 @@ Template Name: About
                         
 <div class="row">
 <div class="span10">
-<iframe width="560" height="315" src="http://www.youtube.com/embed/ovYEgLW9Flo?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Scy3M8cJGiw" frameborder="0" allowfullscreen></iframe></div>
 </div>
 <div class="row">
 <div class="span5">
