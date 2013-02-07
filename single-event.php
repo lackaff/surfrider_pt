@@ -1,56 +1,107 @@
 <?php
+/**
+ * The template for displaying a single event
+ *
+ * Please note that since 1.7, this template is not used by default. You can edit the 'event details'
+ * by using the event-meta-event-single.php template.
+ *
+ * Or you can edit the entire single event template by creating a single-event.php template
+ * in your theme. You can use this template as a guide.
+ *
+ * For a list of available functions (outputting dates, venue details etc) see http://wp-event-organiser.com/documentation/function-reference/
+ *
+ ***************** NOTICE: *****************
+ *  Do not make changes to this file. Any changes made to this file
+ * will be overwritten if the plug-in is updated.
+ *
+ * To overwrite this template with your own, make a copy of it (with the same name)
+ * in your theme directory. See http://wp-event-organiser.com/documentation/editing-the-templates/ for more information
+ *
+ * WordPress will automatically prioritise the template in your theme directory.
+ ***************** NOTICE: *****************
+ *
+ * @package Event Organiser (plug-in)
+ * @since 1.0.0
+ */
 
-/*
-Template Name: Single Event
-*/
-?> 
+//Call the template header
+get_header(); ?>
 
 
-<?php get_header(); ?>
-
-<?php get_template_part( 'navbar'); ?> 
-
- <!-- Carousel
+<!-- Carousel
     ================================================== -->
     <div class="headerpics">
         <div class="fullpic">
-	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/calendar.jpg" alt="">
+	          	<img   src="<?php echo get_template_directory_uri(); ?>/img/blog.jpg" alt="">
 	    </div>
-	    
     </div><!-- /.head pic -->
 
- 
+	  <div class="container">
+	  <div class="row">
+		<div class="span10 offset1">
+
+  
+
+
+<div id="primary">
+	<div id="content" role="main">
+
+		<?php while ( have_posts() ) : the_post(); ?>
+
+			<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+
+			<header class="entry-header">
+
+				<!-- Display event title -->
+				<h2 class="entry-title"><?php the_title(); ?></h2>
+
+			</header><!-- .entry-header -->
 	
-<div class="container">
-	<div class="row">
-		  <div class="span10 offset1">
+			<div class="entry-content">
+				<!-- Get event information, see template: event-meta-event-single.php -->
+				<?php eo_get_template_part('event-meta','event-single'); ?>
 
-<?php
-/* 
- * Remember that this file is only used if you have chosen to override event pages with formats in your event settings!
- * You can also override the single event page completely in any case (e.g. at a level where you can control sidebars etc.), as described here - http://codex.wordpress.org/Post_Types#Template_Files
- * Your file would be named single-event.php
- */
-/*
- * This page displays a single event, called during the the_content filter if this is an event page.
- * You can override the default display settings pages by copying this file to yourthemefolder/plugins/events-manager/templates/ and modifying it however you need.
- * You can display events however you wish, there are a few variables made available to you:
- * 
- * $args - the args passed onto EM_Events::output() 
- */
-global $EM_Event;
-/* @var $EM_Event EM_Event */
-echo $EM_Event->output_single();
+			
+			</div><!-- .entry-content -->
 
-?>
+			<div class="entry-meta">
+			<?php
+				//Events have their own 'event-category' taxonomy. Get list of categories this event is in.
+				$categories_list = get_the_term_list( get_the_ID(), 'event-category', '', ', ',''); 
+
+				if ( '' != $categories_list ) {
+					$utility_text = __( 'This event was posted in %1$s by <a href="%5$s">%4$s</a>. Bookmark the <a href="%2$s" title="Permalink to %3$s" rel="bookmark">permalink</a>.', 'eventorganiser' );
+				} else {
+					$utility_text = __( 'This event was posted by <a href="%5$s">%4$s</a>. Bookmark the <a href="%2$s" title="Permalink to %3$s" rel="bookmark">permalink</a>.', 'eventorganiser' );
+				}
+				printf($utility_text,
+					$categories_list,
+					esc_url( get_permalink() ),
+					the_title_attribute( 'echo=0' ),
+					get_the_author(),
+					esc_url( get_author_posts_url( get_the_author_meta( 'ID' ) ) )
+				);
+			?>
+
+			<?php edit_post_link( __( 'Edit'), '<span class="edit-link">', '</span>' ); ?>
+			</div><!-- .entry-meta -->
+
+			</article><!-- #post-<?php the_ID(); ?> -->
+
+			<!-- If comments are enabled, show them -->
+			<div class="comments-template">
+				<?php comments_template(); ?>
+			</div>				
+
+		<?php endwhile; // end of the loop. ?>
+
+	</div><!-- #content -->
+</div><!-- #primary -->
 
 
+  </div><!-- /.span10 offset1 -->
+  </div><!-- /.row -->
+  </div> <!-- /.container -->
 
-
-
-		</div> <!-- end of span 10 offset 1 -->
-	</div> <!-- end of row -->
-</div> <!-- end of container -->
-
-
+<!-- Call template footer -->
 <?php get_footer(); ?>
