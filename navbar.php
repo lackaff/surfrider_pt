@@ -31,7 +31,7 @@ Template Name: navbar
               
               
               
-               <li><a href="<?php bloginfo('url'); ?>/about/">Quem Somos</a></li>
+               <li><a href="<?php bloginfo('url'); ?>/about/">Sobre nós</a></li>
 		
 		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Aprender<span class="caret"></span></a>
 			<ul class="dropdown-menu">
@@ -44,25 +44,25 @@ Template Name: navbar
 			
 		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Agir<span class="caret"></span></a>
 			<ul class="dropdown-menu">
-				<li><a href="<?php bloginfo('url'); ?>/why-give/">Por que dar?</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/volunteer/">Voluntário</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/membership/">Torne-se um membro</a></li>
-				<li><a href="<?php bloginfo('url'); ?>/calendar/">Agenda de Eventos</a> </li>
+				<li><a href="<?php bloginfo('url'); ?>/why-give/">Porquê dar?</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/volunteer/">Torna-te voluntário</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/membership/">Torna-te membro</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/calendar/">Calendário de eventos</a> </li>
 			</ul>
 		</li>	
 		
-		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog<span class="caret"></span></a>
+		<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blogue<span class="caret"></span></a>
 			<ul class="dropdown-menu">
-            	<li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
+            	<li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blogue</a></li>
 				<li><a href="<?php bloginfo('url'); ?>/photos/">Fotos</a></li>
 				<li><a href="<?php bloginfo('url'); ?>/video/">Vídeos</a></li>
 			</ul>
 		</li>
 		
 
-		<li> <a href="<?php bloginfo('url'); ?>/contact/">Contato</a></li>	
+		<li> <a href="<?php bloginfo('url'); ?>/contact/">Contacta-nos</a></li>	
 
-		<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" ><img src="<?php echo get_template_directory_uri(); ?>/img/kidzone.png" class="visible-desktop" id="kidzonepic"><span class="hidden-desktop" id="kidzonemobile">Kid Zona</span></a></li>	
+		<li> <a href="<?php bloginfo('url'); ?>/kid-zone/" ><img src="<?php echo get_template_directory_uri(); ?>/img/kidzone.png" class="visible-desktop" id="kidzonepic"><span class="hidden-desktop" id="kidzonemobile">Área dos miúdos</span></a></li>	
               </ul>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->
