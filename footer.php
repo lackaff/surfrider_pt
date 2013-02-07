@@ -22,7 +22,7 @@
                                 <a href="https://twitter.com/surfridericeira" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" class="socialthumb"></a>
                                 <a href="http://instagram.com/surfridericeira/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png" class="socialthumb"></a>
                                 <a href="https://www.youtube.com/channel/UCe368gqswnxxhKzh2EIhA0Q?feature=guide" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png" class="socialthumb"></a>
-                        <a href="<?php bloginfo('url'); ?>/contact/"><h5>Contact Surfrider </h5></a>
+                        <a href="<?php bloginfo('url'); ?>/contact/"><h5>Contacta a Surfrider</h5></a>
 							<p>surfriderericeira@gmail.com</p>
 							<p>+351 918667358</p>
 							<p>+351 261867182</p>   
@@ -32,26 +32,26 @@
             <div class="span8">
                 
                         <div class="list-with-heading">
-                        <h6>Quem Somos</h6>
+                        <h6>Sobre nós</h6>
                         	 <ul class="minornav">
-                                        <li><a href="<?php bloginfo('url'); ?>/about/">Quem Somos</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/about/">Nossa Equipe</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/about/">Nossos parceiros</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/about/">Surfe Sustentável</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Sobre nós</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">A nossa equipa</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Os nossos parceiros</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/about/">Surf sustentável</a></li>
                                     </ul>
                         </div>
                          <div class="list-with-heading">
                         <h6>Aprender</h6>
                         	  <ul class="minornav">
                                         <li><a href="<?php bloginfo('url'); ?>/resources/">Recursos</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/problem/">O Problema</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/problem/">O problema</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/psa/">PSAs</a></li>
                                     </ul>
                         </div>
                            <div class="list-with-heading">
-                        <h6>Blog</h6>
+                        <h6>Blogue</h6>
                         	  <ul class="minornav">
-                                        <li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blog</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/surfrider-blog/">Blogue</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/photos/">Fotos</a></li>
                                         <li><a href="<?php bloginfo('url'); ?>/video/">Vídeos</a></li>
                                     </ul>
@@ -59,20 +59,20 @@
                         <div class="list-with-heading">
                         <h6>Agir</h6>
                                     <ul class="minornav">
-                                        <li><a href="<?php bloginfo('url'); ?>/why-give/">Por que dar?</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/volunteer/">Voluntário</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/membership/">Torne-se um membro</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/calendar/">Agenda de Eventos</a> </li>
+                                        <li><a href="<?php bloginfo('url'); ?>/why-give/">Porquê dar?</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/volunteer/">Torna-te voluntário</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/membership/">Torna-te membro</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/calendar/">Calendário de eventos</a> </li>
                                     </ul>                     
                         </div>
                         
 						<div class="list-with-heading">
-                        <h6>Zona Kids</h6>
+                        <h6>Área dos miúdos</h6>
                         	 <ul class="minornav">
-                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Quem Somos</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Agir</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Surfe</a></li>
-                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Torne-se um membro</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Sobre nós</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Age</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Surf</a></li>
+                                        <li><a href="<?php bloginfo('url'); ?>/kid-zone/" >Torna-te membro</a></li>
                                     </ul>                   
 
                         </div>
