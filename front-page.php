@@ -16,9 +16,9 @@ Template Name: home
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderLearn.jpg" alt="">
           <div class="container  active">
             <div class="carousel-caption" id="headline1">
-              <h1 >Give Back!</h1>
-             <p class="lead">Dar de volta o que você toma do oceano.</p>
-              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/problem/">Saiba mais</a>
+              <h1 >Retribui!</h1>
+             <p class="lead">Retribui aquilo que o oceano te dá.</p>
+              <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/problem/">Fica a saber mais</a>
             </div>
           </div>
         </div>
@@ -27,9 +27,9 @@ Template Name: home
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderBeachClean.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Envolvimento da Comunidade</h1>
-              <p class="lead">Alunos do ensino secundário varrer a costa para o lixo.</p>
-              <a class="btn btn-large btn-success" href="#">Leia o blog</a>
+              <h1>Envolvimento comunitário</h1>
+              <p class="lead">Alunos da escola secundária varrem a costa em busca de lixo.</p>
+              <a class="btn btn-large btn-success" href="#">Lê o blogue</a>
             </div>
           </div>
         </div>
@@ -37,8 +37,8 @@ Template Name: home
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderConnect.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Conectar</h1>
-              <p class="lead">Siga-nos nas mídias sociais para atualizações sobre a nossa costa.</p>
+              <h1>Liga-te a nós</h1>
+              <p class="lead">Segue-nos nas redes sociais e mantém-te a par das novidades sobre a nossa costa.</p>
               <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/contact/">Conectar</a>
             </div>
           </div>
@@ -47,8 +47,8 @@ Template Name: home
           <img src="<?php echo get_template_directory_uri(); ?>/img/sliderVolunteer.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Voluntário.</h1>
-              <p class="lead">Participe da nossa limpeza da praia próxima.</p>
+              <h1>Torna-te voluntário.</h1>
+              <p class="lead">Participa na nossa próxima limpeza de praia. </p>
               <a class="btn btn-large btn-success" href="<?php bloginfo('url'); ?>/contact/">Voluntário.</a>
             </div>
           </div>
@@ -68,14 +68,14 @@ Template Name: home
       
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>Upcoming Events</h2>
+          <h2>Próximos eventos</h2>
 				<?php echo do_shortcode('[eo_events numberposts="3"]<a href="%event_url%">%event_title%</a> <br />%start{jS M Y}{ g:i:a}%<br /><br />[/eo_events]'); ?>
 
         </div><!-- /.span4 -->
          
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2 class="fpcenter">Blog</h2>
+          <h2 class="fpcenter">Blogue</h2>
            <?php $args = array( 'numberposts' => 5, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date"); $postslist = get_posts( $args ); foreach ($postslist as $post) : setup_postdata($post); ?> <div class="events"><p><?php the_title(); ?><a id="blogindex" href="<?php the_permalink(); ?>" title="<?php the_title();  ?>"> Read More</a></p> </div><?php endforeach; ?> 
            
             
@@ -83,20 +83,15 @@ Template Name: home
         
         <div class="span4">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2 class="fpcenter">Agir</h2>
+          <h2 class="fpcenter">Age</h2>
           <div class="row">
  <img class="span2" src="<?php echo get_template_directory_uri(); ?>/img/ta1.jpg" />
-          <p class="span2">Surfrider suporta o mar, as ondas, e as pessoas que gostam dele.</p> <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-success span1">Inscreva-se!!</a>
+          <p class="span2">A Surfrider apoia o oceano, as ondas e as pessoas que deles desfrutam.</p> <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-success span1">Inscreve-te</a>
           </div>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
     
     </div><!-- /.container -->
-    
-    
-    
-    
-    
     
      <div class="container hidden-desktop" id="fp">
       <!-- Three columns of text below the carousel -->
@@ -104,24 +99,24 @@ Template Name: home
       
         <div class="span6">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2 class="fpcenter">Próximos Eventos</h2>
-         		<?php echo do_shortcode('[events_list limit="5"]#_EVENTLINK - #_EVENTDATES<br /><br />[/events_list]'); ?>
+          <h2 class="fpcenter">Próximos eventos</h2>
+         		<?php echo do_shortcode('[eo_events numberposts="3"]<a href="%event_url%">%event_title%</a> <br />%start{jS M Y}{ g:i:a}%<br /><br />[/eo_events]'); ?>
         </div><!-- /.span4 -->
         
         <div class="span6">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>Blog</h2>
+          <h2>Blogue</h2>
            <?php $args = array( 'numberposts' => 6, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date"); $postslist = get_posts( $args ); foreach ($postslist as $post) : setup_postdata($post); ?> <div class="events"><p><?php the_title(); ?><a id="blogindex" href="<?php the_permalink(); ?>" title="<?php the_title();  ?>"> Read More</a></p> </div><?php endforeach; ?>
         </div><!-- /.span4 -->
       </div><!-- end of row -->
       <div class="row">
         <div class="span8 offset2">
           <img class="img-circle" data-src="holder.js/140x140">
-          <h2>Take Action</h2>
+          <h2>Age</h2>
         
           <img class="span2" src="<?php echo get_template_directory_uri(); ?>/img/ta1.jpg" />
-          <p class="span3">Surfrider suporta o mar, as ondas, e as pessoas que gostam dele.</p> 
-          <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-large btn-success span2">Inscreva-se!</a>       
+          <p class="span3">A Surfrider apoia o oceano, as ondas e as pessoas que deles desfrutam.</p> 
+          <a href="<?php bloginfo('url'); ?>/membership/" class="btn btn-large btn-success span2">Inscreve-te</a>       
         </div><!-- /.span4 -->
       </div><!-- /.row -->
     
