@@ -137,7 +137,8 @@ Template Name: Problem
             <div id="collapseOne" class="accordion-body collapse">
 
 			<div class="accordion-inner">
-					<iframe width="560" height="315" src="http://www.youtube.com/embed/6lbEEKmTmrM?rel=0" frameborder="0" allowfullscreen></iframe>
+					<iframe width="560" height="315" src="http://www.youtube.com/embed/6lbEEKmTmrM?rel=0" class="visible-desktop" frameborder="0" allowfullscreen></iframe>
+					<iframe src="http://www.youtube.com/embed/6lbEEKmTmrM?rel=0" class="hidden-desktop" frameborder="0" allowfullscreen></iframe>
             		<p>Plastics have been a tremendous help to our way of life in the world. It has been used in the production of homes, cars, offices, playgrounds, schools, toys, food and fluid containers. But despite how they have helped make our lives a little easier, they can pose a significant threat to the things the surfing community values greatly. </p>
 
 					<p>Plastic usage is among the biggest threats to Portugal’s coastline. Most plastic pollution on the beaches start out as litter on farmland and streets. When it rains, that plastic is flushed into storm drains or directly into streams, rivers and oceans. Once that plastic has entered the water, marine life can often mistake it for food. </p>
