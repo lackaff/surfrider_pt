@@ -76,9 +76,10 @@ Template Name: Kid-Zone
 		<li>Help cleaning beaches so your can family safely have fun at the beach.</li>
 	</ul>
 						</div><!-- end of span 6-->
-						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" />
-						<a class="btn btn-large btn-success" id="activitypack" href="<?php echo get_template_directory_uri(); ?>/img/SurfriderActivtiyPack.pdf">Download your Activity Pack!</a>
-						<p class="span3" >Fun games and activities for kids!</p>						
+						<div class="span3">
+						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" />
+						<a  class=" btn btn-large btn-success" id="activitypack" href="<?php echo get_template_directory_uri(); ?>/img/SurfriderActivtiyPack.pdf">Activity Pack!</a>
+						<p id="Apack">Download your very own activity pack! It's filled with fun games and activities for kids!</p>				</div>		
 
 						</div> <!-- end of row -->  
 					</div>
@@ -147,7 +148,7 @@ Template Name: Kid-Zone
                    
                     <h2>Become a Protector of the Coast</h2>
 						<p>Many of Surfrider’s volunteers devoted caretakers of the beach are under the age of 18 years old. In order to protect the identity of children, a child’s membership is possible to obtain through an associated organization or club at your school.</p>
-<p>If children are not able to become a member through their school, there are still things they can do to help Surfrider. Visit the Take Action section of the <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a> to find out how.</p>
+<p>If children are not able to become a member through their school, there are still things they can do to help Surfrider. Visit the Take Action section of the <a href="<?php bloginfo('url'); ?>/membership/" >Kids' Zone</a> to find out how.</p>
 
 
 						</div><!-- end of span 6-->
@@ -290,7 +291,7 @@ Template Name: Kid-Zone
     <div class="span10 offset1">
 
 			<p>Many of Surfrider’s volunteers devoted caretakers of the beach are under the age of 18 years old. In order to protect the identity of children, a child’s membership is possible to obtain through an associated organization or club at your school.</p>
-<p>If children are not able to become a member through their school, there are still things they can do to help Surfrider. Visit the Take Action section of the <a href="<?php bloginfo('url'); ?>/kid-zone/" >Kids' Zone</a> to find out how.</p>	
+<p>If children are not able to become a member through their school, there are still things they can do to help Surfrider. Visit the Take Action section of the <a href="<?php bloginfo('url'); ?>/membership/" >Kids' Zone</a> to find out how.</p>	
 
 </div>
 </div>

@@ -70,7 +70,7 @@ Template Name: Volunteer
            </div> <!-- end of span 10 offset 1 -->   
            
          <div class="span5 quotes offset1 clearfix">
-							<img src="<?php echo get_template_directory_uri(); ?>/img/bruno.jpg" class="quotepic">
+							<img src="<?php echo get_template_directory_uri(); ?>/img/brunolisboa.jpg" class="quotepic">
 							<p>"Most people live from tourism or fishing, and in a certain way we all depend on these natural resources that we have here, especially the ocean."</p>
 							<small class="pull-right"><cite class="pull-right" title="Source Title">-Bruno Lisboa</cite></small></br>
 							<a class="pull-right" href="http://youtu.be/y1ImqN1A81o" target="_blank">Watch the interview</a>

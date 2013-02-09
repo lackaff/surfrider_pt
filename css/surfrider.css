@@ -603,6 +603,7 @@ padding:5px 20px;
 } 
 
 @media (max-width: 480px) {
+#langSwitch a{color:#003366; margin-left:-30px;}
 	body{padding:0px;margin:0px;width:100%;}
 	.row{padding-left:20px;padding-right:20px;}
 	
@@ -691,7 +692,7 @@ padding:5px 20px;
 		}
 	footer p{text-align:center;}
 	.socialthumb{max-width:45px;}
-	#socialdiv{width:243px;margin-left: 60px;float:left;}
+	#socialdiv{width:203px;margin-left: 78px;float:left;}
 	#footerlogo{margin-left:115px;}
 	#menubtn{margin-top:10px; margin-right:10px;}
 	.KZlabels{margin-left:100px;margin-top:-25px;
@@ -784,3 +785,5 @@ font-style:italic;font-size:16px;line-height:25px;}
 
 #activitypack{margin-top:15px; margin-left:30px;}
 
+
+#Apack{margin-left:30px;font-size:12px;}

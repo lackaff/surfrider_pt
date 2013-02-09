@@ -66,6 +66,7 @@ Template Name: About
 <div class="span10">
 <iframe width="560" height="315" src="http://www.youtube.com/embed/Scy3M8cJGiw" frameborder="0" allowfullscreen></iframe></div>
 </div>
+<br />
 <div class="row">
 <div class="span5">
 
@@ -112,7 +113,7 @@ Template Name: About
 				<div id="aboutTwo" class="accordion-body collapse">
 					<div class="accordion-inner">
 				<h3> Our Staff</h3>
-					<p>While each of our staff members have a job outside of Surfrider, we take our jobs very seriously as keepers of one of Portugal’s greatest treasures. We love the Ericeira community and surfing. With the combined help of our staff, representatives and members and volunteers like you, we can help combat pollution of Ericeira’s beaches and waters. </p>
+					<p>While each of our staff members have a job outside of Surfrider, we take our jobs very seriously as keepers of one of Portugal’s greatest treasures. We love the Ericeira community and surfing. With the combined help of our staff, representatives, members and volunteers like you, we can help combat pollution of Ericeira’s beaches and waters. </p>
 
 <p>Click through each of the sections below to learn more about the staff  and representatives that make up Surfrider. If you have a beach issue you would like to report, find a representative for the beach you are referring to and let them know what’s going on with the contact information provided. </p>
 	
@@ -157,7 +158,7 @@ Template Name: About
 						<ul class="span4">
 							<li id="membername">Bruno Andrade </li>
 							<li id="membertitle">Treasurer</li>
-							<li id="memberp">Bruno opened his own business and became manager of Ericeira’s own <a href="http://www.amarhostel.com" target="_blank">Amar Hostel and Suites</a>. Bruno loves to surf at popular areas such as Sao Juliao and Pedra Branca.</li>
+							<li id="memberp">Bruno opened his own business and became manager of Ericeira’s own <a href="http://www.amarhostel.com" target="_blank">Amar Hostel and Suites</a>. Bruno loves to surf at popular areas such as São Julião and Pedra Branca.</li>
 	
 						</ul>
 						</div>

@@ -139,7 +139,12 @@ Template Name: Problem
 			<div class="accordion-inner">
 					<iframe width="560" height="315" src="http://www.youtube.com/embed/6lbEEKmTmrM?rel=0" class="visible-desktop" frameborder="0" allowfullscreen></iframe>
 					<iframe src="http://www.youtube.com/embed/6lbEEKmTmrM?rel=0" class="hidden-desktop" frameborder="0" allowfullscreen></iframe>
+<<<<<<< HEAD
             		<p>O plástico tem sido extremamente útil para o nosso estilo de vida e o mundo em geral. É usado na produção de casas, carros, escritórios, parques infantis, escolas, brinquedos, recipientes de produtos alimentares e líquidos, etc. No entanto, apesar de ajudar a facilitar as nossas vidas, o plástico representa uma ameaça substancial para muitos dos aspetos que a comunidade do surf tanto valoriza.</p>
+=======
+					<br />
+            		<p>Plastics have been a tremendous help to our way of life in the world. It has been used in the production of homes, cars, offices, playgrounds, schools, toys, food and fluid containers. But despite how they have helped make our lives a little easier, they can pose a significant threat to the things the surfing community values greatly. </p>
+>>>>>>> 8609fefa77f78f8640baefe95b03663ddd02e99f
 
 					<p>O uso do plástico é uma das maiores ameaças que assolam a costa portuguesa. A maioria do plástico que polui as nossas praias começa como lixo em terrenos agrícolas, em praias ou nas ruas. Quando chove, esse plástico é escoado para as sarjetas juntamente com as águas pluviais ou diretamente para os cursos de água, rios e oceanos. Quando esse plástico chega ao mar, a fauna marinha confunde-o frequentemente com alimento e ingere-o. </p>
 
