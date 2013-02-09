@@ -76,9 +76,10 @@ Template Name: Kid-Zone
 		<li>Help cleaning beaches so your can family safely have fun at the beach.</li>
 	</ul>
 						</div><!-- end of span 6-->
-						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" class="span3" />
-						<a class="btn btn-large btn-success" id="activitypack" href="<?php echo get_template_directory_uri(); ?>/img/SurfriderActivtiyPack.pdf">Download your Activity Pack!</a>
-						<p class="span3" >Fun games and activities for kids!</p>						
+						<div class="span3">
+						<img src="<?php echo get_template_directory_uri(); ?>/img/KZaboutside.png" />
+						<a  class=" btn btn-large btn-success" id="activitypack" href="<?php echo get_template_directory_uri(); ?>/img/SurfriderActivtiyPack.pdf">Activity Pack!</a>
+						<p id="Apack">Download your very own activity pack! It's filled with fun games and activities for kids!</p>				</div>		
 
 						</div> <!-- end of row -->  
 					</div>
